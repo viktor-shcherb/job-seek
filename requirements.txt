@@ -1,0 +1,13 @@
+scipy
+numpy
+pillow
+certifi
+aiohttp
+httpx
+beautifulsoup4
+requests
+streamlit
+pydantic
+brotlicffi
+playwright
+resvg_py
