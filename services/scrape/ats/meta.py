@@ -88,7 +88,7 @@ class MetaCareersAdapter:
             # Accept cookies quickly if shown again
             await _accept_cookies(page, first_time=False)
 
-            # 🔑 NEW: give the SPA time to actually render the results before scraping
+            # give the SPA time to actually render the results before scraping
             await _ensure_results_ready(page, nav_timeout_ms)
 
             # Collect URLs across pagination

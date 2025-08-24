@@ -125,6 +125,7 @@ async def run_pages_worker(cfg: WorkerConfig) -> None:
 
     async def _task(jf: Path, jb: JobBoard, now: datetime):
         async with sem:
+            print(f"[{now.isoformat()}] scraping {jb.title}")
             path, updated, err, n = await _scrape_one(jf, jb, cfg, now=now)
             if err:
                 print(f"[{now.isoformat()}] ERROR scraping {updated.title}: {err!r}")

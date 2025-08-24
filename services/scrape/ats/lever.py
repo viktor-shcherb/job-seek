@@ -1,145 +1,131 @@
-# services/scrape/ats/lever.py
 from __future__ import annotations
 
 import re
-from typing import List, Optional, Dict, Any
+from typing import List, Iterable, Tuple
 from urllib.parse import urlparse, parse_qs
+import httpx
 
 from data.model import Job
-from ..http_client import get_http
-from ..url import canonical_job_url
-
-_LEVER_HOST_RE = re.compile(r"(?:^|\.)jobs\.lever\.co$", re.I)
 
 
-def _as_list(v: Any) -> List[str]:
-    if v is None:
-        return []
-    if isinstance(v, list):
-        return [str(x) for x in v if x is not None]
-    return [str(v)]
+_LEVER_HOST_RE = re.compile(r"^(?:www\.)?jobs(?:\.eu)?\.lever\.co(?::\d+)?$", re.IGNORECASE)
+_ALLOWED_FILTERS = {"location", "department", "team", "commitment", "level"}
 
+def _api_host_for_jobs_host(netloc: str) -> str:
+    netloc = netloc.lower()
+    if netloc.endswith("jobs.eu.lever.co"):
+        return "api.eu.lever.co"
+    return "api.lever.co"
 
-def _lower_nonempty(values: List[str]) -> List[str]:
-    return [s.strip().lower() for s in values if isinstance(s, str) and s.strip()]
-
-
-def _extract_filters(url: str) -> Dict[str, List[str]]:
-    """Normalize known query filters from the Lever hosted page URL."""
-    qs = parse_qs(urlparse(url).query, keep_blank_values=True)
-    def vals(*keys: str) -> List[str]:
-        out: List[str] = []
-        for k in keys:
-            out.extend(qs.get(k, []))
-        return _lower_nonempty(out)
-
-    return {
-        "locations": vals("location", "locations"),
-        "departments": vals("department", "team"),
-        "commitments": vals("commitment", "employment_type", "type"),
-        "search": vals("search", "query", "q"),
-        # some companies encode workplace style in categories/workplaceType
-        "workplace": vals("workplaceType", "workplace", "workplace_type"),
-    }
-
-
-def _match_any(haystacks: List[str], needles: List[str]) -> bool:
-    """True iff any needle (substring, case-insensitive) matches any haystack."""
-    if not needles:
-        return True
-    joined = " | ".join(haystacks).lower()
-    return any(n in joined for n in needles)
-
-
-def _posting_matches_filters(p: Dict[str, Any], f: Dict[str, List[str]]) -> bool:
-    title = (p.get("text") or p.get("title") or "")  # title text
-    cats = p.get("categories") or {}
-
-    loc_vals = _as_list(cats.get("location"))
-    team_vals = _as_list(cats.get("team") or cats.get("department"))
-    com_vals = _as_list(cats.get("commitment"))
-    wp_vals  = _as_list(p.get("workplaceType") or cats.get("workplaceType"))
-
-    # every non-empty filter group must match
-    if not _match_any([title], f["search"]):
-        return False
-    if not _match_any(loc_vals, f["locations"]):
-        return False
-    if not _match_any(team_vals, f["departments"]):
-        return False
-    if not _match_any(com_vals, f["commitments"]):
-        return False
-    if not _match_any(wp_vals, f["workplace"]):
-        return False
-    return True
-
+def _collect_filter_params(query: dict) -> Iterable[Tuple[str, str]]:
+    # parse_qs yields lists for each key; keep multiple values (Lever ORs them).
+    for key in _ALLOWED_FILTERS:
+        for val in query.get(key, []):
+            if val:
+                yield (key, val)
 
 class LeverAdapter:
     pattern = _LEVER_HOST_RE
 
     @staticmethod
     def matches(url: str) -> bool:
+        from urllib.parse import urlparse
         return bool(_LEVER_HOST_RE.search(urlparse(url).netloc))
-
-    @staticmethod
-    def _company_from_url(url: str) -> Optional[str]:
-        p = urlparse(url)
-        segs = [s for s in p.path.split("/") if s]
-        return segs[0] if segs else None
 
     @staticmethod
     async def scrape(url: str, *, timeout: int = 20, max_pages: int = 5) -> List[Job]:
         """
-        Lever JSON (most boards):
-          1) https://jobs.lever.co/{company}.json
-          2) fallback: https://api.lever.co/v0/postings/{company}?mode=json
+        Scrape Lever postings from a Lever-hosted jobs URL (list or detail),
+        honoring UI-provided filters in the query string.
 
-        We apply client-side filtering to respect query params from the hosted page URL
-        (e.g., ?location=...&department=...).
+        Returns: List[Job] with title/link populated.
         """
-        company = LeverAdapter._company_from_url(url)
-        if not company:
+        parsed = urlparse(url)
+        netloc = parsed.netloc
+        path_parts = [p for p in parsed.path.split("/") if p]
+        if not path_parts:
             return []
 
-        filters = _extract_filters(url)
+        site = path_parts[0]
+        posting_id = path_parts[1] if len(path_parts) > 1 else None
+
+        query = parse_qs(parsed.query, keep_blank_values=False)
+        base_host = _api_host_for_jobs_host(netloc)
+        alt_host = "api.lever.co" if base_host.startswith("api.eu.") else "api.eu.lever.co"
+
+        headers = {
+            "Accept": "application/json",
+            # Be explicit; avoid caches/ETag complications.
+            "Cache-Control": "no-cache",
+        }
+
         jobs: List[Job] = []
+        async with httpx.AsyncClient(timeout=timeout, headers=headers) as client:
+            # If the URL points at a specific posting, fetch just that posting.
+            if posting_id:
+                for host in (base_host, alt_host):
+                    api_url = f"https://{host}/v0/postings/{site}/{posting_id}"
+                    try:
+                        resp = await client.get(api_url)
+                        if resp.status_code == 404:
+                            continue
+                        resp.raise_for_status()
+                        data = resp.json()
+                        title = data.get("text")
+                        link = data.get("hostedUrl")
+                        if title and link:
+                            jobs.append(Job(title=title.strip(), link=link))
+                        return jobs
+                    except httpx.HTTPError:
+                        continue
+                return jobs  # empty if not found
 
-        http = await get_http()
+            # Otherwise fetch a paginated listing, passing through supported filters.
+            common_params: list[tuple[str, str]] = [("mode", "json")]
+            common_params.extend(_collect_filter_params(query))
 
-        # Try the hosted JSON first
-        try:
-            data = await http.fetch_json(f"https://jobs.lever.co/{company}.json")
-            filtered = [p for p in data if _posting_matches_filters(p, filters)]
-            for p in filtered:
-                title = (p.get("text") or p.get("title") or "").strip()
-                lever_url = (p.get("hostedUrl") or p.get("applyUrl") or p.get("url") or "").strip()
-                if not title or not lever_url:
-                    continue
-                jobs.append(Job(title=title, link=canonical_job_url(lever_url)))
-            if jobs:
-                return jobs
-        except Exception:
-            jobs.clear()
+            limit = 50
+            skip = 0
+            pages_fetched = 0
+            host_cycle = (base_host, alt_host)
+            host_idx = 0
 
-        # Fallback to public API
-        try:
-            data = await http.fetch_json(
-                f"https://api.lever.co/v0/postings/{company}",
-                params={"mode": "json"},
-            )
-            filtered = [p for p in data if _posting_matches_filters(p, filters)]
-            for p in filtered:
-                title = (p.get("text") or p.get("title") or "").strip()
-                lever_url = (
-                    p.get("hostedUrl")
-                    or p.get("applyUrl")
-                    or (p.get("urls") or {}).get("show")
-                    or ""
-                ).strip()
-                if not title or not lever_url:
-                    continue
-                jobs.append(Job(title=title, link=canonical_job_url(lever_url)))
-        except Exception:
-            pass
+            while pages_fetched < max_pages:
+                host = host_cycle[host_idx]
+                params = common_params + [("skip", str(skip)), ("limit", str(limit))]
+                api_url = f"https://{host}/v0/postings/{site}"
+                try:
+                    resp = await client.get(api_url, params=params)
+                    if resp.status_code == 404 and host_idx == 0:
+                        # Try the other region once, then continue with it.
+                        host_idx = 1
+                        continue
+                    resp.raise_for_status()
+                    data = resp.json()
+
+                    # The standard response is a list of postings.
+                    postings = data.get("data") if isinstance(data, dict) else data
+                    if not postings:
+                        break
+
+                    for p in postings:
+                        title = p.get("text")
+                        link = p.get("hostedUrl") or p.get("applyUrl")
+                        if not link and p.get("id"):
+                            link = f"https://jobs.lever.co/{site}/{p['id']}"
+                        if title and link:
+                            jobs.append(Job(title=title.strip(), link=link))
+
+                    pages_fetched += 1
+                    if len(postings) < limit:
+                        break
+                    skip += limit
+                except httpx.HTTPError:
+                    # If first host failed for some reason, flip once and retry this page;
+                    # otherwise give up on further pages.
+                    if host_idx == 0:
+                        host_idx = 1
+                        continue
+                    break
 
         return jobs

@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 import streamlit as st
 
-from data.model import load_pages, slugify
+from data.model import load_pages, slugify, JobBoard
 from ui.page_renderer import run_page  # imported so the generated stubs can import it
 
 
@@ -48,10 +48,11 @@ def get_active_pages() -> list[st.Page]:
     # Then one page per JSON config
     for script in sorted(GEN_PAGES_DIR.glob("*.py")):
         slug = script.stem
+        page = JobBoard.from_file(PAGES_DIR / f"{slug}.json")
         pages.append(
             st.Page(
                 str(script),
-                title=slug.replace("-", " ").title(),
+                title=page.title,
                 icon=":material/work:",
                 url_path=slug
             )
