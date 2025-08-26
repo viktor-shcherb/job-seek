@@ -16,6 +16,8 @@ _HOST_RE = re.compile(r"(^|\.)(?:wd\d+\.)?myworkdayjobs\.com$", re.I)
 
 class WorkdayAdapter:
     pattern = _HOST_RE
+    renders = False
+    name = "workday"
 
     @staticmethod
     def matches(url: str) -> bool:

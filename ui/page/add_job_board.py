@@ -1,11 +1,12 @@
 from __future__ import annotations
+
 from pathlib import Path
 import streamlit as st
 from data.model import JobBoard, slugify, load_pages  # <- import load_pages
 from services.image.logo_preprocess import preprocess_logo
 
-PAGES_DIR = Path(__file__).resolve().parents[1] / "data" / "pages"
-PAGES_SOURCE_DIR = Path(__file__).resolve().parents[1] / "page" / "generated"
+PAGES_DIR = Path(__file__).resolve().parents[2] / "data" / "pages"
+PAGES_SOURCE_DIR = Path(__file__).resolve().parents[2] / "ui" / "page" / "generated"
 
 
 def _delete_page(slug: str):
@@ -17,8 +18,6 @@ def _delete_page(slug: str):
 
 @st.fragment()
 def render_add_page_form():
-    st.set_page_config(page_title="Job Seek")
-
     with st.form("add_page_form", clear_on_submit=True):
         title_col, icon_col = st.columns(2)
         with title_col:
@@ -98,3 +97,8 @@ def render_add_page_form():
                         ):
                         _delete_page(file_path.stem)
                         st.rerun(scope="app")
+
+
+if __name__ == "__main__":
+    st.set_page_config(page_title="Job Seek", layout="centered")
+    render_add_page_form()

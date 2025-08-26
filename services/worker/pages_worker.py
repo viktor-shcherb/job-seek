@@ -6,10 +6,11 @@ import random
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from time import perf_counter
 from typing import Awaitable, Callable, Iterable, List, Optional, Tuple
 
 from data.model import Job, JobBoard, load_pages
-from services.scrape import scrape_jobs  # works whether sync or async
+from services.scrape import scrape_jobs_with_meta  # works whether sync or async
 
 
 @dataclass(frozen=True)
@@ -84,23 +85,51 @@ async def _scrape_one(
     now = now or _now_utc()
     num = 0
     err: Optional[Exception] = None
+    t0 = perf_counter()
+
     try:
-        jobs: List[Job] = await _maybe_async_call(scrape_jobs, str(jb.website_url))
+        jobs, meta = await _maybe_async_call(scrape_jobs_with_meta, str(jb.website_url))
         num = len(jobs)
-        jb.apply_scrape(jobs, scraped_at=now)
-        jb.next_scrape_at = compute_next_scrape_at(
-            last_scraped=jb.last_scraped, now=now,
-            base=cfg.base_frequency, jitter=cfg.jitter, min_delay=cfg.min_delay
+
+        jb.apply_scrape(
+            jobs,
+            scraped_at=now,
+            ok=True,
+            duration_ms=int((perf_counter() - t0) * 1000),
+            renderer_used=meta.renderer_used,
+            error_kind=None,
         )
+
+        jb.next_scrape_at = compute_next_scrape_at(
+            last_scraped=jb.last_scraped,
+            now=now,
+            base=cfg.base_frequency,
+            jitter=cfg.jitter,
+            min_delay=cfg.min_delay,
+        )
+
     except Exception as e:
         err = e
-        # schedule a backoff retry
-        base = cfg.error_backoff
-        jitter = cfg.error_jitter
-        jb.next_scrape_at = compute_next_scrape_at(
-            last_scraped=now, now=now,
-            base=base, jitter=jitter, min_delay=cfg.min_delay
+
+        # Record a failed attempt so health/attempts update, but content isn't nuked.
+        jb.apply_scrape(
+            [],
+            scraped_at=now,
+            ok=False,
+            duration_ms=int((perf_counter() - t0) * 1000),
+            renderer_used=None,
+            error_kind=type(e).__name__,
         )
+
+        # Schedule a backoff retry
+        jb.next_scrape_at = compute_next_scrape_at(
+            last_scraped=now,
+            now=now,
+            base=cfg.error_backoff,
+            jitter=cfg.error_jitter,
+            min_delay=cfg.min_delay,
+        )
+
     return jf, jb, err, num
 
 

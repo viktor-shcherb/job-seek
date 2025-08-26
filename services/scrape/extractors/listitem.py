@@ -40,9 +40,11 @@ def extract_listitem_jobs(soup: BeautifulSoup, base_url: str) -> List[Job]:
     candidate_lists = [l for l in soup.find_all(["ul", "ol"]) if list_is_job_list(l)]
 
     li_iterables = (
-        [li for L in candidate_lists for li in L.find_all("li", recursive=True)]
-        if candidate_lists else soup.find_all("li")
+        [el for L in candidate_lists for el in L.select('li, div[role="listitem"]')]
+        if candidate_lists
+        else soup.select('li, div[role="listitem"]')
     )
+    print(f"[listitem] found {len(li_iterables)} list items")
 
     for li in li_iterables:
         chosen_a = li.select_one('a[data-automation-id="jobTitle"][href]')

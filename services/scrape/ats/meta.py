@@ -21,9 +21,11 @@ from playwright.async_api import (
 META_DEBUG = os.getenv("META_DEBUG", "").lower() in ("1", "true", "yes", "y")
 META_HEADLESS = os.getenv("META_HEADLESS", "").lower() not in ("0", "false", "no", "n")  # default: headless True
 
+
 def _dbg(msg: str) -> None:
     if META_DEBUG:
         print(f"[metacareers] {msg}", file=sys.stderr)
+
 
 # Meta Careers uses both domains
 _META_HOST_RE = re.compile(
@@ -34,6 +36,8 @@ _META_HOST_RE = re.compile(
 
 class MetaCareersAdapter:
     pattern = _META_HOST_RE
+    renders = True
+    name = "meta"
 
     @staticmethod
     def matches(url: str) -> bool:
@@ -104,10 +108,7 @@ class MetaCareersAdapter:
             for idx, u in enumerate(all_urls, 1):
                 title = await _resolve_title_from_detail(context, u, nav_timeout_ms)
                 _dbg(f"detail[{idx}/{len(all_urls)}] title={title!r} url={u}")
-                try:
-                    jobs.append(Job(title=title, link=u))
-                except TypeError:
-                    jobs.append(Job(title=title, url=u))
+                jobs.append(Job(title=title, link=u))
 
             await context.close()
             await browser.close()

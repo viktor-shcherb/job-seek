@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import re
-from urllib.parse import urljoin, urlparse, parse_qsl, urlunparse, urlencode
+from urllib.parse import urljoin, urlparse, parse_qsl, urlunparse, urlencode, parse_qs, quote
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -53,20 +53,24 @@ def canonical_job_url(url: str) -> str:
     return urlunparse((p.scheme, p.netloc, path, p.params, urlencode(q, doseq=True), p.fragment))
 
 
-def normalize_page_identity(url: str) -> str:
-    """
-    Normalize a listing page URL for the purpose of de-duplication:
-      - Remove page=1, start=0, offset=0
-      - Keep a stable ordering of remaining query params
-    """
-    p = urlparse(url)
-    q = dict(parse_qsl(p.query, keep_blank_values=True))
+_PAGE_ONE_KEYS = {"page", "pg", "p", "pageNumber"}
+_ZERO_OFFSET_KEYS = {"start", "offset", "from", "startrow"}
 
-    if q.get("page") == "1":
-        q.pop("page", None)
-    for k in ("start", "offset", "from", "startrow"):
-        if str(q.get(k)) in ("0",):
+
+def normalize_page_identity(url: str) -> str:
+    p = urlparse(url)
+    q = parse_qs(p.query, keep_blank_values=True)  # preserves multi-values
+
+    # Drop page=1 / pg=1, etc.
+    for k in list(q):
+        if k in _PAGE_ONE_KEYS and q[k] and q[k][-1] == "1":
             q.pop(k, None)
 
-    q_items = sorted(q.items())
-    return urlunparse((p.scheme, p.netloc, p.path, p.params, urlencode(q_items, doseq=True), p.fragment))
+    # Drop offset=0 variants
+    for k in list(q):
+        if k in _ZERO_OFFSET_KEYS and q[k] and q[k][-1] == "0":
+            q.pop(k, None)
+
+    # Encode with %20 for spaces
+    query = urlencode({k: q[k] for k in sorted(q)}, doseq=True, quote_via=quote)
+    return urlunparse((p.scheme, p.netloc, p.path, p.params, query, p.fragment))

@@ -9,7 +9,7 @@ from services.image.logo_preprocess import preprocess_logo
 PAGES_DIR = Path(__file__).resolve().parents[1] / "data" / "pages"
 
 def run_page(slug: str):
-    st.set_page_config(page_title="Job Seek")
+    st.set_page_config(page_title="Job Seek", layout="centered")
 
     # Find the page by slug (derived from its title)
     for _, page in load_pages(PAGES_DIR):

@@ -9,8 +9,9 @@ from ui.page_renderer import run_page  # imported so the generated stubs can imp
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGES_DIR = ROOT / "data" / "pages"
-GEN_PAGES_DIR = ROOT / "page" / "generated"
-ADD_PAGE_SCRIPT = ROOT / "page" / "add_job_board.py"
+GEN_PAGES_DIR = ROOT / "ui" / "page" / "generated"
+ADD_PAGE_SCRIPT = ROOT / "ui" / "page" / "add_job_board.py"
+SEEK_PAGE_SCRIPT = ROOT / "ui" / "page" / "job_seek.py"
 
 
 def _ensure_generated_page_scripts():
@@ -42,11 +43,20 @@ def get_active_pages() -> list[st.Page]:
             title="Add new job board",
             icon=":material/add_circle:",
             url_path="add"
+        ),
+        st.Page(
+            str(SEEK_PAGE_SCRIPT),
+            title="Job seek",
+            icon=":material/search:",
+            url_path="seek"
         )
     ]
 
     # Then one page per JSON config
     for script in sorted(GEN_PAGES_DIR.glob("*.py")):
+        if script.suffix != ".py":
+            continue
+
         slug = script.stem
         page = JobBoard.from_file(PAGES_DIR / f"{slug}.json")
         pages.append(

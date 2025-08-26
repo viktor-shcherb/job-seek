@@ -2,13 +2,15 @@
 from __future__ import annotations
 
 import re
-from typing import List, Optional, Protocol
+from typing import List, Optional, Protocol, Tuple, Type
 
 from data.model import Job
 from ..url import canonical_job_url
 
 class ATSAdapter(Protocol):
     pattern: re.Pattern[str]
+    name: str
+    renders: bool
 
     @staticmethod
     def matches(url: str) -> bool: ...
@@ -20,12 +22,14 @@ from .workday import WorkdayAdapter  # noqa: E402
 from .greenhouse import GreenhouseAdapter  # noqa: E402
 from .lever import LeverAdapter  # noqa: E402
 from .meta import MetaCareersAdapter  # <-- NEW
+from .microsoft import MicrosoftAdapter
 
-_ADAPTERS: List[ATSAdapter] = [
+_ADAPTERS: List[Type[ATSAdapter]] = [
     WorkdayAdapter,
     GreenhouseAdapter,
     LeverAdapter,
     MetaCareersAdapter,
+    MicrosoftAdapter
 ]
 
 def _first_matching_adapter(url: str) -> Optional[ATSAdapter]:
@@ -39,7 +43,7 @@ async def scrape_via_ats_if_supported(
     *,
     timeout: int = 20,
     max_pages: int = 5,
-) -> Optional[List[Job]]:
+) -> Optional[Tuple[List[Job], str, bool]]:
     adapter = _first_matching_adapter(website_url)
     if not adapter:
         return None
@@ -53,4 +57,4 @@ async def scrape_via_ats_if_supported(
             continue
         seen.add(link)
         out.append(Job(title=j.title, link=link))
-    return out
+    return out, adapter.name, adapter.renders

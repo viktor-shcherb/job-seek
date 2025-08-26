@@ -26,6 +26,8 @@ def _collect_filter_params(query: dict) -> Iterable[Tuple[str, str]]:
 
 class LeverAdapter:
     pattern = _LEVER_HOST_RE
+    renders = False
+    name = "lever"
 
     @staticmethod
     def matches(url: str) -> bool:
