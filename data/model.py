@@ -75,24 +75,30 @@ class Job(BaseModel):
     def is_active(self) -> bool:
         return bool(self.history) and self.history[-1].status == "active"
 
-    def active_hours(self) -> float:
-        # If not currently active, latest active streak length is 0
-        if not self.is_active():
-            return 0.0
+    def age(self) -> timedelta:
+        """
+        Time since this job was first observed active (i.e., first scrape event).
+        Returns timedelta(0) if no history.
+        """
+        if not self.history:
+            return timedelta(0)
 
-        # Walk backwards until the most recent 'inactive' (the streak boundary)
-        start: Optional[datetime] = None
-        for st in reversed(self.history):
-            if st.status == "inactive":
+        # Prefer the first 'active' timestamp; if none, fall back to first event.
+        first_active_at = None
+        for st in self.history:
+            if st.status == "active":
+                first_active_at = st.at
                 break
-            start = st.at  # earliest 'active' in the trailing active block
+        anchor = first_active_at if first_active_at is not None else self.history[0].at
 
-        if start is None:
-            return 0.0  # defensive
+        dt = now_utc() - anchor
+        return dt if dt.total_seconds() > 0 else timedelta(0)
 
-        # Compute hours from the streak start until now (UTC)
-        delta = now_utc() - start
-        return max(0.0, delta.total_seconds() / 3600.0)
+    def is_new(self, threshold: timedelta = timedelta(hours=24)) -> bool:
+        """
+        New if age <= threshold (default 24h).
+        """
+        return self.age() <= threshold
 
     def mark(self, new_status: Literal["active", "inactive"], at: Optional[datetime] = None) -> None:
         """

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 import streamlit as st
 from data.model import load_pages, slugify, JobBoard
@@ -77,34 +77,43 @@ def _render_page(slug: str):
                 default=["active"]
             )
 
-            # Sort: active jobs first; among active, least active_hours() first.
+            # Sort: active jobs first; among active, least age() first.
             sorted_jobs = sorted(
                 page.content,
-                key=lambda j: (not j.is_active(), j.active_hours() if j.is_active() else float("inf"))
+                key=lambda j: (not j.is_active(), j.age() if j.is_active() else float("inf"))
             )
 
             for job_idx, job in enumerate(sorted_jobs):
                 job_id = f"job-{slug}-{job_idx}"
 
                 badges = []
-                hours = job.active_hours()
+
+                # Age badge (always shown)
+                age_td = job.age()
+                age_hours = age_td.total_seconds() / 3600.0
+                if age_hours < 48:
+                    age_str = f"{age_hours:.1f}h"
+                else:
+                    age_days = age_hours / 24.0
+                    age_str = f"{age_days:.1f}d"
+                badges.append(f":violet-badge[{age_str}]")
 
                 if job.is_active():
                     badges.append(":red-badge[active]")
                     badge_help = "Included in the latest scrape."
-                    if hours < 24:
+
+                    # 'new' by default is <48h
+                    if job.is_new(threshold=timedelta(hours=48)):
                         badges.append(":blue-badge[new]")
-                        badge_help = f"First scraped {hours:.1f}h ago."
-                    elif hours >= 24 * 7:
+                        badge_help = f"First scraped {age_str} ago."
+                    elif age_hours >= 24 * 7:
                         if "new" in filter_criteria:
                             continue
-
-                        badges.append(":blue-badge[old]")  # keep blue for 'old' per your earlier spec
-                        badge_help = f"First scraped {hours / 24:.1f} days ago."
+                        badges.append(":blue-badge[old]")  # keep blue for 'old' per earlier spec
+                        badge_help = f"First scraped {age_hours / 24.0:.1f} days ago."
                 else:
                     if "active" in filter_criteria:
                         continue
-
                     badges.append(":gray-badge[inactive]")
                     badge_help = "Not included in the latest scrape."
 

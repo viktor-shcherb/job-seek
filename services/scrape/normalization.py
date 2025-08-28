@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 BAD_PATH_SEGMENTS = {
     "saved", "alerts", "recommendations", "dashboard", "signin", "sign-in",
     "login", "help", "support", "about", "privacy", "terms", "eeo",
-    "how-we-hire", "legal",
+    "how-we-hire", "legal", "saved jobs", "saved-jobs"
 }
 
 _UUID_RE = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$", re.I)
@@ -45,6 +45,9 @@ JOB_DETAIL_PATTERNS = [
 
     # Req ID slug at end of path
     re.compile(r"(^|/)job/[^/]+/[^/]+_(?:JR|R|REQ)[-_]?\d{4,}(?:-\d+)?(?:/|$)", re.I),
+
+    # Oracle Cloud Recruiting (careers.oracle.com) job detail pages
+    re.compile(r"(^|/)(?:[a-z]{2}(?:-[a-z]{2})?/)?sites?/jobsearch/job/\d{4,}(?:/|$|\?)", re.I),
 
     # Workday cxs/wday canonical detail URL
     re.compile(r"(^|/)wday/(?:jobs|cxs)/[^/]+/[^/]+/job/[^/]+_(?:JR|R|REQ)[-_]?\d{4,}(?:-\d+)?(?:/|$)", re.I),

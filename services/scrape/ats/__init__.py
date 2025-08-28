@@ -18,18 +18,18 @@ class ATSAdapter(Protocol):
     async def scrape(url: str, *, timeout: int = 20, max_pages: int = 5) -> List[Job]: ...
 
 # --- concrete adapters ---
-from .workday import WorkdayAdapter  # noqa: E402
-from .greenhouse import GreenhouseAdapter  # noqa: E402
-from .lever import LeverAdapter  # noqa: E402
-from .meta import MetaCareersAdapter  # <-- NEW
+from .lever import LeverAdapter
+from .meta import MetaCareersAdapter
 from .microsoft import MicrosoftAdapter
+from .proton import ProtonAdapter
+from .workday import WorkdayAdapter
 
-_ADAPTERS: List[Type[ATSAdapter]] = [
-    WorkdayAdapter,
-    GreenhouseAdapter,
-    LeverAdapter,
-    MetaCareersAdapter,
-    MicrosoftAdapter
+_ADAPTERS: List[ATSAdapter] = [
+    LeverAdapter(),
+    MetaCareersAdapter(),
+    MicrosoftAdapter(),
+    ProtonAdapter(location_terms=["Geneva", "Switzerland", "Zurich"]),
+    WorkdayAdapter(),
 ]
 
 def _first_matching_adapter(url: str) -> Optional[ATSAdapter]:

@@ -1,111 +1,163 @@
-# services/scrape/ats/workday.py
 from __future__ import annotations
 
+import html
 import re
-from typing import Dict, List
-from urllib.parse import urljoin, urlparse, parse_qsl
+from typing import List, Optional
+from urllib.parse import urljoin, urlparse, urlunparse, parse_qs, urlencode, quote
+
+from bs4 import BeautifulSoup
 
 from data.model import Job
-from ..url import USER_AGENT, canonical_job_url
-from ..http_client import get_http
+from ..url import canonical_job_url, USER_AGENT
+from ..render_client import fetch_rendered_html
 
 
-_LOCALE_RE = re.compile(r"^[a-z]{2}-[A-Z]{2}$")
-_HOST_RE = re.compile(r"(^|\.)(?:wd\d+\.)?myworkdayjobs\.com$", re.I)
+# Hosts like:
+#   - <tenant>.wd5.myworkdayjobs.com
+#   - wd1.myworkdaysite.com
+_WORKDAY_HOST_RE = re.compile(
+    r"(?i)(?:^|\.)(?:[\w-]+\.wd\d+\.myworkdayjobs\.com|wd\d+\.myworkdaysite\.com)$"
+)
+
+# JR / R / REQ ids (optionally with -1 etc., and optional separator)
+_REQ_ID_RE = re.compile(r"\b((?:JR|R|REQ)[-_]?\d{4,8}(?:-\d+)?)\b", re.IGNORECASE)
+
+
+def _build_page_url(base_url: str, page: int) -> str:
+    """
+    Preserve all existing query parameters and set page=<page>.
+    """
+    p = urlparse(base_url)
+    q = parse_qs(p.query, keep_blank_values=True)
+    q["page"] = [str(page)]
+    query = urlencode({k: v for k, v in q.items()}, doseq=True, quote_via=quote)
+    return urlunparse((p.scheme, p.netloc, p.path, p.params, query, p.fragment))
+
+
+def _select_job_links(soup: BeautifulSoup):
+    # Workday job cards consistently include data-automation-id="jobTitle"
+    return soup.select('a[data-automation-id="jobTitle"][href]')
+
+
+def _extract_title(a) -> Optional[str]:
+    t = a.get_text(" ", strip=True)
+    return t or None
+
+
+def _extract_req_id(text: str) -> Optional[str]:
+    m = _REQ_ID_RE.search(text or "")
+    return m.group(1) if m else None
+
+
+def _to_details_url(abs_url: str) -> str:
+    """
+    Convert listing URL forms like:
+      /en-US/<app>/job/<Location>/Title_REQ?...  -->  /en-US/<app>/details/Title_REQ?...
+    If already a details URL, return as-is.
+    """
+    p = urlparse(abs_url)
+    segments = [s for s in p.path.split("/") if s != ""]  # keep order, drop empties for easier ops
+
+    # If already contains 'details', leave it
+    if "details" in segments:
+        return abs_url
+
+    # Replace 'job/<location>' with 'details'
+    try:
+        idx = segments.index("job")
+        if idx + 1 < len(segments):
+            new_segments = segments[:idx] + ["details"] + segments[idx + 2 :]
+            new_path = "/" + "/".join(new_segments)
+            return urlunparse((p.scheme, p.netloc, new_path, p.params, p.query, p.fragment))
+    except ValueError:
+        pass  # no 'job' segment; fall through
+
+    # Fallback: if no 'job' marker, just return original
+    return abs_url
 
 
 class WorkdayAdapter:
-    pattern = _HOST_RE
-    renders = False
-    name = "workday"
+    """
+    Generic adapter for Workday recruiting boards:
+
+      - myworkdayjobs.com (e.g., <tenant>.wd5.myworkdayjobs.com/SomeApp)
+      - myworkdaysite.com (e.g., wd1.myworkdaysite.com/en-US/recruiting/<org>/<tenant>/jobs)
+
+    It extracts job title + link from list pages and canonicalizes links to '/details/...'.
+    """
+    pattern = _WORKDAY_HOST_RE
+    name = "workday-generic"
+    renders = True  # Workday listings often hydrate client-side
 
     @staticmethod
     def matches(url: str) -> bool:
-        return bool(_HOST_RE.search(urlparse(url).netloc))
-
-    @staticmethod
-    def _site_parts(url: str) -> tuple[str | None, str | None, str | None]:
-        """
-        Return (host, tenant, career_site) or (None, None, None).
-        Examples:
-          - nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
-          - nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite
-          - myworkdayjobs.com/{tenant}/{careerSite}
-          - myworkdayjobs.com/{locale}/{tenant}/{careerSite}
-        """
         p = urlparse(url)
-        host = p.netloc
-        segs = [s for s in p.path.split("/") if s]
-
-        # tenant from subdomain like "nvidia.wd5.myworkdayjobs.com"
-        m = re.match(r"^([^.]+)\.wd\d+\.myworkdayjobs\.com$", host, flags=re.I)
-        tenant = m.group(1) if m else None
-
-        # locale + careerSite from path
-        i = 0
-        locale = segs[i] if (len(segs) > i and _LOCALE_RE.match(segs[i])) else None
-        if locale:
-            i += 1
-        if tenant:
-            career_site = segs[i] if len(segs) > i else None
-        else:
-            tenant = segs[i] if len(segs) > i else None
-            career_site = segs[i + 1] if len(segs) > i + 1 else None
-
-        if not (host and tenant and career_site):
-            return None, None, None
-        return host, tenant, career_site
+        host = (p.netloc or "").split(":")[0].lower()
+        return bool(_WORKDAY_HOST_RE.search(host))
 
     @staticmethod
     async def scrape(url: str, *, timeout: int = 20, max_pages: int = 5) -> List[Job]:
-        host, tenant, career_site = WorkdayAdapter._site_parts(url)
-        if not host:
-            return []
+        jobs: List[Job] = []
+        seen_req_ids: set[str] = set()
+        seen_links: set[str] = set()
 
-        endpoint = f"https://{host}/wday/cxs/{tenant}/{career_site}/jobs"
+        parsed = urlparse(url)
+        q = parse_qs(parsed.query)
+        has_page_param = "page" in q
+        try:
+            start_pg = int(q.get("page", ["1"])[0] or "1")
+        except Exception:
+            start_pg = 1
 
-        # Collect applied facets from the query string (repeatable)
-        q_pairs = parse_qsl(urlparse(url).query, keep_blank_values=True)
-        applied: Dict[str, List[str]] = {}
-        for k, v in q_pairs:
-            kl = k.lower()
-            if kl in {
-                "locations", "location", "locationhierarchy1", "locationhierarchy2",
-                "locationcity", "locationstate", "timetype", "workersubtype",
-                "jobfamilygroup", "jobfamily", "category",
-            } and v:
-                applied.setdefault(kl, []).append(v)
+        for i in range(max_pages):
+            pg = start_pg + i
+            page_url = url if (i == 0 and not has_page_param) else _build_page_url(url, pg)
 
-        headers_override = {"User-Agent": USER_AGENT, "Accept": "application/json", "Content-Type": "application/json"}
+            html_text = await fetch_rendered_html(
+                page_url,
+                timeout_ms=timeout * 1000,
+                wait_for='a[data-automation-id="jobTitle"][href]',
+                user_agent=USER_AGENT,
+            )
+            soup = BeautifulSoup(html_text, "html.parser")
+            links = _select_job_links(soup)
 
-        limit = 20
-        offset = 0
-        seen: Dict[str, Job] = {}
-
-        for _ in range(max_pages):
-            payload = {"appliedFacets": applied, "limit": limit, "offset": offset, "searchText": ""}
-            http = await get_http()
-            data = await http.post_json(endpoint, json=payload)
-            postings = data.get("jobPostings") or []
-            if not postings:
+            if not links:
                 break
 
-            for p in postings:
-                title = (p.get("title") or p.get("titleSimple") or "").strip()
-                path = (p.get("externalPath") or p.get("canonicalPositionUrl") or "").strip()
-                if not title or not path:
+            page_added = 0
+            for a in links:
+                raw_href = a.get("href")
+                if not raw_href:
                     continue
-                link = canonical_job_url(urljoin(f"https://{host}", path))
-                if link not in seen:
-                    seen[link] = Job(title=title, link=link)
 
-            total = data.get("total") or data.get("totalFound")
-            offset += limit
-            if total is not None:
-                try:
-                    if offset >= int(total):
-                        break
-                except Exception:
-                    pass
+                # Unescape &amp; and make absolute
+                abs_href = html.unescape(raw_href)
+                abs_url = abs_href if abs_href.startswith("http") else urljoin(page_url, abs_href)
 
-        return list(seen.values())
+                # Canonicalize to '/details/...'
+                details_url = _to_details_url(abs_url)
+                link = canonical_job_url(details_url)
+
+                title = _extract_title(a)
+                if not (title and link):
+                    continue
+
+                # Deduplicate by Req ID when available, else by link
+                rid = _extract_req_id(link) or _extract_req_id(title) or _extract_req_id(abs_url)
+                if rid and rid in seen_req_ids:
+                    continue
+                if not rid and link in seen_links:
+                    continue
+
+                jobs.append(Job(title=title, link=link))
+                if rid:
+                    seen_req_ids.add(rid)
+                else:
+                    seen_links.add(link)
+                page_added += 1
+
+            if page_added == 0:
+                break
+
+        return jobs
