@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
 from data.model import Job
-from .ats import scrape_via_ats_if_supported
+from .custom import scrape_via_ats_if_supported
 from .extractors import extract_all
 from .http_client import get_http
 from .pagination import discover_next_page_url
