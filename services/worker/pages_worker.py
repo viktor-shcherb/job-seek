@@ -91,6 +91,8 @@ async def _scrape_one(
         jobs, meta = await _maybe_async_call(scrape_jobs_with_meta, str(jb.website_url))
         num = len(jobs)
 
+        print(f"scraped {jb.title}: {num} jobs")
+
         jb.apply_scrape(
             jobs,
             scraped_at=now,

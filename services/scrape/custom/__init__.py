@@ -23,6 +23,9 @@ from .meta import MetaCareersAdapter
 from .microsoft import MicrosoftAdapter
 from .proton import ProtonAdapter
 from .workday import WorkdayAdapter
+from .join import JoinAdapter
+from .greenhouse import GreenhouseAdapter
+from .ashby import AshbyAdapter
 
 _ADAPTERS: List[ATSAdapter] = [
     LeverAdapter(),
@@ -30,6 +33,9 @@ _ADAPTERS: List[ATSAdapter] = [
     MicrosoftAdapter(),
     ProtonAdapter(location_terms=["Geneva", "Switzerland", "Zurich"]),
     WorkdayAdapter(),
+    JoinAdapter(),
+    GreenhouseAdapter(),
+    AshbyAdapter(),
 ]
 
 def _first_matching_adapter(url: str) -> Optional[ATSAdapter]:

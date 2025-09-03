@@ -55,10 +55,13 @@ def extract_repeated_block_jobs(soup, base_url: str, *, min_children: int = 3) -
             if not a:
                 continue
 
-            link = _absolute(a.get("href", ""), base_url)
-            if not _looks_like_job_detail_url(link):
+            try:
+                link = _absolute(a.get("href", ""), base_url)
+                if not _looks_like_job_detail_url(link):
+                    continue
+                link = canonical_job_url(link)
+            except Exception:
                 continue
-            link = canonical_job_url(link)
 
             title = _max_heading_text(item) or _title_from_attrs(a) or _clean_anchor_text(a)
             if not title:

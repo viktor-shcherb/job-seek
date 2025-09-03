@@ -59,17 +59,20 @@ async def scrape_jobs_with_meta(
         for _ in range(max_pages):
             meta.attempted_pages += 1
 
-            url = normalize_page_identity(url)
-            if url in visited:
-                break
-            visited.add(url)
+            try:
+                url = normalize_page_identity(url)
+                if url in visited:
+                    break
+                visited.add(url)
 
-            http = await get_http()
-            html = await http.fetch_text(url)
+                http = await get_http()
+                html = await http.fetch_text(url)
+            except Exception:
+                break
 
             # Fallback to headless render if page looks JS-only
             if looks_js_shell(html):
-                # print(f"[scrape_jobs] JS shell: {url}")
+                print(f"[scrape_jobs] JS shell: {url}")
                 html = await fetch_rendered_html(
                     url,
                     timeout_ms=timeout * 1000,
@@ -84,16 +87,24 @@ async def scrape_jobs_with_meta(
             page_jobs = extract_all(soup, url)
 
             for j in page_jobs:
-                key = canonical_job_url(str(j.link))
+                try:
+                    key = canonical_job_url(str(j.link))
+                except Exception:
+                    continue
+
                 if key not in collected:
                     collected[key] = Job(title=j.title, link=key)
 
-            next_url = discover_next_page_url(soup, url, url)
-            if not next_url:
+            print(f"[scrape_jobs] page discovery at {url}")
+            try:
+                next_url = discover_next_page_url(soup, url, url)
+                if not next_url:
+                    break
+                if same_host_only and urlparse(next_url).netloc and urlparse(next_url).netloc != base_host:
+                    break
+                url = next_url
+            except Exception:
                 break
-            if same_host_only and urlparse(next_url).netloc and urlparse(next_url).netloc != base_host:
-                break
-            url = next_url
 
         return list(collected.values()), meta
     finally:

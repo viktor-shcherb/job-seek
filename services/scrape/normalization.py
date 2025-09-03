@@ -59,7 +59,10 @@ def _looks_like_job_detail_url(url: str) -> bool:
     Heuristic: does this absolute URL look like a job *detail* page?
     We err on the conservative side to avoid listing category pages.
     """
-    parsed = urlparse(url)
+    try:
+        parsed = urlparse(url)
+    except Exception:
+        return False
     if not (parsed.scheme in ("http", "https") and parsed.netloc):
         return False
 
@@ -117,7 +120,7 @@ def _clean_anchor_text(a) -> str:
 
 def _title_from_attrs(node) -> str:
     # Check attributes that might already contain the title
-    for attr in ["aria-label", "title"]:
+    for attr in ["data-component-link", "aria-label", "title"]:
         v = (node.get(attr) or "").strip()
         if v:
             m = re.match(r"(?i)(?:learn more about|view details for)\s+(.+)", v)

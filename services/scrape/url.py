@@ -21,7 +21,10 @@ def _absolute(url: str, base: str) -> str:
 def _is_http_url(href: str | None) -> bool:
     if not href or href.startswith(("mailto:", "tel:", "javascript:")):
         return False
-    parsed = urlparse(href)
+    try:
+        parsed = urlparse(href)
+    except Exception:
+        return False
     return parsed.scheme in ("http", "https") or (not parsed.scheme and bool(parsed.path))
 
 

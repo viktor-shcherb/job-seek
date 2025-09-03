@@ -168,8 +168,8 @@ def _median(ints: List[int]) -> Optional[int]:
 # ---------- JobBoard with health-aware merging ----------
 class JobBoard(BaseModel):
     title: str = Field(..., min_length=1)
-    icon_url: AnyUrl
-    website_url: AnyUrl
+    icon_url: str
+    website_url: str
 
     # Attempts & health
     attempts: List[ScrapeAttempt] = Field(default_factory=list)

@@ -30,7 +30,11 @@ def extract_listitem_jobs(soup: BeautifulSoup, base_url: str) -> List[Job]:
         # Generic heuristic fallback
         count = 0
         for a in ul_or_ol.find_all("a", href=True):
-            href_abs = _absolute(a.get("href", ""), base_url)
+            try:
+                href_abs = _absolute(a.get("href", ""), base_url)
+            except Exception:
+                continue
+
             if _looks_like_job_detail_url(href_abs):
                 count += 1
                 if count >= 2:
@@ -51,11 +55,18 @@ def extract_listitem_jobs(soup: BeautifulSoup, base_url: str) -> List[Job]:
         link_abs = None
 
         if chosen_a:
-            link_abs = _absolute(chosen_a.get("href", ""), base_url)
+            try:
+                link_abs = _absolute(chosen_a.get("href", ""), base_url)
+            except Exception:
+                link_abs = None
         else:
             # fallback: first anchor that looks like a job detail
             for cand in li.find_all("a", href=True):
-                href_abs = _absolute(cand.get("href", ""), base_url)
+                try:
+                    href_abs = _absolute(cand.get("href", ""), base_url)
+                except Exception:
+                    continue
+
                 if _looks_like_job_detail_url(href_abs):
                     chosen_a, link_abs = cand, href_abs
                     break
@@ -63,7 +74,11 @@ def extract_listitem_jobs(soup: BeautifulSoup, base_url: str) -> List[Job]:
         if not chosen_a or not link_abs:
             continue
 
-        link_abs = canonical_job_url(link_abs)
+        try:
+            link_abs = canonical_job_url(link_abs)
+        except Exception:
+            continue
+
         if link_abs in seen:
             continue
 

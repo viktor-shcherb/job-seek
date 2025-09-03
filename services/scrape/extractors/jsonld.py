@@ -60,7 +60,11 @@ def extract_jsonld_jobs(soup: BeautifulSoup, base_url: str) -> List[Job]:
                 raw_url = (node.get("url") or node.get("applicationUrl") or "").strip()
                 if not title or not raw_url:
                     continue
-                url_abs = _absolute(raw_url, base_url)
+
+                try:
+                    url_abs = _absolute(raw_url, base_url)
+                except Exception:
+                    continue
                 if _looks_like_job_detail_url(url_abs):
                     jobs.append(Job(title=title, link=canonical_job_url(url_abs)))
 

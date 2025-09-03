@@ -1,11 +1,15 @@
+from operator import itemgetter
+
 import altair as alt
 import pandas as pd
 import streamlit as st
 from datetime import datetime, timezone, timedelta
-from typing import Iterable
-from data.model import load_pages       # your helper
+from typing import Iterable, List, Tuple
+from data.model import load_pages, JobBoard, Job  # your helper
 from pathlib import Path
 
+from services.image.logo_preprocess import preprocess_logo
+from ui.cards.job import display_job
 
 PAGES_DIR = Path("data/pages")  # adjust if needed
 
@@ -122,21 +126,74 @@ def dashboard():
           .melt(id_vars="time", var_name="Job board", value_name="count")
     )
 
+    # --- helper to build a legend chart for a subset of categories ---
+    def make_legend_chart(names, n_cols, color_scale, step_x=140, step_y=28):
+        df = pd.DataFrame({"Job board": names})
+        df["idx"] = range(len(df))
+        df["col"] = df["idx"] % n_cols
+        df["row"] = df["idx"] // n_cols
+
+        x_pos = alt.X("col:O", axis=None, scale=alt.Scale(padding=0))
+        y_pos = alt.Y("row:O", axis=None, scale=alt.Scale(padding=0))
+
+        pts = (
+            alt.Chart(df)
+            .mark_square(size=110)
+            .encode(
+                x=x_pos,
+                y=y_pos,
+                color=alt.Color("Job board:N", scale=color_scale, legend=None),
+                tooltip=["Job board:N"],
+            )
+        )
+        lbl = (
+            alt.Chart(df)
+            .mark_text(align="left", dx=8, dy=1)
+            .encode(
+                x=x_pos,
+                y=y_pos,
+                text="Job board:N",
+                color=alt.Color("Job board:N", scale=color_scale, legend=None),
+            )
+        )
+        return (pts + lbl).properties(
+            width=alt.Step(step_x),
+            height=alt.Step(step_y),
+            padding=0
+        ).configure_view(stroke=None)
+
+    # --- build two legend panels with the same color scale/domain ---
+    cats = sorted(melted["Job board"].unique().tolist())
+    color_scale = alt.Scale(domain=cats, scheme="tableau20")
+
+    half = (len(cats) + 1) // 2  # left gets the extra one if odd
+    left_cats = cats[:half]
+    right_cats = cats[half:]
+
+    legend_left = make_legend_chart(left_cats, n_cols=2, color_scale=color_scale)
+    legend_right = make_legend_chart(right_cats, n_cols=2, color_scale=color_scale)
+
+    # --- main chart (unchanged) ---
     chart = (
         alt.Chart(melted)
         .mark_area()
         .encode(
             x=alt.X("time:T", title="Time (UTC)"),
             y=alt.Y("count:Q", stack="zero", title="Active job postings"),
-            color=alt.Color("Job board:N", title="Job board"),
+            color=alt.Color("Job board:N", scale=color_scale, legend=None),
             tooltip=[alt.Tooltip("time:T"), "Job board:N", "count:Q"],
         )
         .properties(height=500)
-        .interactive(bind_y=False)  # pan/zoom X only
+        .interactive(bind_y=False)
     )
 
     with st.container(border=True, key="dashboard-holder"):
         st.altair_chart(chart, use_container_width=True, key="job-board-chart")
+
+        # responsive-friendly: two legends in a horizontal container
+        with st.container(horizontal=True, key="legend-row", gap="large"):
+            st.altair_chart(legend_left, use_container_width=True, key="legend-left")
+            st.altair_chart(legend_right, use_container_width=True, key="legend-right")
 
         # ── Metrics: current counts and Δ vs 24h ago ─────────────────────────────
         t_24 = now_utc - pd.Timedelta(hours=24)
@@ -168,7 +225,17 @@ def dashboard():
 
 @st.fragment(run_every=30)
 def new_jobs_list():
-    pass
+    all_jobs: List[Tuple[JobBoard, Job]] = []
+    for path, job_board in load_pages(PAGES_DIR):
+        for idx, job in enumerate(job_board.content):
+            if job.is_new() and job.is_active():
+                all_jobs.append((job_board, job))
+
+    all_jobs = sorted(all_jobs, key=lambda j: j[1].age())
+
+    with st.container(border=True, key="new-jobs-holder"):
+        for job_idx, (job_board, job) in enumerate(all_jobs):
+            display_job(f"job-{job_idx}", job, include_logo=job_board.icon_url)
 
 
 if __name__ == "__main__":

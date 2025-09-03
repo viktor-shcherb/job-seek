@@ -5,6 +5,7 @@ from pathlib import Path
 import streamlit as st
 from data.model import load_pages, slugify, JobBoard
 from services.image.logo_preprocess import preprocess_logo
+from ui.cards.job import display_job
 
 PAGES_DIR = Path(__file__).resolve().parents[1] / "data" / "pages"
 
@@ -84,48 +85,12 @@ def _render_page(slug: str):
             )
 
             for job_idx, job in enumerate(sorted_jobs):
+                if "new" in filter_criteria and not job.is_new():
+                    continue
+                if "active" in filter_criteria and not job.is_active():
+                    continue
+
                 job_id = f"job-{slug}-{job_idx}"
-
-                badges = []
-
-                # Age badge (always shown)
-                age_td = job.age()
-                age_hours = age_td.total_seconds() / 3600.0
-                if age_hours < 48:
-                    age_str = f"{age_hours:.1f}h"
-                else:
-                    age_days = age_hours / 24.0
-                    age_str = f"{age_days:.1f}d"
-                badges.append(f":violet-badge[{age_str}]")
-
-                if job.is_active():
-                    badges.append(":red-badge[active]")
-                    badge_help = "Included in the latest scrape."
-
-                    # 'new' by default is <48h
-                    if job.is_new(threshold=timedelta(hours=48)):
-                        badges.append(":blue-badge[new]")
-                        badge_help = f"First scraped {age_str} ago."
-                    elif age_hours >= 24 * 7:
-                        if "new" in filter_criteria:
-                            continue
-                        badges.append(":blue-badge[old]")  # keep blue for 'old' per earlier spec
-                        badge_help = f"First scraped {age_hours / 24.0:.1f} days ago."
-                else:
-                    if "active" in filter_criteria:
-                        continue
-                    badges.append(":gray-badge[inactive]")
-                    badge_help = "Not included in the latest scrape."
-
-                with st.container(
-                        key=f"container-{job_id}",
-                        border=True,
-                        horizontal=True,
-                        horizontal_alignment="distribute",
-                ):
-                    with st.container(key=f"desc-{job_id}"):
-                        st.markdown(f"**{job.title}**")
-                        st.markdown(" ".join(badges), help=badge_help)
-                    st.link_button("Apply", str(job.link), type="primary")
+                display_job(job_id, job)
     else:
         st.info("No jobs yet.")

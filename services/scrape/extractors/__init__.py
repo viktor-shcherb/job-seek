@@ -19,6 +19,7 @@ EXTRACTOR_PIPELINE = (
 
 def extract_all(soup: BeautifulSoup, base_url: str) -> List[Job]:
     for fn in EXTRACTOR_PIPELINE:
+        print(f"Extracting {base_url} with {fn.__name__}")
         jobs = fn(soup, base_url)  # type: ignore[arg-type]
         if jobs:
             return jobs

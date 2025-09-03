@@ -124,7 +124,10 @@ def discover_next_page_url(soup, base_url: str, current_url: str) -> str | None:
     current_page = _current_page_from_dom(soup)
     href = _find_next_href_direct(soup, current_page=current_page)
     if href:
-        return _absolute(href, base_url)
+        try:
+            return _absolute(href, base_url)
+        except Exception:
+            pass
 
     # B) Build from known paging params if we can infer current/total
     current_page = _current_page_from_dom(soup)
