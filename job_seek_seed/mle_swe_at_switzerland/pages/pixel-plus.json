@@ -1,0 +1,456 @@
+{
+  "title": "Pixel Plus",
+  "icon_url": "https://cdn.prod.website-files.com/65c29756d34b9d1f67c16090/65e5c58e801f5d6a26b1a08b_62df94dc1a4a7d816d50e762_fav_256.png",
+  "website_url": "https://join.com/companies/pixelplus?categoryIds%5B0%5D=372&place%5B0%5D=Z%C3%BCrich%2C%20Switzerland&cityId=bc57295b-392a-4fbe-9488-ee9bf0e580e5",
+  "attempts": [
+    {
+      "at": "2025-09-01T19:27:45.613269Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3518,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T20:36:35.366739Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3225,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:19:23.121223Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3691,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:48:35.105051Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3263,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:40:18.641430Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3620,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:50:26.834847Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3648,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:24:34.386753Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3359,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:12:41.781902Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 19337,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:00:59.971884Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4357,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:15.794380Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:42.882631Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 88,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:26.971858Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 53,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:48.430346Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:44:26.940141Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:26.512151Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:24:40.752063Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3247,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:32:08.895080Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3058,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:27.935540Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 66,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:27.620944Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 74,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:43.852745Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 101,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:23:56.385682Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3313,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T14:57:19.586512Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3085,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:34:21.707520Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3290,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:19:10.995912Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:57:01.601538Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5149,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:16:29.567239Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:42:53.733247Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:05.268767Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 54,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:27.562542Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 107,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:54.303570Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:53.729959Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 102,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:55.508559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 105,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:36.362047Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:57.275584Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 55,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:01.115022Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:05.822497Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:01.538042Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 95,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:00.170412Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 59,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:59.656448Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:13.207951Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 69,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:59.162428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 99,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:57.744314Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 53,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:54.474679Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 64,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:56.878098Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:55.822331Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 66,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:41.438225Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:10.077624Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 118,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:44:32.885004Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4531,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:25:09.860176Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3778,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:05:20.998599Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3693,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:05:20.998599Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T15:05:20.998599Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:05:20.998599Z",
+  "last_success_at": "2025-09-03T15:05:20.998599Z",
+  "next_scrape_at": "2025-09-03T16:35:14.881609Z",
+  "content": [
+    {
+      "title": "AI Engineer",
+      "link": "https://join.com/companies/pixelplus/14785111-ai-engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T14:05:54.012283Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Engineer",
+      "link": "https://join.com/companies/pixelplus/14706248-ai-engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T09:59:32.416245Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-01T14:05:54.012283Z"
+        }
+      ]
+    }
+  ]
+}

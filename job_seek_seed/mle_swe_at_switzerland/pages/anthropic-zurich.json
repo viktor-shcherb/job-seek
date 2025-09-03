@@ -1,0 +1,442 @@
+{
+  "title": "Anthropic Zurich",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Anthropic.png",
+  "website_url": "https://job-boards.greenhouse.io/anthropic?offices%5B%5D=4029282008",
+  "attempts": [
+    {
+      "at": "2025-09-02T01:08:07.872722Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3573,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:23:55.328682Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 821,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T02:42:14.314313Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 504,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T03:12:41.781902Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 19305,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:14:13.448051Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 8373,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:13.075383Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 134,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:40.613966Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 120,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:25.801932Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:45.729961Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 114,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:21.666900Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:25:28.195996Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3242,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:10:18.159043Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2896,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:52:30.787571Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3153,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T11:18:10.063339Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3364,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:25.285332Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 96,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:24.949585Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:41.151578Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 140,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:24:22.808496Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3647,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:01:30.631336Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3721,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:21.071559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 121,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T16:39:34.460122Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:08.271428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 99,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:35:19.833903Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 11627,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:42.537867Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 139,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:30:11.358725Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 87,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:03.007911Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 119,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:53.427561Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:24.783181Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 106,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:51.960570Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 197,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:51.057958Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 121,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:51.798582Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 122,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:33.467164Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 103,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T02:14:54.647857Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:54.955074Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 116,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:00:59.842907Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 97,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:03.536287Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 119,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:01:58.849626Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 91,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:02:57.899289Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 123,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:56.966350Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 94,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:14.356110Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:56.532014Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:55.482337Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 110,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:54.474679Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:54.235031Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 113,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:53.219243Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:38.715238Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 96,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:07.460277Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 127,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:39:22.202502Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4387,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:57:50.838598Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4059,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:38:26.360619Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3442,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:38:26.360619Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T15:38:26.360619Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:38:26.360619Z",
+  "last_success_at": "2025-09-03T15:38:26.360619Z",
+  "next_scrape_at": "2025-09-03T16:37:10.953201Z",
+  "content": [
+    {
+      "title": "Research Engineer / Research Scientist, Pre-training",
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/4799425008",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:33:04.103861Z"
+        }
+      ]
+    }
+  ]
+}

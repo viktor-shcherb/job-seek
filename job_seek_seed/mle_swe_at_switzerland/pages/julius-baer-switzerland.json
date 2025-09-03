@@ -1,0 +1,582 @@
+{
+  "title": "Julius Baer Switzerland",
+  "icon_url": "https://www.juliusbaer.com/build/assets/favicons/JB.svg",
+  "website_url": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/DevOps-Platform-Engineer-100---f-m-d-_r-16067-1?jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000&Location_Country=187134fccb084a0ea9b4b95f23890dbe",
+  "attempts": [
+    {
+      "at": "2025-09-01T19:54:13.749847Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 6705,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T20:41:08.289746Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5531,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:16:54.871261Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5448,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:10:57.901433Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 6135,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:48:03.421622Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5980,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:40:11.070058Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5565,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:31:31.727908Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5777,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:04:47.354629Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 575,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T02:25:13.307731Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5289,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:45:30.003278Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5301,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:14.228648Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 86,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:41.740106Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:25.801932Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:46.851707Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:44:25.843636Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 89,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:05:37.519858Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5864,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:36:41.023980Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5453,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:20:23.305527Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5426,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:26.391303Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:26.068337Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:42.297129Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:25:27.789424Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5534,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:34:21.707520Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5941,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:19:08.271428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:41:30.154912Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 6228,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:43.692374Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 74,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:30:11.358725Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 63,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:04.132462Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:53.427561Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:26.043424Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:53.172666Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 69,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:52.190802Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:52.929243Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:34.579323Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 157,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:56.136353Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:00:59.842907Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 168,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:04.678205Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:01:58.849626Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 103,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:02:59.030804Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:56.966350Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:56.532014Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 51,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:56.598671Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 71,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:54.474679Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 84,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:55.356308Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:54.309558Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:39.822829Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 90,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:08.622538Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 99,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:38:02.011673Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5830,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:50:11.621914Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5665,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:39:05.986705Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5276,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:39:05.986705Z",
+    "last_nonzero_count": 15,
+    "baseline_nonzero_count": 15,
+    "last_success_at": "2025-09-03T15:39:05.986705Z",
+    "last_success_count": 15
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:39:05.986705Z",
+  "last_success_at": "2025-09-03T15:39:05.986705Z",
+  "next_scrape_at": "2025-09-03T16:53:43.938625Z",
+  "content": [
+    {
+      "title": "Application Support Engineer – Securities Finance (FIS SFTC/APEX/Finace) 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Support-Engineer---Securities-Finance--FIS-SFTC-APEX-Finace--100---f-m-d-_r-16294-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Platform Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Cloud-Platform-Engineer-100---f-m-d-_r-15962-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Platform Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/DevOps-Platform-Engineer-100---f-m-d-_r-16067-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Core Risk Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Core-Risk-Developer_r-16082-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Core Risk Senior Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Core-Risk-Senior-Developer_r-16085-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Market Making Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Market-Making-Developer_r-16080?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Market Making Senior Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Market-Making-Senior-Developer_r-16081-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "IT Service Excellence and Continuity Manager 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/IT-Service-Excellence-and-Continuity-Manager-100---f-m-d-_r-15663-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Java/C++ Software Developer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Java-C---Software-Developer-100---f-m-d-_r-16352-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Cloud Platform Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Senior-Cloud-Platform-Engineer-100---f-m-d-_r-15960-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Data Management Specialist and IT Architect 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Senior-Data-Management-Specialist-and-IT-Architect-100---f-m-d-_r-16290-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Web Security Engineer - CIAM & WAF 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Senior-Web-Security-Engineer---CIAM---WAF-100---f-m-d-_r-16055-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "System Engineer 80% - 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/System-Engineer-80---100--_r-16344-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "System Engineer Sharepoint (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/System-Engineer-Sharepoint--f-m-d--100-_r-13458-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Web Application Security Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Web-Application-Security-Engineer-100---f-m-d-_r-16057?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    }
+  ]
+}

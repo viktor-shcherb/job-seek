@@ -1,0 +1,442 @@
+{
+  "title": "Snapchat Zurich",
+  "icon_url": "https://static.snapchat.com/favicon.ico",
+  "website_url": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/jobs?locations=bd82933c043101016d92aae9d5260000",
+  "attempts": [
+    {
+      "at": "2025-09-01T18:35:28.662889Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6340,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:56:28.925926Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6832,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:04:14.271783Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6759,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:28:55.968339Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6658,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:40:18.641430Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6721,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:08:26.064609Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 8242,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:45:11.638737Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7361,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:42:23.354421Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6761,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:45:40.094238Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6864,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:16.936163Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:44.406772Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:28.473984Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:49.600416Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 104,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:44:26.940141Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:05:44.389305Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6671,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:44:01.714695Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6889,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:34:45.639841Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 69,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T09:53:12.102894Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6574,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:29.075890Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 64,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:28.758041Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:45.012646Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6865,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:22:41.303273Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7700,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:19:10.995912Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 66,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:57:01.601538Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 8107,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:46.413291Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:30:12.869316Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 91,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:06.771046Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:56.093591Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:27.562542Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:55.777097Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 61,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:54.895074Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:55.508559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:37.510493Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:58.769998Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:02.597265Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 65,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:07.276500Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:02.712800Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 101,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:01.654842Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:04:00.815511Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:14.356110Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:59.162428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:59.185544Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:55.944652Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:58.023200Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:56.966796Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 93,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:41.438225Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 63,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:10.077624Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:43:35.374874Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6854,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:53:01.852638Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7416,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:50:06.982271Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7139,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:50:06.982271Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T15:50:06.982271Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:50:06.982271Z",
+  "last_success_at": "2025-09-03T15:50:06.982271Z",
+  "next_scrape_at": "2025-09-03T17:01:10.267258Z",
+  "content": [
+    {
+      "title": "Software Engineer, Augmented Reality",
+      "link": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/details/Software-Engineer--Augmented-Reality_R0038857-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:49:58.325656Z"
+        }
+      ]
+    }
+  ]
+}

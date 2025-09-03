@@ -1,0 +1,442 @@
+{
+  "title": "Snyk Zurich",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/he/1/1d/Snyk-logo.svg",
+  "website_url": "https://job-boards.greenhouse.io/snyk?offices%5B%5D=4045539002",
+  "attempts": [
+    {
+      "at": "2025-09-01T17:56:01.629815Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4032,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:18:43.646927Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3655,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T20:36:19.687950Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3620,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:23:46.414904Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3318,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:11:33.593537Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3260,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:06:13.443719Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4539,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:32:12.316221Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3357,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:05:16.643628Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3939,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:12:41.781902Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 14881,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:14:13.448051Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 56,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T04:37:15.553299Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 113,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T05:25:16.936163Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:44.406772Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:28.473984Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:49.600416Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:23.225330Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 192,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:18:19.894696Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3313,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:00:43.557298Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2940,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:29.075890Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:28.758041Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 71,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:45.012646Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3211,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:34:38.892540Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3251,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:19:10.995912Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 66,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:41:40.378672Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4820,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T18:36:02.538587Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:10:46.413291Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:32:02.492353Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:06.771046Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:28.738368Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 107,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:55.777097Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:54.895074Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 97,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:56.679197Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 92,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:37.510493Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 71,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:58.769998Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:02.597265Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:07.276500Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:02.712800Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 103,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:01.654842Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:04:00.815511Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 102,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:14.356110Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:05:00.332052Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 109,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:59.185544Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:55.944652Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:58.023200Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:56.966796Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:41.438225Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 64,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:11.276223Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 88,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:45:13.899012Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3637,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:06:41.964699Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3721,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:47:04.868585Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3670,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:47:04.868585Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T15:47:04.868585Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:47:04.868585Z",
+  "last_success_at": "2025-09-03T15:47:04.868585Z",
+  "next_scrape_at": "2025-09-03T16:22:10.021862Z",
+  "content": [
+    {
+      "title": "Senior Manager, Engineering - Snyk Code",
+      "link": "https://job-boards.greenhouse.io/snyk/jobs/8071417002",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:17:31.570596Z"
+        }
+      ]
+    }
+  ]
+}

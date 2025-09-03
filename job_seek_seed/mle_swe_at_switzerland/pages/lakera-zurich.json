@@ -1,0 +1,542 @@
+{
+  "title": "Lakera Zurich",
+  "icon_url": "https://media.licdn.com/dms/image/v2/D560BAQHV-aYNjnSQuQ/company-logo_200_200/company-logo_200_200/0/1697100589454/lakeraai_logo?e=1759363200&v=beta&t=jJDwkcZelpdLSsC7ghwfyxhkC5DQh8vF8UodhXHXsXI",
+  "website_url": "https://jobs.ashbyhq.com/lakera.ai/?locationId=640dcb40-fc86-431c-afa2-b3e9bdc0312b",
+  "attempts": [
+    {
+      "at": "2025-09-01T21:25:26.391254Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 24120,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:48:03.421622Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 28039,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:55:37.194188Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 17968,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:49:57.115388Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 27346,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:05:16.643628Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 20084,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:13:59.625751Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 24915,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:22:41.119549Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T04:38:41.980566Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 28497,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:14.228648Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 84,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:41.740106Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 66,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:25.801932Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:46.851707Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:44:25.843636Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:21.666900Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:21:44.263834Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 24620,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:43:07.709749Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 18779,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:26.391303Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:26.068337Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 104,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:42.297129Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:28:33.212685Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 26021,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:22:41.303273Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 21261,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:22.203153Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 87,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:09.524140Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 87,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:38:37.222020Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 35442,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T18:36:01.376048Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 95,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:10:43.692374Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:42:53.733247Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:04.132462Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 64,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:53.427561Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:26.043424Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 92,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:53.172666Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 64,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:52.190802Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:52.929243Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:34.579323Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:56.136353Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:00:59.842907Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 163,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:04.678205Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 65,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:00.046593Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:02:59.030804Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 63,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:58.137080Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:12.067677Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:57.672747Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:56.598671Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 63,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:55.356308Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:54.309558Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:39.822829Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:08.622538Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:38:10.869166Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 24241,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:00:04.564093Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 25025,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:43:04.798500Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 24154,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:43:04.798500Z",
+    "last_nonzero_count": 11,
+    "baseline_nonzero_count": 11,
+    "last_success_at": "2025-09-03T15:43:04.798500Z",
+    "last_success_count": 11
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:43:04.798500Z",
+  "last_success_at": "2025-09-03T15:43:04.798500Z",
+  "next_scrape_at": "2025-09-03T16:37:15.767620Z",
+  "content": [
+    {
+      "title": "Application Security Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/06592288-fd6b-4f1b-bc44-4f0a7d812b73",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Engineering Manager – Guard Foundations (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/6a6d1d9b-c4f9-45a1-a0e5-96061ba5a30f",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Full-stack Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/181116f6-d459-4292-8130-b1ecdfa119ad",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Full-stack Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/32a92101-5b75-4714-95a4-8a8297fada6b",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior ML Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/158d9a05-bc1d-49fd-81f1-bf1229e8021f",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Manager",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/0af1ba66-bf04-4dc6-8eba-21bbe5824254",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Research Engineer - Security Foundation Models (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/9b4138c8-6b76-42bd-9d15-aae91432691c",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/393b4ccd-4b63-41ab-8413-890ff2dac822",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer - Gandalf (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/469e0ae3-4c94-4ae9-bb8a-0488b074cb7a",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/e551a645-45ce-4945-9c75-2965a6c7bedd",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff ML Engineer (Zürich)",
+      "link": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:15:58.148177Z"
+        }
+      ]
+    }
+  ]
+}

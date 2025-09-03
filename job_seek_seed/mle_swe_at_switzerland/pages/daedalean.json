@@ -1,0 +1,516 @@
+{
+  "title": "Daedalean",
+  "icon_url": "https://cdn.prod.website-files.com/6633be1afb244c8549a14b0d/67dff2d8671e35ecea0cd5d3_Webclip.png",
+  "website_url": "https://jobs.lever.co/daedalean?location=Z%C3%BCrich",
+  "attempts": [
+    {
+      "at": "2025-08-31T23:47:05.864908Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 4842,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T00:41:16.696107Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1661,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T02:51:19.750882Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1504,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T04:53:21.803514Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1607,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T08:55:45.204150Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 20247,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T10:13:33.235620Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1358,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T11:19:12.998499Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 11766,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T12:35:06.108221Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1241,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T13:35:04.187186Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1383,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T14:06:01.464703Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1264,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T14:39:03.910438Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1269,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T15:47:58.564949Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1281,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T17:11:31.333832Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1282,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T17:49:13.756922Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1813,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T18:29:56.533464Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1340,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:44:08.806816Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1331,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:11:41.550058Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1338,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:48:03.421622Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1641,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:12:42.545060Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1365,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:25:48.437850Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 2001,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:05:16.643628Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1184,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:27:45.284090Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 2846,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:22:41.119549Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 63,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:13.075383Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 49,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T06:10:40.613966Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 59,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T07:25:45.729961Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:42:50.722842Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3010,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:28:38.983874Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1149,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T11:18:10.063339Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1108,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T13:14:24.949585Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 37,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T14:14:31.549387Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 12445,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T14:52:06.337045Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 1116,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:21.071559Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 50,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:27:55.223261Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 38,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:42.537867Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 51,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T20:22:03.007911Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 54,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T21:44:53.500466Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 38,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T23:46:51.057958Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T00:52:51.798582Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 50,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T02:14:54.647857Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 38,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T03:20:54.955074Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T05:07:03.536287Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 56,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T07:02:57.899289Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 64,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T08:26:12.067677Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 48,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T10:05:55.482337Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T11:06:54.235031Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T12:48:38.715238Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 31,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T13:25:39.505361Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 2055,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:50:04.398776Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1195,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:33:27.570694Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1168,
+      "renderer_used": false,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:33:27.570694Z",
+    "last_nonzero_count": 7,
+    "baseline_nonzero_count": 6,
+    "last_success_at": "2025-09-03T15:33:27.570694Z",
+    "last_success_count": 7
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:33:27.570694Z",
+  "last_success_at": "2025-09-03T15:33:27.570694Z",
+  "next_scrape_at": "2025-09-03T16:43:14.004437Z",
+  "content": [
+    {
+      "title": "(Staff) Avionics Systems Engineer",
+      "link": "https://jobs.lever.co/daedalean/358fa923-27f8-47ef-9309-144f21441554",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        }
+      ]
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "link": "https://jobs.lever.co/daedalean/d157e3cf-909c-43d9-929c-1d6783ea566f",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "link": "https://jobs.lever.co/daedalean/20bac43e-cc1d-4b8a-aade-7956e25c03df",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        }
+      ]
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "link": "https://jobs.lever.co/daedalean/b49d7960-0b26-40c2-ac6e-1bff6f028220",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        }
+      ]
+    },
+    {
+      "title": "Sensor Fusion Engineer",
+      "link": "https://jobs.lever.co/daedalean/73c7572d-6b25-46da-abf3-6ac4106a4a3c",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Project Manager",
+      "link": "https://jobs.lever.co/daedalean/e87fb329-9181-4dda-98b5-72daf8854728",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        }
+      ]
+    },
+    {
+      "title": "Visual Simulation Engineer",
+      "link": "https://jobs.lever.co/daedalean/6afbc5fe-243d-45ba-8cef-5f1eca5764d6",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T13:25:39.505361Z"
+        }
+      ]
+    },
+    {
+      "title": "(Staff) Systems Verification Engineer",
+      "link": "https://jobs.lever.co/daedalean/7880c06e-c106-4df2-adc9-313b3ddcc65b",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-01T11:19:12.998499Z"
+        }
+      ]
+    }
+  ]
+}

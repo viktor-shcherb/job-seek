@@ -1,0 +1,562 @@
+{
+  "title": "Proton",
+  "icon_url": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg",
+  "website_url": "https://job-boards.eu.greenhouse.io/proton",
+  "attempts": [
+    {
+      "at": "2025-09-01T18:21:01.466204Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1650,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:29:43.651311Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1720,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T20:27:34.392497Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1478,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:53:12.017633Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1555,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:24:20.117519Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1471,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:32:12.316221Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1736,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:25:48.437850Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 2014,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:24:34.386753Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1683,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:45:40.094238Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1664,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:15.794380Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:42.882631Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:28.473984Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:48.430346Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:23.225330Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 205,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:23:44.324230Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1551,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:49:49.396680Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7498,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:27.935540Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 51,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:27.620944Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 65,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:43.852745Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 102,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:25:49.393857Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 1430,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:22:41.303273Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1320,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:39:35.617208Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:10.995912Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:38:33.907122Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2309,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T18:36:02.538587Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 106,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:10:45.256133Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:32:02.492353Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:06.771046Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 88,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:54.581875Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:27.562542Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 105,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:55.777097Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 100,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:53.729959Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 96,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:55.508559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 101,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:36.362047Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:58.769998Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:01.115022Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 53,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:07.276500Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:01.538042Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 94,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:00.170412Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 61,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:59.656448Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 94,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:59.162428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 102,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:59.185544Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:54.474679Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:56.878098Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 65,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:55.822331Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:41.438225Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:10.077624Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 106,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:38:53.616659Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1460,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:46:59.232234Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1542,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:38:14.637748Z",
+      "ok": true,
+      "count": 13,
+      "duration_ms": 2681,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:38:14.637748Z",
+    "last_nonzero_count": 13,
+    "baseline_nonzero_count": 9,
+    "last_success_at": "2025-09-03T15:38:14.637748Z",
+    "last_success_count": 13
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:38:14.637748Z",
+  "last_success_at": "2025-09-03T15:38:14.637748Z",
+  "next_scrape_at": "2025-09-03T16:45:07.866571Z",
+  "content": [
+    {
+      "title": "Backend Engineer (B2B)",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4540771101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Data Center Engineer",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4654042101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Database Platform Engineer",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4582111101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T14:46:59.232234Z"
+        }
+      ]
+    },
+    {
+      "title": "Fullstack Applied AI Engineer (Lumo)",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4660027101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Fullstack Engineer (MSA)",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4392372101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T15:38:14.637748Z"
+        }
+      ]
+    },
+    {
+      "title": "General Counsel  – Legal & Public Affairs",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4638923101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Product Manager (B2B)",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4229575101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Data Analyst",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4596861101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Rust Engineer",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4585460101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-02T15:22:41.303273Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Data Analyst",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4599620101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Manager (Inbox)",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4364312101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    },
+    {
+      "title": "Site Reliability Engineer (Application Edge)",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4612377101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T14:46:59.232234Z"
+        }
+      ]
+    },
+    {
+      "title": "SRE Manager",
+      "link": "https://job-boards.eu.greenhouse.io/proton/jobs/4657692101",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:18:00.452166Z"
+        }
+      ]
+    }
+  ]
+}

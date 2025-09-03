@@ -1,0 +1,554 @@
+{
+  "title": "Meta Zurich & Geneva",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg",
+  "website_url": "https://www.metacareers.com/jobs?offices[0]=Geneva%2C%20Switzerland&offices[1]=Zurich%2C%20Switzerland",
+  "attempts": [
+    {
+      "at": "2025-09-01T22:10:57.901433Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 34680,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:23:43.592026Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 35180,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:31:31.727908Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 37618,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:45:47.940495Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 37986,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:24:34.386753Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 37913,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:00:15.908525Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 35367,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:14:13.448051Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 10297,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T04:37:15.553299Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 606,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T05:25:14.228648Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 470,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:42.882631Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 518,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:26.971858Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 496,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:46.851707Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 488,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:21.666900Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 462,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:26:09.604857Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 2215,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:43:38.940700Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 20764,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:40:57.281341Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 30398,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:26.391303Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 465,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:26.068337Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 464,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:42.297129Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 470,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:29:00.238596Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 5778,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:44:11.937815Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 5501,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T15:22:41.303273Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 23625,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:22.203153Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 551,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:09.524140Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 453,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:41:01.357053Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 27793,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:43.692374Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 473,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:30:11.358725Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 417,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:05.268767Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 497,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:54.581875Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 506,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:26.043424Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 432,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:54.303570Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 467,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:52.190802Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 452,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:54.054696Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 448,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:34.579323Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 695,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:57.275584Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 488,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:01.115022Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 473,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:05.822497Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 448,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:00.046593Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 444,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:00.170412Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 480,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:58.137080Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 471,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:57.672747Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 448,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:57.744314Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 437,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:54.474679Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 454,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:55.356308Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 433,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:54.309558Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 420,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:39.822829Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 536,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:08.622538Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 356,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:45:05.802248Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 7091,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T14:02:28.648014Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 27088,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:43:55.191683Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 23183,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T14:43:55.191683Z",
+    "last_nonzero_count": 8,
+    "baseline_nonzero_count": 8,
+    "last_success_at": "2025-09-03T14:43:55.191683Z",
+    "last_success_count": 8
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T14:43:55.191683Z",
+  "last_success_at": "2025-09-03T14:43:55.191683Z",
+  "next_scrape_at": "2025-09-03T16:07:39.694604Z",
+  "content": [
+    {
+      "title": "Audio ML Engineer, Codec Avatars",
+      "link": "https://www.metacareers.com/jobs/1207599194073937",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Computer Vision/Machine Learning Research Scientist (Spatial AI)",
+      "link": "https://www.metacareers.com/jobs/1128624585855043",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Engineering Manager, Computer Vision",
+      "link": "https://www.metacareers.com/jobs/129978940197464",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, 3D/4D Generative AI for World Generation",
+      "link": "https://www.metacareers.com/jobs/1395808831675779",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Agents",
+      "link": "https://www.metacareers.com/jobs/940193990831237",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer (Leadership) - Machine Learning",
+      "link": "https://www.metacareers.com/jobs/1058363622156402",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Infrastructure",
+      "link": "https://www.metacareers.com/jobs/1277398403727586",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T18:22:16.443908Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, OS Frameworks (Android) - Reality Labs",
+      "link": "https://www.metacareers.com/jobs/2155701414836588",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        }
+      ]
+    },
+    {
+      "title": "Agency Solutions Manager, DACH",
+      "link": "https://www.metacareers.com/jobs/1321764182624618",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-28T18:22:16.443908Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Research Scientist, 3D/4D Generative AI",
+      "link": "https://www.metacareers.com/jobs/576322881892517",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-28T18:22:16.443908Z"
+        }
+      ]
+    },
+    {
+      "title": "Client Partner (24 months), Tech Media Finance DACH",
+      "link": "https://www.metacareers.com/jobs/24001648229536920",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:27:28.334198Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-28T18:22:16.443908Z"
+        }
+      ]
+    }
+  ]
+}

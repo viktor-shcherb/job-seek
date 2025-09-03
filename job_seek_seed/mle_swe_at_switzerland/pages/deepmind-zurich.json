@@ -1,0 +1,452 @@
+{
+  "title": "DeepMind Zurich",
+  "icon_url": "https://deepmind.google/static/icons/google_deepmind_48dp.5b470587fe7d.svg",
+  "website_url": "https://deepmind.google/about/careers/?location=zurich-switzerland#open-roles",
+  "attempts": [
+    {
+      "at": "2025-09-01T05:33:38.590370Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2945,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T08:55:45.204150Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 10212,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T09:49:50.556294Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3408,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T10:58:22.037400Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1887,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T11:52:29.369587Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3109,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T12:35:35.457929Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1824,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T13:10:17.068525Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3817,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T14:15:40.084307Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1897,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T14:47:19.182442Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2753,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T15:19:38.670127Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2879,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T16:01:09.831730Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 640,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T16:38:16.711644Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1740,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T17:58:03.624125Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2701,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:15:07.076468Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1714,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:49:07.492762Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2986,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:14:28.443419Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2030,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:46:13.790541Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3044,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:48:03.421622Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2016,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:40:11.070058Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2226,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:49:57.115388Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1690,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:04:47.354629Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2820,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:00:52.301887Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1728,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:46:36.929771Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1632,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:13.075383Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 27,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T06:10:40.613966Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T07:44:25.843636Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 10,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:56:46.612784Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1438,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:51:42.218560Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3412,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T11:18:10.063339Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1791,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T13:14:24.949585Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 16,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T14:20:20.535224Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2633,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:05:02.212807Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2344,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:21.071559Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:41:40.378672Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2533,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T18:36:01.376048Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:42.537867Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 18,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T20:43:53.427561Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 16,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T22:45:51.960570Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 43,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T00:52:51.798582Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T01:58:33.467164Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 11,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T03:20:54.955074Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 10,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T05:07:03.536287Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 11,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T07:02:57.899289Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T08:26:12.067677Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 9,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T10:05:55.482337Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T11:06:54.235031Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T12:48:38.715238Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 2,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T13:42:19.306364Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 608,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:25:14.644361Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 1616,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:06:41.964699Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 1801,
+      "renderer_used": false,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:06:41.964699Z",
+    "last_nonzero_count": 2,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T15:06:41.964699Z",
+    "last_success_count": 2
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:06:41.964699Z",
+  "last_success_at": "2025-09-03T15:06:41.964699Z",
+  "next_scrape_at": "2025-09-03T16:14:59.982828Z",
+  "content": [
+    {
+      "title": "Research Scientist, Multimodal Generation Research Zurich, Switzerland",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7155097",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T13:42:19.306364Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Gemini apps Engineering Zurich, Switzerland",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6601912",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T19:53:27.521059Z"
+        }
+      ]
+    }
+  ]
+}

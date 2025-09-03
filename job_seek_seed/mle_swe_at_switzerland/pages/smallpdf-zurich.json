@@ -1,0 +1,456 @@
+{
+  "title": "Smallpdf Zurich",
+  "icon_url": "https://smallpdf.com/favicon.png",
+  "website_url": "https://jobs.ashbyhq.com/smallpdf?locationId=70d2c83a-6594-4055-92ae-9b50821e81c0",
+  "attempts": [
+    {
+      "at": "2025-09-01T19:35:46.492877Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3905,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T20:37:28.849662Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4153,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:10:57.901433Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3565,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:40:18.641430Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3629,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:08:26.064609Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3621,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:42:14.314313Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5721,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:00:59.971884Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4538,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:16.936163Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:44.406772Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 102,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:28.473984Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:49.600416Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 103,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:23.225330Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:20:05.630162Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4679,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:53:52.823841Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4186,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:57:12.707748Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4455,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:29.075890Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 96,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:27.620944Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 56,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:43.852745Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 50,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:28:15.600253Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3549,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:06:30.772001Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4367,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:23.762947Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 91,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T16:39:35.617208Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:10.995912Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:37:26.474684Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 8952,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:45.256133Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:42:53.733247Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:06.771046Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:56.093591Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:27.562542Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:55.777097Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:54.895074Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:55.508559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 59,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:36.362047Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:58.769998Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 66,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:02.597265Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 74,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:07.276500Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:01.538042Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:01.654842Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:59.656448Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 53,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:13.207951Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:59.162428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:59.185544Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:55.944652Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 69,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:56.878098Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:56.966796Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:41.438225Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:10.077624Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:37:54.531022Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4467,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:10:20.517877Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7844,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:55:16.896204Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4105,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T14:55:16.896204Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T14:55:16.896204Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T14:55:16.896204Z",
+  "last_success_at": "2025-09-03T14:55:16.896204Z",
+  "next_scrape_at": "2025-09-03T16:14:14.144271Z",
+  "content": [
+    {
+      "title": "Senior/Staff Product Manager",
+      "link": "https://jobs.ashbyhq.com/smallpdf/2972b6d2-90b3-4a0d-aa8b-37bae3681c10",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:20:56.960946Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior/Staff Product Manager Smallpdf • Zürich • Full time • Hybrid",
+      "link": "https://jobs.ashbyhq.com/smallpdf/2972b6d2-90b3-4a0d-aa8b-37bae3681c10?locationId=70d2c83a-6594-4055-92ae-9b50821e81c0",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:56:46.567748Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-01T12:20:56.960946Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "title": "Salesteq",
+  "icon_url": "https://media.licdn.com/dms/image/v2/D4D0BAQEQvEKQRg-AWA/company-logo_200_200/company-logo_200_200/0/1736247492558/salesteqcom_logo?e=1759363200&v=beta&t=T9GJvq1rgkDxXA_SFk9Fk06PDEc2F1-Do59Ue57OnAc",
+  "website_url": "https://join.com/companies/salesteq",
+  "attempts": [
+    {
+      "at": "2025-09-01T22:10:57.901433Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 5323,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:40:48.307878Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4355,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:08:07.872722Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4805,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:42:14.314313Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6566,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:14:13.448051Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 88,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T04:37:15.553299Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 113,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T05:25:15.794380Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 51,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:44.406772Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 76,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:28.473984Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 71,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:48.430346Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:44:26.940141Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 77,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:08:47.791262Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4517,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:48:26.251508Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4377,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:57:31.218581Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4443,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:29.075890Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 74,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:27.620944Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 59,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:43.852745Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 61,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:31:00.413325Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4405,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:46:15.724849Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 10188,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T16:18:23.762947Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 97,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T16:39:35.617208Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:10.995912Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:35:48.083429Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7475,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T18:36:02.538587Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 65,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:10:45.256133Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:30:12.869316Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 96,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:06.771046Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 83,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:54.581875Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:27.562542Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:55.777097Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:53.729959Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 52,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:55.508559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:36.362047Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:58.769998Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:01:02.597265Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:07.276500Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:02:01.538042Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:03:01.654842Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:59.656448Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:26:13.207951Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 63,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:59.162428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:59.185544Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 78,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:27:55.944652Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 73,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:56.878098Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 61,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:56.966796Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 75,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:41.438225Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 72,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:10.077624Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 93,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:42:48.021355Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 5180,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:51:42.657170Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 4862,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:29:54.463764Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 5122,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:29:54.463764Z",
+    "last_nonzero_count": 2,
+    "baseline_nonzero_count": 2,
+    "last_success_at": "2025-09-03T15:29:54.463764Z",
+    "last_success_count": 2
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:29:54.463764Z",
+  "last_success_at": "2025-09-03T15:29:54.463764Z",
+  "next_scrape_at": "2025-09-03T16:30:59.538950Z",
+  "content": [
+    {
+      "title": "AI Internship (ASR/TTS)",
+      "link": "https://join.com/companies/salesteq/14741467-ai-internship-asr-tts",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:19:02.530728Z"
+        }
+      ]
+    },
+    {
+      "title": "Founding Engineer - AI Systems",
+      "link": "https://join.com/companies/salesteq/14774316-founding-engineer-ai-systems",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T12:19:02.530728Z"
+        }
+      ]
+    }
+  ]
+}

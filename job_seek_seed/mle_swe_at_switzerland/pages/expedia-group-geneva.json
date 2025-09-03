@@ -1,0 +1,538 @@
+{
+  "title": "Expedia Group Geneva",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Expedia_Group_logo.svg",
+  "website_url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/jobs?locations=c553432013ba103bbc5cbf02f81f5387",
+  "attempts": [
+    {
+      "at": "2025-09-01T21:49:28.764824Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8192,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:23:43.592026Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 328,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-01T23:54:56.854385Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 19477,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:25:48.437850Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 462,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T01:45:11.638737Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 274,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T02:23:55.328682Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 555,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T02:59:29.642716Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9201,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T03:45:30.003278Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 429,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T04:03:07.987843Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8332,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:13.075383Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 82,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:10:40.613966Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T06:43:25.801932Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 87,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T07:25:45.729961Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 55,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:02:21.666900Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 84,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T08:24:28.015210Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7716,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:05:27.035488Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7290,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:50:41.709096Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7294,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:25.285332Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 61,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T13:14:24.949585Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 69,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:07:41.151578Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 113,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T14:24:13.763010Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8041,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:22:41.303273Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7635,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:21.071559Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 62,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T16:39:34.460122Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 95,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:19:08.271428Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 71,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T17:36:18.661588Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9542,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T19:10:42.537867Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 84,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T19:30:11.358725Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 80,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:22:03.007911Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T20:43:53.427561Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T21:32:24.783181Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T22:45:51.960570Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 129,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-02T23:46:51.057958Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 60,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T00:52:51.798582Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 68,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T01:58:33.467164Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 67,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T03:20:54.955074Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 59,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T04:00:59.842907Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 92,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T05:07:03.536287Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 79,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T06:01:58.849626Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 85,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T07:02:57.899289Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 59,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T08:03:56.966350Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 86,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T09:04:56.532014Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 81,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T10:05:55.482337Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 53,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T11:06:54.235031Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 54,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:07:53.219243Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 58,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T12:48:38.715238Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 70,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:20:07.460277Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 98,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-09-03T13:36:59.689866Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7649,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T14:25:21.280016Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7444,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:12:47.495894Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8161,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:12:47.495894Z",
+    "last_nonzero_count": 9,
+    "baseline_nonzero_count": 9,
+    "last_success_at": "2025-09-03T15:12:47.495894Z",
+    "last_success_count": 9
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:12:47.495894Z",
+  "last_success_at": "2025-09-03T15:12:47.495894Z",
+  "next_scrape_at": "2025-09-03T16:40:52.275473Z",
+  "content": [
+    {
+      "title": "Machine Learning Engineer II (Data Pipelines - Marketplace Intelligence & Partner Optimization)",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Machine-Learning-Engineer-II--Data-Pipelines---Marketplace-Intelligence---Partner-Optimization-_R-97024-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Scientist II – Pricing Optimization & Causal Modeling",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Machine-Learning-Scientist-II---Pricing-Optimization---Causal-Modeling_R-97441-2",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T14:38:31.468244Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager II",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Product-Manager-II_R-96991-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager III",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Product-Manager-III_R-96953",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Senior-Software-Development-Engineer_R-96067",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-28T22:44:13.111114Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-01T15:04:50.692381Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Engineer II",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Software-Development-Engineer-II_R-96992-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Engineer II",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Software-Development-Engineer-II_R-96039",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-28T22:44:13.111114Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-01T15:04:50.692381Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Engineer II – Scalable Systems & Data Engineering",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Software-Development-Engineer-II--Backend-Development---Data-Processing---Nodejs---AWS-_R-96972-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Development Engineer III – Scalable Systems & Data Engineering",
+      "link": "https://expedia.wd108.myworkdayjobs.com/en-US/search/details/Software-Development-Engineer-III--Backend-Systems---Data-Engineering---Nodejs---AWS---Spark-_R-97011-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:31:01.158295Z"
+        }
+      ]
+    }
+  ]
+}

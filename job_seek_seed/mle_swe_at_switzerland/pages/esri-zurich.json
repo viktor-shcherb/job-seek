@@ -1,0 +1,442 @@
+{
+  "title": "Esri Zurich",
+  "icon_url": "https://www.esri.com/content/dam/esrisites/en-us/common/favicon/esri-favicon.svg",
+  "website_url": "https://www.esri.com/en-us/about/careers/job-search?locations=Zurich%2C+CH",
+  "attempts": [
+    {
+      "at": "2025-09-01T00:41:48.211043Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4062,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T01:31:52.311634Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4759,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T02:51:19.750882Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 32075,
+      "renderer_used": null,
+      "error_kind": "TimeoutError"
+    },
+    {
+      "at": "2025-09-01T04:53:21.803514Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6172,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T08:55:45.204150Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 10885,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T09:54:43.151040Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4309,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T11:01:19.322184Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4285,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T11:44:41.262977Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4407,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T12:45:20.077805Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5168,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T13:41:42.996106Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4453,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T15:11:12.872915Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5324,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T15:46:24.218405Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3884,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T16:59:01.277117Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3836,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T18:02:48.431263Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4116,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T19:11:41.093507Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4413,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T20:33:35.754273Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3942,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T21:15:21.786744Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3804,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T22:48:03.421622Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4361,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-01T23:57:31.655943Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3749,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T00:32:51.703415Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3926,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T01:08:07.872722Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4442,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T02:42:14.314313Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6801,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T04:00:59.971884Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4768,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T05:25:13.075383Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T06:23:57.967768Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T07:44:25.843636Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T08:17:56.408923Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4389,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T09:02:31.982035Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3209,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T10:11:17.426971Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3468,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T12:13:25.285332Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T13:14:24.949585Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 1,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T14:33:52.060083Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4693,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T15:05:33.670911Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3343,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T16:18:21.071559Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T17:37:36.432774Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7123,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T18:36:01.376048Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 57,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T20:22:03.007911Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T22:45:51.960570Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 29,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-02T23:46:51.057958Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T00:52:51.798582Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 2,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T02:14:54.647857Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T04:00:59.842907Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 14,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T06:01:58.849626Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 10,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T08:03:56.966350Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 11,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T09:04:56.532014Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T10:05:55.482337Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 2,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T12:07:53.219243Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 2,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T12:48:38.715238Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 3,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T13:59:43.068206Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7717,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-09-03T15:10:52.486802Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4434,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-09-03T15:10:52.486802Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-09-03T15:10:52.486802Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-09-03T15:10:52.486802Z",
+  "last_success_at": "2025-09-03T15:10:52.486802Z",
+  "next_scrape_at": "2025-09-03T16:35:34.685384Z",
+  "content": [
+    {
+      "title": "Backend Software Engineer II - ArcGIS Urban",
+      "link": "https://www.esri.com/careers/4823243007",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-31T01:03:34.868639Z"
+        }
+      ]
+    }
+  ]
+}
