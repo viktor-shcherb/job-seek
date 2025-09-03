@@ -2,6 +2,9 @@
 
 **Job-seek** is a Streamlit app that scrapes company career pages and ATS job boards, normalizes the results, and shows them in a lightweight dashboard with a **“newest jobs”** overview. It uses a general extractor pipeline (anchors, JSON-LD, repeated blocks, pagination/normalization) and falls back to **headless JS rendering** when a page is a JS shell. A **failure-resistant data model** tracks attempts and health to avoid flakiness across runs.
 
+<img width="1008" height="742" alt="image" src="https://github.com/user-attachments/assets/f2e968ee-59fd-4320-9ae5-a3923fb9e508" />
+
+
 ### Core features
 
 * **General scraping pipeline.** Generic extractors (anchor, JSON-LD, list items, repeated block patterns) + pagination & URL normalization aim to work across most job boards.
