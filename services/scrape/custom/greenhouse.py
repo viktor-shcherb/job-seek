@@ -11,7 +11,6 @@ from data.model import Job
 from ..url import canonical_job_url, USER_AGENT
 from ..render_client import fetch_rendered_html
 
-
 # Hosts like:
 #   - job-boards.greenhouse.io/<org>
 #   - boards.greenhouse.io/<org>

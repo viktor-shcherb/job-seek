@@ -87,9 +87,21 @@ def extract_listitem_jobs(soup: BeautifulSoup, base_url: str) -> List[Job]:
             # Try any other anchor in the same li
             for other in li.find_all("a", href=True):
                 t2 = _title_from_aria(other) or _clean_anchor_text(other)
-                if t2:
+                if t2.strip():
                     title = t2
                     break
+
+            # Try spans in the same li
+            for other in li.find_all("span"):
+                classes = other.get("class", [])
+                if isinstance(classes, str):
+                    classes = [classes]
+                if any('title' in _class for _class in classes):
+                    title = other.text
+                    if title.strip():
+                        break
+
+        print(link_abs, title)
         if not title:
             continue
 

@@ -75,7 +75,7 @@ def _find_next_href_direct(soup, current_page: int | None = None) -> str | None:
     # 2) anchors with aria-label mentioning "next" and not disabled
     for a in soup.select('a[aria-label]'):
         label = a.get("aria-label", "").lower()
-        if any(lbl in label for lbl in _NEXT_LABELS) and a.has_attr("href"):
+        if re.search(r"\b(next|go to next page|weiter|suivant|siguiente)\b", label, flags=re.I):
             if a.get("aria-disabled", "").lower() in {"true", "1"}:
                 continue
             if "disabled" in (a.get("class") or []):
@@ -100,7 +100,7 @@ def _find_next_href_direct(soup, current_page: int | None = None) -> str | None:
     # 5) last-resort: look for anchors with ?page=K (or variants) > current
     keys = ("page",) + _ALT_PAGE_KEYS
     candidates: list[tuple[int, str]] = []
-    for a in soup.select('a[href*="="]'):
+    for a in soup.select('nav[aria-label*="pagination" i] a[aria-label], ul.pagination a[aria-label], .pagination a[aria-label]'):
         href = a.get("href", "")
         for key in keys:
             m = re.search(rf"[?&]{re.escape(key)}=(\d+)\b", href)

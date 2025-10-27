@@ -51,6 +51,9 @@ JOB_DETAIL_PATTERNS = [
 
     # Workday cxs/wday canonical detail URL
     re.compile(r"(^|/)wday/(?:jobs|cxs)/[^/]+/[^/]+/job/[^/]+_(?:JR|R|REQ)[-_]?\d{4,}(?:-\d+)?(?:/|$)", re.I),
+
+    # Locale + singular "job" + human slug (Alpine AI, etc.)
+    re.compile(r"(^|/)(?:[a-z]{2}(?:-[a-z]{2})?/)?job/[\w-]{6,}(?:/|$)", re.I),
 ]
 
 
@@ -79,7 +82,7 @@ def _looks_like_job_detail_url(url: str) -> bool:
         segs = [s for s in path.split("/") if s]
         if len(segs) >= 2 and (_UUID_RE.match(segs[-1]) or segs[-1].isdigit()):
             return True
-        if any(s in {"job", "jobs", "openings"} for s in segs):
+        if any(s in {"j", "job", "jobs", "openings"} for s in segs):
             return True
 
     # Narrow "job" fallback: ensure it's not a known non-detail section,
@@ -87,7 +90,7 @@ def _looks_like_job_detail_url(url: str) -> bool:
     if "job" in path and "page=" not in url.lower():
         segs = [s for s in path.split("/") if s]
         if not (set(segs) & BAD_PATH_SEGMENTS):
-            if re.search(r"/job[s]?/[\w-]{6,}(/|$)", path):
+            if re.search(r"/job[s]?/[\w-]{4,}(/|$)", path):
                 return True
 
     return False
@@ -106,8 +109,15 @@ def _max_heading_text(node) -> str:
 
 def _title_from_aria(a) -> str:
     aria = (a.get("aria-label") or "").strip()
+    if not aria:
+        return ""
     m = re.match(r"(?i)(?:learn more about|view details for)\s+(.+)", aria)
-    return m.group(1).strip() if m else ""
+    if m:
+        return m.group(1).strip()
+    # New: accept plain aria-labels that aren't generic CTAs
+    if aria.lower() not in {"learn more", "help", "sign in", "bookmark", "share", "apply", "view job", "apply now", "connect"}:
+        return aria
+    return ""
 
 
 def _clean_anchor_text(a) -> str:

@@ -36,13 +36,24 @@ def _render_page(slug: str):
     page = JobBoard.from_file(path)
 
     # Header with icon + title
-    col_logo, col_btn = st.columns([4, 1], vertical_alignment="bottom")
-    with col_logo.container(horizontal_alignment="left", horizontal=True, vertical_alignment="bottom"):
+    with st.container(
+        horizontal=True,
+        key=f"header-{slug}",
+        horizontal_alignment="distribute",
+        vertical_alignment="center"
+    ):
         st.image(preprocess_logo(str(page.icon_url)), width=64)
-        st.title(page.title)
 
-    with col_btn.container(horizontal_alignment="right", horizontal=True, vertical_alignment="bottom"):
-        st.link_button("To Job Board", str(page.website_url))
+        with st.container(
+            horizontal=True,
+            horizontal_alignment="left",
+            vertical_alignment="top",
+            key=f"header-desc-{slug}"
+        ):
+            st.title(page.title)
+
+        url = str(page.website_url)
+        st.link_button("To Job Board", url)
 
     if page.content:
         with st.container(
@@ -93,4 +104,26 @@ def _render_page(slug: str):
                 job_id = f"job-{slug}-{job_idx}"
                 display_job(job_id, job)
     else:
-        st.info("No jobs yet.")
+        with st.container(
+                key=f"refresh-{slug}-empty",
+                horizontal=True,
+                horizontal_alignment="right",
+                vertical_alignment="center"
+        ):
+            if page.last_scraped:
+                st.info(
+                    f"Last updated "
+                    f"{(datetime.now(tz=page.last_scraped.tzinfo) - page.last_scraped).seconds / 60:.1f} "
+                    f"minutes ago."
+                )
+            else:
+                st.warning("Scraping is in progress...")
+
+            st.button(
+                ":material/refresh:",
+                key=f"refresh-btn-{slug}",
+                type="primary",
+                help="Refresh the job listings",
+                on_click=_refresh,
+                args=(slug,)
+            )

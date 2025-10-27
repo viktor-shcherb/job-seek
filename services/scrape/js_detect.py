@@ -35,5 +35,7 @@ def looks_js_shell(html: str) -> bool:
         soup.select_one('[data-buycard-app="careers"]')
     )
 
+    spinner = bool(soup.select_one(".app-loading-spinner"))
+
     # Keep the original small-DOM rule, add new triggers.
-    return ((real_nodes < 15 and scripts >= 3) or hints or has_mount or low_content or esri_shell)
+    return ((real_nodes < 15 and scripts >= 3) or hints or has_mount or low_content or esri_shell or spinner)
