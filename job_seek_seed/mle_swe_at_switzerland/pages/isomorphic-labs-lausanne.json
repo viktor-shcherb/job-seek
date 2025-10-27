@@ -1,405 +1,405 @@
 {
   "title": "Isomorphic Labs Lausanne",
-  "icon_url": "https://media.licdn.com/dms/image/v2/C4E0BAQG7B8YtLIhftg/company-logo_200_200/company-logo_200_200/0/1673275342282/isomorphic_labs_logo?e=1759363200&v=beta&t=QMZIYtZA7c8ztPVDkQvmHKU7qj1RQstWw8pWk5gGSdQ",
+  "icon_url": "https://pbs.twimg.com/profile_images/1612459719167188992/qvoHi51h_400x400.jpg",
   "website_url": "https://job-boards.greenhouse.io/isomorphiclabs?error=true&departments%5B%5D=4044354004&departments%5B%5D=4067088004&departments%5B%5D=4044355004&offices%5B%5D=4031081004",
   "attempts": [
     {
-      "at": "2025-09-01T18:01:17.577892Z",
+      "at": "2025-10-25T12:40:27.286971Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 16475,
+      "count": 5,
+      "duration_ms": 25124,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:21:20.957711Z",
+      "at": "2025-10-25T13:39:38.251490Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 20750,
+      "count": 5,
+      "duration_ms": 13559,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:17:47.616275Z",
+      "at": "2025-10-25T15:07:33.592981Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 16295,
+      "count": 5,
+      "duration_ms": 11872,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:16:37.637752Z",
+      "at": "2025-10-25T16:28:19.890697Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 16206,
+      "count": 5,
+      "duration_ms": 20522,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:10:20.509653Z",
+      "at": "2025-10-25T17:25:12.066387Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 19733,
+      "count": 5,
+      "duration_ms": 13954,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:23:43.592026Z",
+      "at": "2025-10-25T18:37:45.402469Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 26229,
+      "count": 5,
+      "duration_ms": 12059,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:49:57.115388Z",
+      "at": "2025-10-25T19:55:05.034646Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 20832,
+      "count": 5,
+      "duration_ms": 13563,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:04:47.354629Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 577,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T02:23:55.328682Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 560,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T02:59:29.642716Z",
+      "at": "2025-10-25T21:07:06.051833Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 19913,
+      "count": 5,
+      "duration_ms": 11849,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:14:13.448051Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 10245,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T04:38:02.638213Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T05:25:14.228648Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 85,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:10:41.740106Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:25.801932Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 90,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:46.851707Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:02:21.666900Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 86,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:26:31.942789Z",
+      "at": "2025-10-25T22:02:30.218224Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 17362,
+      "count": 5,
+      "duration_ms": 12908,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:17:22.200463Z",
+      "at": "2025-10-25T22:48:24.871740Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 14213,
+      "count": 5,
+      "duration_ms": 12103,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T10:01:35.083182Z",
+      "at": "2025-10-25T23:53:43.954031Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 25755,
+      "count": 5,
+      "duration_ms": 11635,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:26.391303Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:24.949585Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:41.151578Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 100,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:30:38.115621Z",
+      "at": "2025-10-26T01:09:04.083719Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 16252,
+      "count": 5,
+      "duration_ms": 12261,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:34:21.707520Z",
+      "at": "2025-10-26T02:22:23.797318Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 16181,
+      "count": 5,
+      "duration_ms": 12624,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:19:08.271428Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:37:55.619152Z",
+      "at": "2025-10-26T03:05:59.624962Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 26224,
+      "count": 5,
+      "duration_ms": 11496,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:43.692374Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 82,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:30:11.358725Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:04.132462Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 78,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:24.783181Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:53.172666Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:52.190802Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:52.929243Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:33.467164Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 59,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T02:14:54.647857Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:56.136353Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:00:59.842907Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 77,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:04.678205Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 85,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:01:58.849626Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:02:59.030804Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 82,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:03:56.966350Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 73,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:04:56.532014Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 67,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:05:56.598671Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:55.356308Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 89,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:54.309558Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 84,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:38.715238Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 66,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:07.460277Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 100,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:41:56.498898Z",
+      "at": "2025-10-26T04:49:46.079756Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 16763,
+      "count": 5,
+      "duration_ms": 20567,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:07:47.021333Z",
+      "at": "2025-10-26T06:16:00.247236Z",
       "ok": true,
-      "count": 8,
-      "duration_ms": 17627,
+      "count": 5,
+      "duration_ms": 15002,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:56:57.336567Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 21350,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:40:23.955941Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 37217,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:01:50.877701Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 13398,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:37:14.052372Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 11809,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:31:29.568575Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 12251,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:21:30.824805Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 18693,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:18:45.961371Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 13193,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:35:38.535456Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 15064,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:19:56.513779Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 11962,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:02:01.386246Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 16110,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:18:41.854411Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 11401,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:58:47.141975Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 13805,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:00:07.373962Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 14542,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:21.838022Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 428,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T20:33:05.709352Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 14761,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:07:26.803964Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 31931,
+      "renderer_used": null,
+      "error_kind": "TimeoutError"
+    },
+    {
+      "at": "2025-10-26T21:29:06.716888Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 12482,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:20:07.625047Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 423,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T22:54:51.575323Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 15187,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:21:02.171692Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 15032,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:32:10.209718Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 13351,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:49:57.750477Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 14328,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:44:56.095480Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 13357,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:42:11.788496Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 20003,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:24:27.546071Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 16501,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:01:44.462488Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 27781,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:33:46.678245Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 8023,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T07:01:59.614472Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 287,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T07:18:42.925959Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 20070,
+      "renderer_used": null,
+      "error_kind": "TimeoutError"
+    },
+    {
+      "at": "2025-10-27T07:45:14.996456Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 13648,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:05:47.790746Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 11580,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:43:28.161335Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 11230,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:31:33.666512Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 10615,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:36:52.245097Z",
+      "ok": true,
+      "count": 5,
+      "duration_ms": 12614,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:07:47.021333Z",
-    "last_nonzero_count": 8,
-    "baseline_nonzero_count": 8,
-    "last_success_at": "2025-09-03T15:07:47.021333Z",
-    "last_success_count": 8
+    "last_nonzero_at": "2025-10-27T11:36:52.245097Z",
+    "last_nonzero_count": 5,
+    "baseline_nonzero_count": 5,
+    "last_success_at": "2025-10-27T11:36:52.245097Z",
+    "last_success_count": 5
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,27 +424,17 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:07:47.021333Z",
-  "last_success_at": "2025-09-03T15:07:47.021333Z",
-  "next_scrape_at": "2025-09-03T16:36:38.923909Z",
+  "last_scraped": "2025-10-27T11:36:52.245097Z",
+  "last_success_at": "2025-10-27T11:36:52.245097Z",
+  "next_scrape_at": "2025-10-27T13:02:36.949620Z",
   "content": [
     {
-      "title": "InfoSec Risk and Governance Lead, Lausanne",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5567769004",
+      "title": "ML Research Engineer, Lausanne",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5580290004",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
-        }
-      ]
-    },
-    {
-      "title": "InfoSec Risk and Governance Lead, London",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584240004",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -455,56 +445,32 @@
         {
           "status": "active",
           "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T11:27:40.798252Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
     {
-      "title": "Research Scientist - Statistical Genetics (Computational Biology), London",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5573701004",
+      "title": "NeurIPS 2025 Interviews ; Machine Learning Engineers",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5681471004",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
-        }
-      ]
-    },
-    {
-      "title": "Security Engineer (Operations), Lausanne",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5575438004",
-      "history": [
+          "at": "2025-10-21T11:33:25.074145Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T19:42:46.918580Z"
+        },
         {
           "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
-        }
-      ]
-    },
-    {
-      "title": "Security Engineer (Operations), London",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584155004",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
-        }
-      ]
-    },
-    {
-      "title": "Staff/Principal Software Engineer (Quality Platform), London",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584163004",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
-        }
-      ]
-    },
-    {
-      "title": "Staff/Principal Software Engineer, (Quality Platform), Lausanne",
-      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5532845004",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T10:55:43.752845Z"
+          "at": "2025-10-24T13:33:07.779847Z"
         }
       ]
     },
@@ -519,6 +485,10 @@
         {
           "status": "inactive",
           "at": "2025-09-01T12:40:56.363964Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-04T12:06:15.197750Z"
         }
       ]
     },
@@ -533,6 +503,124 @@
         {
           "status": "inactive",
           "at": "2025-09-01T12:40:56.363964Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-04T12:06:15.197750Z"
+        }
+      ]
+    },
+    {
+      "title": "InfoSec Risk and Governance Lead, Lausanne",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5567769004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T12:39:40.653551Z"
+        }
+      ]
+    },
+    {
+      "title": "InfoSec Risk and Governance Lead, London",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584240004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T12:39:40.653551Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist - Statistical Genetics (Computational Biology), London",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5573701004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T17:15:44.044027Z"
+        }
+      ]
+    },
+    {
+      "title": "Security Engineer (Operations), Lausanne",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5575438004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T14:03:17.835873Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-14T21:02:15.282803Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:21:34.007580Z"
+        }
+      ]
+    },
+    {
+      "title": "Security Engineer (Operations), London",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584155004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T14:03:17.835873Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-14T21:02:15.282803Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:21:34.007580Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff/Principal Software Engineer (Quality Platform), London",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584163004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T13:33:07.779847Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff/Principal Software Engineer, (Quality Platform), Lausanne",
+      "link": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/5532845004",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T10:55:43.752845Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T13:33:07.779847Z"
         }
       ]
     }

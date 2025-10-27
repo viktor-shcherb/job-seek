@@ -1,0 +1,474 @@
+{
+  "title": "Disney Zurich",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Disney_wordmark.svg",
+  "website_url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/jobs?locations=4f84d9e8a09701011a5fda8bc93f0000",
+  "attempts": [
+    {
+      "at": "2025-10-25T15:16:47.415919Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7116,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:46:09.064184Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 9986,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:20:14.985135Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7514,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:15:02.280697Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6745,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:18:29.716926Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7603,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:53:13.919930Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7266,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:04:00.858413Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 8365,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:17:39.610916Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7858,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:24:08.399165Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6982,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:37:43.958133Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7404,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:01:27.666914Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7178,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:45:25.120061Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 8728,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:36:44.192514Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 8804,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:18:53.520107Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7855,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:16:44.120428Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 9389,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:08:51.406732Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6905,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:43:51.531157Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6623,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:15:28.293161Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 10038,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:23:40.743139Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 531,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T08:59:13.096871Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 180,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T09:19:10.781282Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7847,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:27:09.460565Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7130,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:53:32.156079Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7301,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:18:18.414285Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7420,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:27:06.697927Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7228,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:55:56.923862Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7488,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:48:12.540524Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6722,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:34:48.730870Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 8007,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:05:35.055186Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7226,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:33:45.883148Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7209,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:50:44.817445Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 207,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T21:13:33.095687Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7639,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:36:45.652727Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 1545,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T23:04:13.293451Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7876,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:10.674114Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 377,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T00:36:04.064149Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7078,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:50:35.582960Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 30587,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:28:22.305693Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6791,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:27:16.460107Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 510,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T03:45:10.460851Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 22373,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:50:55.769585Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 4352,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T05:24:27.546071Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 378,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T05:43:02.461636Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 8703,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:01:59.614472Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 291,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T07:24:07.098326Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 9056,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:41:19.323319Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 489,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T08:59:14.576152Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 255,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T09:24:41.094786Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 8516,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:54:10.882131Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7083,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:48:55.874379Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 7571,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:48:55.874379Z",
+    "last_nonzero_count": 2,
+    "baseline_nonzero_count": 2,
+    "last_success_at": "2025-10-27T11:48:55.874379Z",
+    "last_success_count": 2
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:48:55.874379Z",
+  "last_success_at": "2025-10-27T11:48:55.874379Z",
+  "next_scrape_at": "2025-10-27T13:13:43.873629Z",
+  "content": [
+    {
+      "title": "Disney Research Intern",
+      "link": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/details/Disney-Research-Intern_10040562",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T13:18:51.945494Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-15T11:45:45.169217Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-23T18:33:35.800627Z"
+        }
+      ]
+    },
+    {
+      "title": "Werkstudent (m/w/d) Studio Distribution",
+      "link": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/details/Werkstudent--m-w-d--Studio-Distribution_10127425",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T13:18:51.945494Z"
+        }
+      ]
+    },
+    {
+      "title": "Disney Research Intern",
+      "link": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/details/Disney-Research-Intern_10058950-1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T13:18:51.945494Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-15T11:45:45.169217Z"
+        }
+      ]
+    }
+  ]
+}

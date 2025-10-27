@@ -1,0 +1,532 @@
+{
+  "title": "ELCA Python Keyword",
+  "icon_url": "https://svc.swiss/sites/default/files/styles/partner_logo_fulll/public/2020-05/Anmerkung%202020-05-04%20105859.png?itok=XXCnJc9K",
+  "website_url": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/jobs?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+  "attempts": [
+    {
+      "at": "2025-10-25T15:48:56.323902Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 825,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:51:19.502056Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 1112,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:51:49.782137Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 940,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:56:55.406987Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6848,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:59:02.671329Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6967,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:04:37.783709Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5369,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:06:43.479456Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5133,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:11:24.666249Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4931,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:14:40.426266Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5249,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:17:38.741728Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 5701,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:07:53.237778Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6062,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:24:40.675141Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4756,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:23:43.600791Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8052,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:13:13.878490Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 5220,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:03:50.129689Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4553,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:19:36.820576Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6295,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:32:31.960102Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7873,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:51:15.927089Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4818,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:48:51.855988Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7033,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:47:14.127015Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4684,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:39:31.311355Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6587,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:16:44.120428Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6411,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:40:40.069898Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 5675,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:57:34.917419Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5502,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:14:41.986235Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5194,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:44:31.352143Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7940,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:20:48.029886Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6582,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:38:36.869986Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7837,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:54:55.824397Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7400,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:36:01.817765Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 5137,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:28:39.625744Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7051,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:35:16.163507Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4878,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:43:43.953061Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7230,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:21:39.332519Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6577,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:50:12.592100Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6965,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:59:51.317948Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6665,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:22:37.913070Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8982,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:54:51.575323Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6376,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:57:44.465228Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8427,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:53:43.806528Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7011,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:31:37.495046Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 5394,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:31.254739Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9379,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:10:10.942717Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 1005,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:01:00.969725Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 12416,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:01:44.462488Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8024,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:14:54.872641Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6830,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:41:19.323319Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6768,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:00:54.919848Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 13667,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:39:02.275432Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4417,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:35:17.335424Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8410,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:35:17.335424Z",
+    "last_nonzero_count": 10,
+    "baseline_nonzero_count": 10,
+    "last_success_at": "2025-10-27T11:35:17.335424Z",
+    "last_success_count": 10
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:35:17.335424Z",
+  "last_success_at": "2025-10-27T11:35:17.335424Z",
+  "next_scrape_at": "2025-10-27T12:56:40.445208Z",
+  "content": [
+    {
+      "title": "Cloud Data Platform Expert - Azure/Databricks",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2234/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Data Scientist / AI Engineer",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2520/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Internship : Data Migration",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2519/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Master Thesis / Internship : AI and ML services to enhance productivity for the first digital pension system in CH",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2536/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Master Thesis / Internship : Interactive AI support – chatbot for pension experts",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2537/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Master Thesis : Migration By LLM",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2524/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior AI Engineer",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2383/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Data Engineer - Cloud Migration",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2233/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior DevSecOps Engineer",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2529/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior System Engineer - Linux",
+      "link": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2467/?keyword=Python&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000447207&sortBy=POSTING_DATES_DESC",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T16:17:38.741728Z"
+        }
+      ]
+    }
+  ]
+}

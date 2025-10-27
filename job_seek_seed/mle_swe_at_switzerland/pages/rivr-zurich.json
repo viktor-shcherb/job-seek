@@ -1,0 +1,552 @@
+{
+  "title": "Rivr Zurich",
+  "icon_url": "https://cdn.prod.website-files.com/678fa1df881122e8d132e8cf/679b85134042bc04a590a2bc_Favicon_Standard_x512.png",
+  "website_url": "https://jobs.lever.co/rivr?department=Engineering&location=Zurich",
+  "attempts": [
+    {
+      "at": "2025-10-24T11:09:52.924272Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1370,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T07:48:17.638882Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1689,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T08:43:31.705671Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1486,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:03:44.911961Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1552,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:47:20.386538Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1375,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T11:57:06.765612Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1275,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T13:11:50.970015Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1283,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:30:13.011574Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 5363,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:46:46.588855Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1659,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:39:58.896222Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1400,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:44:57.708480Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1296,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:01:29.550505Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 5052,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:40:54.822172Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1333,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:46:05.620458Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 2327,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:07:05.333775Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1478,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:48:39.028385Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1308,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:31:19.199842Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1291,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:55:25.408003Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1306,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:34:56.937604Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1360,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:18:49.176127Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1370,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:09:01.255683Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1421,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:50:07.650601Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1359,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:16:21.212012Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 2385,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:38:27.163899Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 2623,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:23:40.743139Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 2052,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:24:55.181152Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1638,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:03:13.935547Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1336,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:32:47.227390Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1370,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:00:00.642652Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1369,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:00:31.615768Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 2425,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:15:13.472790Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1339,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:41:26.496437Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1265,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:41:44.774988Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1490,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:16:02.385457Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1465,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:32:51.572228Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1620,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:33:34.279623Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 5036,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:05:54.500404Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1261,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:54:57.673758Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1550,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:55:32.684682Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1436,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:24:09.087960Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1289,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:50:35.582960Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 7244,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:28:16.313496Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1466,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:53:46.357910Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1704,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:24:46.073992Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1340,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:50:19.781918Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1691,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:45:41.042920Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1685,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:59:25.230604Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1248,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:44:17.906613Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1332,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:32:39.628464Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1662,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:35:59.297476Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 1260,
+      "renderer_used": false,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:35:59.297476Z",
+    "last_nonzero_count": 12,
+    "baseline_nonzero_count": 12,
+    "last_success_at": "2025-10-27T11:35:59.297476Z",
+    "last_success_count": 12
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:35:59.297476Z",
+  "last_success_at": "2025-10-27T11:35:59.297476Z",
+  "next_scrape_at": "2025-10-27T12:59:04.254766Z",
+  "content": [
+    {
+      "title": "AI Engineer - Imitation Learning (Senior)",
+      "link": "https://jobs.lever.co/rivr/76924145-539b-4b91-afce-0d6e08e6dce4",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Engineer - Reinforcement Learning (Senior)",
+      "link": "https://jobs.lever.co/rivr/e48a50a8-7e72-4a15-8cf4-a32af3febdaa",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Embedded Systems Engineer",
+      "link": "https://jobs.lever.co/rivr/a17332df-af03-4c22-8e59-bbc4881c4298",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Mechanical Engineer (Junior)",
+      "link": "https://jobs.lever.co/rivr/2b332a67-ca91-4f10-9c1a-452a9ad923e5",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Mechanical Engineer (Senior)",
+      "link": "https://jobs.lever.co/rivr/43e8cea7-b0f7-40fc-9447-8edc91b0cdd2",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Reinforcement Learning Intern",
+      "link": "https://jobs.lever.co/rivr/5798a1e4-a941-41a4-b332-fcb201027620",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Robotics Wireless & Network  Engineer",
+      "link": "https://jobs.lever.co/rivr/708b88de-0c58-4a3c-9546-8e7590b625c3",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Safety & Compliance Lead",
+      "link": "https://jobs.lever.co/rivr/c5842a53-ae4c-4f5c-a937-3d544a9c2754",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Front End Developer",
+      "link": "https://jobs.lever.co/rivr/6b0c1cf8-d6d9-40ea-a35a-4beb96bb68b5",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer – MLOps",
+      "link": "https://jobs.lever.co/rivr/5ade05de-9948-4b8a-9d1b-f2e7d6931189",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer – DevOps",
+      "link": "https://jobs.lever.co/rivr/c16c2144-d560-4db2-8194-8a3cf604ae7b",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    },
+    {
+      "title": "Testing Engineer",
+      "link": "https://jobs.lever.co/rivr/5bc972e3-75ff-4ac3-a24b-ce6bb494e957",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:47:24.482656Z"
+        }
+      ]
+    }
+  ]
+}

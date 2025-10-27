@@ -4,402 +4,402 @@
   "website_url": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/jobs?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
   "attempts": [
     {
-      "at": "2025-09-01T20:27:50.943148Z",
+      "at": "2025-10-25T11:39:03.009173Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7603,
+      "count": 10,
+      "duration_ms": 7221,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:43:21.402355Z",
+      "at": "2025-10-25T12:30:24.327343Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7538,
+      "count": 10,
+      "duration_ms": 7803,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:48:35.105051Z",
+      "at": "2025-10-25T13:37:12.701419Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7407,
+      "count": 10,
+      "duration_ms": 6838,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:54:56.854385Z",
+      "at": "2025-10-25T14:33:45.530689Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 18340,
+      "count": 10,
+      "duration_ms": 6625,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:08:07.872722Z",
+      "at": "2025-10-25T15:57:45.471731Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 39251,
+      "renderer_used": null,
+      "error_kind": "TargetClosedError"
+    },
+    {
+      "at": "2025-10-25T16:18:46.426842Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 9077,
+      "count": 10,
+      "duration_ms": 7771,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:04:47.354629Z",
+      "at": "2025-10-25T17:33:01.787828Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7141,
+      "count": 10,
+      "duration_ms": 7225,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:27:45.284090Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 483,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T04:00:59.971884Z",
+      "at": "2025-10-25T18:12:59.745990Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 8163,
+      "count": 10,
+      "duration_ms": 6777,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:14.228648Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:10:41.740106Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 59,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:25.801932Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 67,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:46.851707Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:44:25.843636Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:02:21.666900Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 73,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:24:08.828359Z",
+      "at": "2025-10-25T19:08:37.420647Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 8123,
+      "count": 10,
+      "duration_ms": 7859,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:45:25.077370Z",
+      "at": "2025-10-25T19:46:05.507897Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7494,
+      "count": 10,
+      "duration_ms": 7292,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:26.391303Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:26.068337Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:42.297129Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 85,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:26:20.948735Z",
+      "at": "2025-10-25T20:33:50.672599Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7229,
+      "count": 10,
+      "duration_ms": 7398,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:22.203153Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 81,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T16:39:34.460122Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 71,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:19:09.524140Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 81,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:35:37.482735Z",
+      "at": "2025-10-25T21:17:10.860664Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 9596,
+      "count": 10,
+      "duration_ms": 7617,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:01.376048Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 98,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:10:43.692374Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 71,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:42:53.733247Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 85,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:04.132462Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 53,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:43:53.427561Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:26.043424Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 88,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:53.172666Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 52,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:52.190802Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 71,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:54.054696Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:34.579323Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 154,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:56.136353Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 53,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:01:01.115022Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:04.678205Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 53,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:02:00.046593Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:02:59.030804Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 53,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:03:58.137080Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:26:12.067677Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 57,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:04:57.672747Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 71,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:05:56.598671Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 55,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:55.356308Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:54.309558Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 61,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:39.822829Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 91,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:08.622538Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 82,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:38:44.799731Z",
+      "at": "2025-10-25T21:56:25.145004Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6807,
+      "count": 10,
+      "duration_ms": 7712,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:40:49.070888Z",
+      "at": "2025-10-25T23:18:16.847410Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6620,
+      "count": 0,
+      "duration_ms": 22408,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:53:09.735900Z",
+      "at": "2025-10-25T23:55:16.095803Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 7018,
+      "count": 10,
+      "duration_ms": 7255,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:30:18.739009Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8455,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:30:59.443215Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8140,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:01:11.475238Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7401,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:49:00.250967Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8635,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:16:56.142216Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9339,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:08:09.798801Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7127,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:21:40.736707Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 723,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T06:58:03.312474Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8429,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:14:41.986235Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 22612,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:59:13.096871Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7429,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:23:07.376659Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7564,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:16:57.207937Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8103,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:31:37.785451Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8341,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:30:19.963484Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8139,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:34:09.536571Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9615,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:14:24.513866Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7749,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:25:28.886542Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8332,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:06:19.918792Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 23265,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:39:19.717711Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7168,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:58:30.350500Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7281,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:59:41.617307Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8692,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:51:10.002152Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8960,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:15:57.921890Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7213,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:39:07.057237Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9323,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:20:31.535138Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 430,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T00:53:43.806528Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9768,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:09:07.227558Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9030,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:07:46.141385Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8667,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:42:11.788496Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 11227,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:43:16.340125Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7987,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:14:54.872641Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 22887,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:13.572022Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9265,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:06:00.380091Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 6842,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:01:16.669577Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 9575,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:18:58.108516Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 7320,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:53:09.735900Z",
-    "last_nonzero_count": 3,
-    "baseline_nonzero_count": 3,
-    "last_success_at": "2025-09-03T15:53:09.735900Z",
-    "last_success_count": 3
+    "last_nonzero_at": "2025-10-27T11:18:58.108516Z",
+    "last_nonzero_count": 10,
+    "baseline_nonzero_count": 10,
+    "last_success_at": "2025-10-27T11:18:58.108516Z",
+    "last_success_count": 10
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,9 +424,9 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:53:09.735900Z",
-  "last_success_at": "2025-09-03T15:53:09.735900Z",
-  "next_scrape_at": "2025-09-03T16:46:25.689102Z",
+  "last_scraped": "2025-10-27T11:18:58.108516Z",
+  "last_success_at": "2025-10-27T11:18:58.108516Z",
+  "next_scrape_at": "2025-10-27T12:05:14.215079Z",
   "content": [
     {
       "title": "Global Head of Direct-to-Consumer (DTC) E-Commerce",
@@ -439,12 +439,32 @@
       ]
     },
     {
-      "title": "Global Marketing Intern – Personal Workspace Solutions",
-      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Global-Marketing-Intern---Personal-Workspace-Solutions_143869?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "title": "Head of Brand & Marketing, Logitech Personal Workspace Solutions (PWS)",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Head-of-Brand---Marketing--Logitech-Personal-Workspace-Solutions--PWS-_141978?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T21:37:36.774203Z"
+          "at": "2025-10-23T12:42:39.898852Z"
+        }
+      ]
+    },
+    {
+      "title": "Principal Product Specialist",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Principal-Product-Specialist_144411?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T16:26:22.795916Z"
+        }
+      ]
+    },
+    {
+      "title": "Principal/ Lead AI/ML Engineer, Video (R&D)",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Sr-AI-ML-Engineer--Video--R-D-_144373?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T18:50:20.287379Z"
         }
       ]
     },
@@ -455,6 +475,84 @@
         {
           "status": "active",
           "at": "2025-08-28T21:37:36.774203Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Manager - Authentication & Security",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Senior-Product-Manager---Authentication---Security_144180?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T16:16:25.060106Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Manager - B2B Personal Workspace",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Senior-Product-Manager---B2B-Personal-Workspace_144290?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T06:27:04.541071Z"
+        }
+      ]
+    },
+    {
+      "title": "Sr. AI/ML Engineer, Video (R&D)",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Sr-AI-ML-Engineer--Video--R-D-_144374?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T13:56:19.315627Z"
+        }
+      ]
+    },
+    {
+      "title": "Sr. AI/ML Engineer, Video (Technology Office)",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Sr-ML-Engineer_144292?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-13T13:13:21.646811Z"
+        }
+      ]
+    },
+    {
+      "title": "System Security Architect",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/System-Security-Architect_144163?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:42.069879Z"
+        }
+      ]
+    },
+    {
+      "title": "Consumer marketing manager PWS, Switzerland",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Consumer-marketing-manager-PWS--Switzerland_144029?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:42.069879Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-15T13:30:01.714516Z"
+        }
+      ]
+    },
+    {
+      "title": "Global Marketing Intern – Personal Workspace Solutions",
+      "link": "https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/details/Global-Marketing-Intern---Personal-Workspace-Solutions_143869?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:37:36.774203Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T20:37:35.340194Z"
         }
       ]
     }

@@ -1,0 +1,578 @@
+{
+  "title": "Thomson Reuters Switzerland",
+  "icon_url": "https://cdn1-assets.talendo.ch/uploads/logo_image_item/file/f3144cefe89a60d6a1afaf7859c5076b/1489588477/thomson-reuters-logo-talendo.png",
+  "website_url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/jobs?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+  "attempts": [
+    {
+      "at": "2025-10-25T10:43:56.262505Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8508,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T12:09:30.951870Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8919,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T12:53:54.499196Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9050,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T13:39:19.077402Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8083,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:52:53.952713Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7991,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:01:38.400810Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7962,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:53:27.419642Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7698,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:51:49.087579Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8562,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:31:14.889070Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7464,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:01:06.222578Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8136,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:34:12.177363Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7931,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:44:36.626180Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8050,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:38:34.750254Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9210,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:51:45.503785Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8180,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:44:44.696538Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8173,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:24:35.216872Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9037,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:42:57.668846Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7504,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:56:40.963211Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 10290,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:52:24.102969Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7396,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:43:22.010961Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7655,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:15:56.894358Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7601,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:15:08.274885Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8754,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:44:44.695059Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8048,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:57:51.803022Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8130,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:58:07.687281Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7740,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:38:51.093977Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8027,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:14:50.316242Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8303,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:52:35.261373Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8595,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:38:19.443159Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8902,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:17:02.889364Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9359,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:13:41.708308Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9286,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:16:12.813195Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9431,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:53:09.783593Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8622,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:13:19.833632Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9009,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:16:07.858773Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7872,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:17:55.019799Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8274,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:01:41.331643Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8291,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:04:13.293451Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8462,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:21.897598Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7859,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:13:19.471043Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7940,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:09:48.841928Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8502,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:46:04.737974Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8312,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:53:46.357910Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9389,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:25:11.329081Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7559,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:20:30.639184Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8273,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:45:41.042920Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 8586,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:06:58.662480Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 7433,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:07:54.401573Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 9485,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:00:56.485570Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 262,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T11:19:31.233917Z",
+      "ok": true,
+      "count": 9,
+      "duration_ms": 26282,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:19:31.233917Z",
+    "last_nonzero_count": 9,
+    "baseline_nonzero_count": 9,
+    "last_success_at": "2025-10-27T11:19:31.233917Z",
+    "last_success_count": 9
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:19:31.233917Z",
+  "last_success_at": "2025-10-27T11:19:31.233917Z",
+  "next_scrape_at": "2025-10-27T12:33:59.901274Z",
+  "content": [
+    {
+      "title": "Applied Scientist I",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Applied-Scientist-I_JREQ195437?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-24T11:10:28.145263Z"
+        }
+      ]
+    },
+    {
+      "title": "Applied Scientist III",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Applied-Scientist-III_JREQ194404?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:32:55.401434Z"
+        }
+      ]
+    },
+    {
+      "title": "Director, Applied Research – Corporates Tax & Trade",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Director--Applied-Research---Corporates-Tax---Trade_JREQ194275-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Applied Scientist - Legal Tech",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Applied-Scientist---Legal-Tech_JREQ194361-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T14:44:22.377938Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Applied Scientist I",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Applied-Scientist-I_JREQ191200?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Applied Scientist I",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Applied-Scientist-I_JREQ191194?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Applied Scientist – Research Products",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Applied-Scientist---Research_JREQ187572?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Research Engineer",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Research-Engineer_JREQ178687?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Software Engineer, CoCounsel AI Assistant",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Software-Engineer--CoCounsel-AI-Assistant_JREQ193313?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-05T12:35:46.365719Z"
+        }
+      ]
+    },
+    {
+      "title": "Applied Scientist I",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Applied-Scientist-I_JREQ194085?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T14:44:22.377938Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Applied Scientist - Legal Tech",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Lead-Applied-Scientist---Legal-Tech_JREQ193724-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T14:44:22.377938Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Applied Scientist, NLP/KG/GenAI",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Senior-Applied-Scientist--NLP-KG-GenAI_JREQ191210?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-09T11:37:08.674311Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Applied Scientist, NLP/ML/GenAI",
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/details/Senior-Applied-Scientist--NLP-ML-GenAI_JREQ189559?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=45878602fca640ccb862953105224698",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:45:43.254006Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:23:24.829043Z"
+        }
+      ]
+    }
+  ]
+}

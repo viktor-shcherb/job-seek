@@ -4,402 +4,402 @@
   "website_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locations=91336993fab910af6d6f7e35a07cc162&locations=91336993fab910af6d6f80c09504c167&locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
   "attempts": [
     {
-      "at": "2025-09-01T21:17:18.405844Z",
+      "at": "2025-10-25T10:21:07.038996Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 9190,
+      "duration_ms": 7366,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:30:11.594958Z",
+      "at": "2025-10-25T11:10:40.235394Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7931,
+      "duration_ms": 8867,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:24:20.117519Z",
+      "at": "2025-10-25T12:35:00.258341Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7947,
+      "duration_ms": 8493,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:49:57.115388Z",
+      "at": "2025-10-25T13:54:35.398178Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7782,
+      "duration_ms": 7365,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:05:16.643628Z",
+      "at": "2025-10-25T14:36:57.415418Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7577,
+      "duration_ms": 7735,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:59:29.642716Z",
+      "at": "2025-10-25T16:01:58.403487Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7674,
+      "duration_ms": 7862,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:45:30.003278Z",
+      "at": "2025-10-25T16:40:50.704444Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 8255,
+      "duration_ms": 7702,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:22:41.119549Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T04:39:50.118589Z",
+      "at": "2025-10-25T18:06:34.832681Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 9396,
+      "duration_ms": 7561,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T06:10:42.882631Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:26.971858Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 61,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:48.430346Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:44:31.043846Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:03:41.007207Z",
+      "at": "2025-10-25T18:47:28.937430Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 8781,
+      "duration_ms": 8107,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:41:14.666024Z",
+      "at": "2025-10-25T19:37:39.411223Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7667,
+      "duration_ms": 8203,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:49:49.396680Z",
+      "at": "2025-10-25T20:36:56.132433Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 17605,
+      "duration_ms": 7583,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:27.935540Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:27.620944Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:42.297129Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:29:26.169883Z",
+      "at": "2025-10-25T21:33:41.262603Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7645,
+      "duration_ms": 7984,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:22.203153Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 204,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T16:39:34.460122Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:19:09.524140Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:41:30.154912Z",
+      "at": "2025-10-25T22:32:45.987664Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 9197,
+      "duration_ms": 8380,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:02.538587Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 106,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:10:45.256133Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 89,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:32:02.492353Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:05.268767Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 65,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:43:54.581875Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 82,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:26.043424Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 61,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:54.303570Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:53.729959Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:54.054696Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 59,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:36.362047Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:57.275584Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:01:01.115022Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:05.822497Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:02:00.046593Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:03:00.170412Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:03:58.137080Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 59,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:26:13.207951Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 73,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:04:57.672747Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 61,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:05:57.744314Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:56.878098Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:55.822331Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:39.822829Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 83,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:08.622538Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 48,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:44:55.132659Z",
+      "at": "2025-10-25T23:07:02.023409Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 7655,
+      "duration_ms": 7668,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:22:44.137493Z",
+      "at": "2025-10-26T00:25:30.523132Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 8027,
+      "duration_ms": 8238,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:02:13.167960Z",
+      "at": "2025-10-26T01:09:52.574679Z",
       "ok": true,
       "count": 20,
-      "duration_ms": 8916,
+      "duration_ms": 8094,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:04:26.248377Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8062,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:48:12.136574Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7894,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:56:25.459033Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7615,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:50:07.650601Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8124,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:44:49.234892Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8798,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:58:03.312474Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7678,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:57:22.987849Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7895,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:19:21.202050Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7918,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:02:43.978123Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7798,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:30:33.254269Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8936,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:07:26.101780Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7308,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:41:11.855297Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7878,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:06:12.950719Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 9697,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:11:16.902460Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7878,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:50:21.046284Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8630,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:39:02.368975Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7709,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:23:44.665600Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8544,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:12:46.501069Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7777,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:40:55.509058Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7939,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:51:10.002152Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8943,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:58:23.877036Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7463,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:20:39.702144Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 23402,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:21.897598Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8051,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:54:26.374293Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8263,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:50:35.582960Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7754,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:31.254739Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 15109,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:10:20.545912Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 39940,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:24:46.073992Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 9663,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:20:30.639184Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7644,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:45:14.996456Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 22574,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:43:02.900369Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7310,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:25:06.414268Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7786,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:27:14.383541Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7303,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:46:51.085046Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8519,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,10 +410,10 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:02:13.167960Z",
+    "last_nonzero_at": "2025-10-27T11:46:51.085046Z",
     "last_nonzero_count": 20,
     "baseline_nonzero_count": 20,
-    "last_success_at": "2025-09-03T15:02:13.167960Z",
+    "last_success_at": "2025-10-27T11:46:51.085046Z",
     "last_success_count": 20
   },
   "policy": {
@@ -424,10 +424,40 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:02:13.167960Z",
-  "last_success_at": "2025-09-03T15:02:13.167960Z",
-  "next_scrape_at": "2025-09-03T16:11:11.335737Z",
+  "last_scraped": "2025-10-27T11:46:51.085046Z",
+  "last_success_at": "2025-10-27T11:46:51.085046Z",
+  "next_scrape_at": "2025-10-27T12:18:04.511259Z",
   "content": [
+    {
+      "title": "AI Agent And Infrastructure Engineer Intern - Fall 2025",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/AI-Agent-And-Infrastructure-Engineer-Intern---Fall-2025_JR2003999?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-18T13:50:17.044009Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Developer Technology Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/AI-Developer-Technology-Engineer_JR1976952?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:10:07.654851Z"
+        }
+      ]
+    },
+    {
+      "title": "CPU Compiler Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/CPU-Compiler-Engineer_JR2005685?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T15:14:52.368652Z"
+        }
+      ]
+    },
     {
       "title": "Deep Learning Engineer, LLM Accuracy Evaluation",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Deep-Learning-Engineer--LLM-Accuracy-Evaluation_JR2001661?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
@@ -439,208 +469,170 @@
       ]
     },
     {
-      "title": "Deep Learning Solutions Architect – Large Scale Inference Optimization",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Deep-Learning-Solutions-Architect---Large-Scale-Inference-Optimization_JR1999831?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Deep Learning Solutions Architect – Inference Optimization",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Deep-Learning-Solutions-Architect---Inference-Optimization_JR2005942?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-14T19:11:19.489501Z"
         }
       ]
     },
     {
-      "title": "Distinguished Software Architect - Deep Learning and HPC Communications",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1997938?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Developer-Technology-Engineering-Intern---Compute-Performance_JR2006687?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-25T08:06:06.931677Z"
         }
       ]
     },
     {
-      "title": "HPC and AI Software Architect",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/HPC-and-AI-Software-Architect_JR1997486?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Graphics and AI Tools Engineering Intern - 2026",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Graphics-and-AI-Tools-Engineering-Intern---2026_JR2005761?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-18T13:50:17.044009Z"
         }
       ]
     },
     {
-      "title": "HPC and AI Software Architecture Intern - 2025",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/HPC-and-AI-Software-Architecture-Intern---2025_JR1993534?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Healthcare AI Startups Lead, DACH",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Healthcare-AI-Startups-Lead--DACH_JR2004637?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Deep Learning Engineer, Deep Learning Algorithms",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Engineer--Deep-Learning-Algorithms_JR2001639-1?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-29T11:09:03.862848Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Deep Learning Engineer, Visual Generative AI",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Engineer--Visual-Generative-AI_JR2001638?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-29T11:09:03.862848Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Deep Learning Performance Engineer - Training at Scale",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Performance-Software-Engineer_JR1980206?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior HPC Performance Engineer",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-HPC-Performance-Engineer_JR2001201?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Performance Analysis Engineer",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Performance-Analysis-Engineer_JR1998185?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Python DL Automation Engineer, Deep Learning Algorithms",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Python-DL-Automation-Engineer--Deep-Learning-Algorithms_JR2001636?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-29T11:09:03.862848Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Software and System Architect",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-and-System-Architect_JR1997578?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-09T16:10:07.654851Z"
         },
         {
           "status": "inactive",
-          "at": "2025-08-29T11:09:03.862848Z"
+          "at": "2025-10-18T13:50:17.044009Z"
         },
         {
           "status": "active",
-          "at": "2025-09-02T14:29:26.169883Z"
+          "at": "2025-10-23T00:06:52.805248Z"
+        }
+      ]
+    },
+    {
+      "title": "Manager, LLM Accuracy Evaluation",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Manager--LLM-Accuracy-Evaluation_JR2003650?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-10T12:39:40.653551Z"
+        }
+      ]
+    },
+    {
+      "title": "Multimodal Deep Learning Solution Architect - Vision Language and Action Models",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Multimodal-Deep-Learning-Solution-Architect---Vision-Language-and-Action-Models_JR2004760?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T22:24:09.762802Z"
+        }
+      ]
+    },
+    {
+      "title": "PhD Research Intern, Autonomous Vehicles - 2026",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/PhD-Research-Intern--Autonomous-Vehicles---2026_JR2004995?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-18T13:50:17.044009Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior CPU Performance Developer Technology Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-CPU-Performance-Developer-Technology-Engineer_JR2003570?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-07T23:16:00.907417Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Deep Learning Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Engineer_JR2005604?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:10:07.654851Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Network Researcher",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Network-Researcher_JR2006472?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-21T17:14:29.559184Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Site-Reliability-Engineer_JR2005866?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-13T22:57:15.742189Z"
         }
       ]
     },
     {
       "title": "Senior Software Architect - Deep Learning and HPC Communications",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR1997937?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2001829?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-24T11:09:52.924272Z"
         }
       ]
     },
     {
-      "title": "Senior Software Developer",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Developer_JR1998123?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Senior Software Engineer - DGX Cloud API Services",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer---DGX-Cloud-API-Services_JR2006538?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        },
-        {
-          "status": "inactive",
-          "at": "2025-08-29T11:09:03.862848Z"
-        },
-        {
-          "status": "active",
-          "at": "2025-09-01T11:19:12.998499Z"
+          "at": "2025-10-22T15:35:05.347047Z"
         }
       ]
     },
     {
-      "title": "Senior Software Engineer - Image and Data Processing Libraries",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer---Image-and-Data-Processing-Libraries_JR1998065?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Senior System Software Developer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-System-Software-Developer_JR2005848?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-13T22:57:15.742189Z"
         }
       ]
     },
     {
-      "title": "Senior Software Engineer, Humanoid Robotics",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer--Humanoid-Robotics_JR2001773?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Solution Architect – Digital Biology",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Solution-Architect---Digital-Biology_JR2006539?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-27T10:27:14.383541Z"
         }
       ]
     },
     {
-      "title": "Senior System Software Engineer, NCCL - Partner Enablement",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-System-Software-Engineer--NCCL---Partner-Enablement_JR1997936?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "title": "Solution Architect, Financial Services",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Solution-Architect--Financial-Services_JR2006144?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineering Intern, Infrastructure - Autumn 2025",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Software-Engineering-Intern--Infrastructure---Autumn-2025_JR2002805-1?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-03T13:44:55.132659Z"
-        }
-      ]
-    },
-    {
-      "title": "Solution Architect - Telco",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Solution-Architect---Telco_JR2000357?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
-        }
-      ]
-    },
-    {
-      "title": "System Software Engineering Manager, Calibration - Autonomous Vehicles",
-      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/System-Software-Engineering-Manager--Calibration---Autonomous-Vehicles_JR1999684-1?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:47:59.896906Z"
+          "at": "2025-10-21T16:03:21.896783Z"
         }
       ]
     },
@@ -674,6 +666,20 @@
     },
     {
       "title": "Deep Learning Solutions Architect – Large Scale Inference Optimization",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Deep-Learning-Solutions-Architect---Large-Scale-Inference-Optimization_JR1999831?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:10:07.654851Z"
+        }
+      ]
+    },
+    {
+      "title": "Deep Learning Solutions Architect – Large Scale Inference Optimization",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Deep-Learning-Solutions-Architect---Large-Scale-Inference-Optimization_JR1999831?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
@@ -683,6 +689,20 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Distinguished Software Architect - Deep Learning and HPC Communications",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1997938?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-14T19:11:19.489501Z"
         }
       ]
     },
@@ -730,6 +750,28 @@
     },
     {
       "title": "HPC and AI Software Architect",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/HPC-and-AI-Software-Architect_JR1997486?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T18:21:35.924817Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-13T11:32:48.712087Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T22:57:15.742189Z"
+        }
+      ]
+    },
+    {
+      "title": "HPC and AI Software Architect",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/HPC-and-AI-Software-Architect_JR1997486?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
@@ -739,6 +781,20 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "HPC and AI Software Architecture Intern - 2025",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/HPC-and-AI-Software-Architecture-Intern---2025_JR1993534?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:31:35.763148Z"
         }
       ]
     },
@@ -767,6 +823,22 @@
         {
           "status": "inactive",
           "at": "2025-08-29T11:09:03.862848Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-18T18:31:35.763148Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-24T14:46:51.274893Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-29T09:28:21.285913Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T15:35:57.382592Z"
         }
       ]
     },
@@ -781,6 +853,76 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Cloud Native Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Cloud-Native-Engineer_JR2004753?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:21:35.924817Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T21:28:54.150006Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Deep Learning Compiler Engineer - PyTorch",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Compiler-Engineer---PyTorch_JR2001403?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T10:45:56.234305Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T15:35:05.347047Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Deep Learning Engineer, Deep Learning Algorithms",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Engineer--Deep-Learning-Algorithms_JR2001639-1?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T11:09:03.862848Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T09:28:21.285913Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Deep Learning Engineer, Visual Generative AI",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Engineer--Visual-Generative-AI_JR2001638?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T11:09:03.862848Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:10:07.654851Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Deep Learning Performance Engineer - Training at Scale",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Deep-Learning-Performance-Software-Engineer_JR1980206?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T17:14:29.559184Z"
         }
       ]
     },
@@ -800,6 +942,20 @@
     },
     {
       "title": "Senior HPC Performance Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-HPC-Performance-Engineer_JR2001201?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T13:50:17.044009Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior HPC Performance Engineer",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-HPC-Performance-Engineer_JR2001201?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
@@ -809,6 +965,34 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Math Libraries Engineer, CPU and GPU Optimization",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Math-Libraries-Engineer--CPU-and-GPU-Optimization_JR2004474?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T16:17:20.588320Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T11:09:52.924272Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Performance Analysis Engineer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Performance-Analysis-Engineer_JR1998185?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:31:35.763148Z"
         }
       ]
     },
@@ -823,6 +1007,88 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Python DL Automation Engineer, Deep Learning Algorithms",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Python-DL-Automation-Engineer--Deep-Learning-Algorithms_JR2001636?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T11:09:03.862848Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:10:07.654851Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Site Reliability Engineering - Infrastructure",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Site-Reliability-Engineering---Infrastructure_JR2004204?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T10:59:39.542579Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T08:04:10.057737Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software and System Architect",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-and-System-Architect_JR1997578?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-29T11:09:03.862848Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-02T14:29:26.169883Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T10:45:56.234305Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-05T12:34:36.297275Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-07T23:16:00.907417Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-10T14:58:51.180533Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T10:59:39.542579Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-29T08:04:10.057737Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T22:24:09.762802Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-13T21:28:54.150006Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T22:57:15.742189Z"
         }
       ]
     },
@@ -842,6 +1108,20 @@
     },
     {
       "title": "Senior Software Architect - Deep Learning and HPC Communications",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR1997937?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-14T09:30:48.718955Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Architect - Deep Learning and HPC Communications",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR1997937?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
@@ -856,6 +1136,42 @@
     },
     {
       "title": "Senior Software Developer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Developer_JR2005130?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:10:07.654851Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T09:01:27.425681Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Developer",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Developer_JR1998123?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-08-29T11:09:03.862848Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-01T11:19:12.998499Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:10:07.654851Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Developer",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Software-Developer_JR1998123?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
@@ -865,6 +1181,34 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Developer, HPC Cluster Management",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Developer--HPC-Cluster-Management_JR2005124?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T15:35:57.382592Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-25T08:06:06.931677Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer - Image and Data Processing Libraries",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer---Image-and-Data-Processing-Libraries_JR1998065?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T16:03:21.896783Z"
         }
       ]
     },
@@ -884,6 +1228,20 @@
     },
     {
       "title": "Senior Software Engineer, Humanoid Robotics",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer--Humanoid-Robotics_JR2001773?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T14:58:51.180533Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Humanoid Robotics",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Software-Engineer--Humanoid-Robotics_JR2001773?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
         {
@@ -893,6 +1251,20 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, MathDx – cuBLASDx and cuSolverDx",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer--MathDx---cuBLASDx-and-cuSolverDx_JR2003836?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-24T14:46:51.274893Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T00:06:52.805248Z"
         }
       ]
     },
@@ -907,6 +1279,22 @@
         {
           "status": "inactive",
           "at": "2025-09-02T14:29:26.169883Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-23T10:54:25.549123Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T16:17:20.588320Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-14T09:30:48.718955Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-27T11:46:51.085046Z"
         }
       ]
     },
@@ -921,6 +1309,28 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior System Software Engineer, NCCL - Partner Enablement",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-System-Software-Engineer--NCCL---Partner-Enablement_JR1997936?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T13:50:17.044009Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T11:32:42.336193Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:14:52.368652Z"
         }
       ]
     },
@@ -967,6 +1377,34 @@
       ]
     },
     {
+      "title": "Software Engineering Intern, Infrastructure - Autumn 2025",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Software-Engineering-Intern--Infrastructure---Autumn-2025_JR2002805-1?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T13:44:55.132659Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-05T12:34:36.297275Z"
+        }
+      ]
+    },
+    {
+      "title": "Solution Architect - Telco",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Solution-Architect---Telco_JR2000357?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T11:32:42.336193Z"
+        }
+      ]
+    },
+    {
       "title": "Solution Architect - Telco",
       "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Solution-Architect---Telco_JR2000357?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
       "history": [
@@ -977,6 +1415,20 @@
         {
           "status": "inactive",
           "at": "2025-08-28T20:47:59.896906Z"
+        }
+      ]
+    },
+    {
+      "title": "System Software Engineering Manager, Calibration - Autonomous Vehicles",
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/System-Software-Engineering-Manager--Calibration---Autonomous-Vehicles_JR1999684-1?locationHierarchy1=2fcb99c455831013ea52e9ef1a0032ba",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T20:47:59.896906Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T14:58:51.180533Z"
         }
       ]
     },

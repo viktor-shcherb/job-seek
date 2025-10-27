@@ -1,0 +1,576 @@
+{
+  "title": "Nexthink",
+  "icon_url": "https://media.graphassets.com/rLruRfoSSJWqnGitNRAV",
+  "website_url": "https://careers.smartrecruiters.com/Nexthink/?search=Lausanne",
+  "attempts": [
+    {
+      "at": "2025-10-23T17:13:58.649190Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 433,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-23T18:42:44.086096Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 419,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-23T20:37:35.340194Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 913,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-24T11:09:18.015611Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 531,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T07:47:43.027517Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 581,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T08:56:15.359852Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 396,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T09:55:59.758931Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 410,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:36:39.048129Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 375,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T11:30:56.012326Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 419,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T12:51:32.548873Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 395,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T13:21:38.692864Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 498,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:43:39.849300Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 386,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:03:00.523731Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 534,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:21:40.508236Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 404,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:11:26.640862Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 432,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:33:27.075924Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 533,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:59:01.825059Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 471,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:14:32.142811Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 372,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:52:06.472314Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 396,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:45:04.949998Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 452,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:12:21.533417Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 389,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:07:26.165798Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 411,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:39:31.311355Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 434,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:50:07.650601Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 473,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:21:40.736707Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1136,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:38:27.163899Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 527,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:59:42.734724Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 380,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:07:56.085709Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 374,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:12:08.655867Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 380,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:37:34.207338Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 418,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:33:56.476520Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 397,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:53:22.362728Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 506,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:03:28.996377Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 438,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:33:14.095912Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 445,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:25:18.786668Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 464,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:41.810372Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 412,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:14:28.064803Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 414,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:48:39.665705Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 485,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:04:13.293451Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 486,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:21.897598Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 459,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:31:48.114909Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 593,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:27:53.569903Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 418,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:27:39.221656Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 1284,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:48:55.881126Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 713,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:20:30.639184Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 424,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:17:13.343236Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 388,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:28.193302Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 416,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:25:06.414268Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 695,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:42:43.014083Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 405,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:36:10.201323Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 413,
+      "renderer_used": false,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:36:10.201323Z",
+    "last_nonzero_count": 6,
+    "baseline_nonzero_count": 7,
+    "last_success_at": "2025-10-27T11:36:10.201323Z",
+    "last_success_count": 6
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:36:10.201323Z",
+  "last_success_at": "2025-10-27T11:36:10.201323Z",
+  "next_scrape_at": "2025-10-27T12:48:04.383041Z",
+  "content": [
+    {
+      "title": "IT Support Expert - Shape the Future with AI",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000077481239-it-support-expert-shape-the-future-with-ai",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:59:17.177171Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior AI Engineer",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000058073553-senior-ai-engineer-",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:59:17.177171Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior AI Engineer (Applied Research)",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000082255315-senior-ai-engineer-applied-research-",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:31:35.763148Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Java Backend Engineer",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000084844716-senior-java-backend-engineer-",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T10:30:54.090646Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Designer",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000081635196-senior-product-designer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-12T13:42:31.288930Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Manager",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000084934930-senior-product-manager",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T16:39:02.240040Z"
+        }
+      ]
+    },
+    {
+      "title": "AI & ML Engineer",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000066162148-ai-ml-engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:59:17.177171Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-08T10:33:39.916147Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000082024615-product-manager",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-15T14:40:16.183043Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-24T14:46:51.274893Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Designer",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000079434264-senior-product-designer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:59:17.177171Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-12T13:42:31.288930Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Manager (Data)",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000064703866-senior-product-manager-data-",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:59:17.177171Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T10:40:30.108232Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer 4 (Data Management System)",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000081635275-software-engineer-4-data-management-system-",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-12T13:42:31.288930Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-27T11:36:10.201323Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer 4 (Data Management System)",
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000074943434-software-engineer-4-data-management-system-",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:59:17.177171Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-12T13:42:31.288930Z"
+        }
+      ]
+    }
+  ]
+}

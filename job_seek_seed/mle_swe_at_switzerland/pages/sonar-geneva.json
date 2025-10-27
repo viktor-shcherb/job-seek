@@ -4,402 +4,402 @@
   "website_url": "https://jobs.lever.co/sonarsource?location=Geneva&department=Product%20Development",
   "attempts": [
     {
-      "at": "2025-08-31T19:17:29.634114Z",
+      "at": "2025-10-25T08:32:10.046234Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 2127,
+      "count": 16,
+      "duration_ms": 2521,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-08-31T20:29:38.638892Z",
+      "at": "2025-10-25T09:56:11.236961Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 2667,
+      "count": 16,
+      "duration_ms": 1843,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-08-31T21:43:05.931622Z",
+      "at": "2025-10-25T11:08:26.790364Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 10459,
+      "count": 16,
+      "duration_ms": 1766,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-08-31T23:11:44.901789Z",
+      "at": "2025-10-25T12:21:07.962259Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 2063,
+      "count": 16,
+      "duration_ms": 1784,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T00:41:33.813228Z",
+      "at": "2025-10-25T12:58:22.709782Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 1870,
+      "count": 16,
+      "duration_ms": 1767,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T08:57:44.979553Z",
+      "at": "2025-10-25T13:44:10.105978Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1987,
+      "count": 16,
+      "duration_ms": 1761,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T09:51:23.303377Z",
+      "at": "2025-10-25T14:27:50.414312Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1928,
+      "count": 16,
+      "duration_ms": 1840,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:19:32.712180Z",
+      "at": "2025-10-25T15:29:49.645312Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2724,
+      "count": 16,
+      "duration_ms": 2032,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:53:13.625847Z",
+      "at": "2025-10-25T16:42:35.671551Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1910,
+      "count": 16,
+      "duration_ms": 1835,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:19:52.997314Z",
+      "at": "2025-10-25T18:10:53.556964Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1949,
+      "count": 16,
+      "duration_ms": 1868,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:54:35.357487Z",
+      "at": "2025-10-25T19:30:45.977567Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1973,
+      "count": 16,
+      "duration_ms": 1800,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:10:37.839356Z",
+      "at": "2025-10-25T20:08:16.848291Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1858,
+      "count": 16,
+      "duration_ms": 1777,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:52:23.275470Z",
+      "at": "2025-10-25T21:23:37.514188Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1966,
+      "count": 16,
+      "duration_ms": 1778,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:59:01.277117Z",
+      "at": "2025-10-25T22:43:15.279787Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2132,
+      "count": 16,
+      "duration_ms": 1806,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T17:50:35.986058Z",
+      "at": "2025-10-25T23:52:40.977091Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2015,
+      "count": 16,
+      "duration_ms": 2029,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T18:59:02.216813Z",
+      "at": "2025-10-26T01:16:55.754545Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2386,
+      "count": 16,
+      "duration_ms": 1782,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:22:20.832750Z",
+      "at": "2025-10-26T02:28:03.358025Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2185,
+      "count": 16,
+      "duration_ms": 9148,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:50:50.334082Z",
+      "at": "2025-10-26T03:39:42.223207Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1982,
+      "count": 16,
+      "duration_ms": 1713,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:48:45.546602Z",
+      "at": "2025-10-26T04:50:16.830844Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2567,
+      "count": 16,
+      "duration_ms": 1807,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:54:56.854385Z",
+      "at": "2025-10-26T06:16:31.197355Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2247,
+      "count": 16,
+      "duration_ms": 1959,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:25:48.437850Z",
+      "at": "2025-10-26T07:38:27.163899Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1860,
+      "count": 16,
+      "duration_ms": 2839,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:59:50.564394Z",
+      "at": "2025-10-26T08:59:42.734724Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2618,
+      "count": 16,
+      "duration_ms": 1760,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:00:59.971884Z",
+      "at": "2025-10-26T10:15:24.200155Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2119,
+      "count": 16,
+      "duration_ms": 1730,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:42:03.009700Z",
+      "at": "2025-10-26T11:07:42.450787Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2772,
+      "count": 16,
+      "duration_ms": 1750,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T06:10:44.406772Z",
+      "at": "2025-10-26T12:22:32.796692Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 26,
+      "count": 16,
+      "duration_ms": 1711,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T07:25:49.600416Z",
+      "at": "2025-10-26T12:55:42.479969Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 28,
+      "count": 16,
+      "duration_ms": 4751,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:49:56.018362Z",
+      "at": "2025-10-26T14:18:24.750811Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1792,
+      "count": 16,
+      "duration_ms": 2165,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T10:00:53.774111Z",
+      "at": "2025-10-26T14:56:51.596841Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2152,
+      "count": 16,
+      "duration_ms": 1836,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:29.075890Z",
+      "at": "2025-10-26T15:51:41.492866Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 23,
+      "count": 16,
+      "duration_ms": 1731,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:07:45.012646Z",
+      "at": "2025-10-26T16:28:08.943122Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1905,
+      "count": 16,
+      "duration_ms": 1745,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:34:38.892540Z",
+      "at": "2025-10-26T17:38:21.834620Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1819,
+      "count": 16,
+      "duration_ms": 2101,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:23.762947Z",
+      "at": "2025-10-26T18:39:02.876517Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 28,
+      "count": 16,
+      "duration_ms": 1723,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:57:01.601538Z",
+      "at": "2025-10-26T19:58:41.810372Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2717,
+      "count": 16,
+      "duration_ms": 2009,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:30:12.869316Z",
+      "at": "2025-10-26T21:19:59.044295Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 24,
+      "count": 16,
+      "duration_ms": 1790,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T20:22:06.771046Z",
+      "at": "2025-10-26T22:37:46.482898Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 24,
+      "count": 16,
+      "duration_ms": 1710,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T21:32:28.738368Z",
+      "at": "2025-10-26T23:58:20.565342Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 37,
+      "count": 16,
+      "duration_ms": 1777,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T23:46:54.895074Z",
+      "at": "2025-10-27T00:30:05.560641Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 16,
+      "duration_ms": 2708,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T00:52:56.679197Z",
+      "at": "2025-10-27T01:32:33.209522Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 28,
+      "count": 16,
+      "duration_ms": 1929,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T02:14:55.752496Z",
+      "at": "2025-10-27T02:11:48.105054Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 27,
+      "count": 16,
+      "duration_ms": 1940,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T03:20:58.769998Z",
+      "at": "2025-10-27T03:28:21.837745Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 16,
+      "duration_ms": 1942,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T05:07:07.276500Z",
+      "at": "2025-10-27T04:11:45.479223Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 16,
+      "duration_ms": 4266,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T06:02:02.712800Z",
+      "at": "2025-10-27T04:48:55.881126Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 34,
+      "count": 16,
+      "duration_ms": 2840,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T08:04:00.815511Z",
+      "at": "2025-10-27T05:25:11.329081Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 34,
+      "count": 16,
+      "duration_ms": 1971,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T09:05:00.332052Z",
+      "at": "2025-10-27T06:20:30.639184Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 40,
+      "count": 16,
+      "duration_ms": 1735,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T10:05:59.185544Z",
+      "at": "2025-10-27T07:15:24.844317Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 16,
+      "duration_ms": 2256,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T12:07:56.966796Z",
+      "at": "2025-10-27T08:22:05.676694Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 24,
+      "count": 16,
+      "duration_ms": 3353,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T13:30:43.729908Z",
+      "at": "2025-10-27T08:59:34.211629Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1944,
+      "count": 16,
+      "duration_ms": 2084,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:11:14.947959Z",
+      "at": "2025-10-27T09:42:42.426841Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 2924,
+      "count": 16,
+      "duration_ms": 1845,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:43:16.172678Z",
+      "at": "2025-10-27T10:22:17.753751Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1838,
+      "count": 16,
+      "duration_ms": 1879,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:32:55.461757Z",
+      "at": "2025-10-27T11:19:31.233917Z",
       "ok": true,
-      "count": 14,
-      "duration_ms": 1951,
+      "count": 16,
+      "duration_ms": 1775,
       "renderer_used": false,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:32:55.461757Z",
-    "last_nonzero_count": 14,
-    "baseline_nonzero_count": 14,
-    "last_success_at": "2025-09-03T15:32:55.461757Z",
-    "last_success_count": 14
+    "last_nonzero_at": "2025-10-27T11:19:31.233917Z",
+    "last_nonzero_count": 16,
+    "baseline_nonzero_count": 16,
+    "last_success_at": "2025-10-27T11:19:31.233917Z",
+    "last_success_count": 16
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,9 +424,9 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:32:55.461757Z",
-  "last_success_at": "2025-09-03T15:32:55.461757Z",
-  "next_scrape_at": "2025-09-03T16:11:52.458215Z",
+  "last_scraped": "2025-10-27T11:19:31.233917Z",
+  "last_success_at": "2025-10-27T11:19:31.233917Z",
+  "next_scrape_at": "2025-10-27T12:32:38.442520Z",
   "content": [
     {
       "title": "C++ Developer",
@@ -439,22 +439,22 @@
       ]
     },
     {
-      "title": "Data Scientist",
-      "link": "https://jobs.lever.co/sonarsource/9fc3ea5a-e7a2-4c13-ba13-bb7507778f78",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T08:57:44.979553Z"
-        }
-      ]
-    },
-    {
-      "title": "DevOps Engineer",
-      "link": "https://jobs.lever.co/sonarsource/55bef578-9503-4e04-921a-bb9f8b2991a9",
+      "title": "Cloud Platform Engineer (MLOps)",
+      "link": "https://jobs.lever.co/sonarsource/c7230950-417e-4db8-92bd-06370e3aff16",
       "history": [
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        }
+      ]
+    },
+    {
+      "title": "CodeNext - Senior Software Engineer (Python)",
+      "link": "https://jobs.lever.co/sonarsource/b0d45ad8-ca5e-454b-99a0-b4cd60a3cb4a",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-07T19:54:00.483057Z"
         }
       ]
     },
@@ -469,6 +469,36 @@
       ]
     },
     {
+      "title": "Engineering Manager",
+      "link": "https://jobs.lever.co/sonarsource/b3fab326-a465-4968-900f-1a24ab6342f2",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:23:49.737601Z"
+        }
+      ]
+    },
+    {
+      "title": "Frontend Engineer",
+      "link": "https://jobs.lever.co/sonarsource/ce91130f-8ae4-456c-bf59-31477dfc2c4e",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T09:10:10.561804Z"
+        }
+      ]
+    },
+    {
+      "title": "Java Senior Software Engineer - IDE Extension",
+      "link": "https://jobs.lever.co/sonarsource/e0060bc5-6855-4150-84a3-7d89f9a77cb4",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T13:17:39.243669Z"
+        }
+      ]
+    },
+    {
       "title": "Java Software Engineer - Static Code Analysis",
       "link": "https://jobs.lever.co/sonarsource/fb1b78ae-50b0-4e3b-8f10-31543ba67f23",
       "history": [
@@ -479,28 +509,18 @@
       ]
     },
     {
-      "title": "MLOps Cloud Engineer",
-      "link": "https://jobs.lever.co/sonarsource/c7230950-417e-4db8-92bd-06370e3aff16",
+      "title": "Machine Learning Scientist (AI for Code)",
+      "link": "https://jobs.lever.co/sonarsource/a0535931-bce3-4159-b43d-15ca3eb4d17f",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
+          "at": "2025-09-08T08:26:00.115362Z"
         }
       ]
     },
     {
       "title": "Principal UX Designer",
       "link": "https://jobs.lever.co/sonarsource/118d8980-61c6-40b3-a675-577a1f024761",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Product Manager - Data & AI",
-      "link": "https://jobs.lever.co/sonarsource/7e94ce96-5d64-4dfc-8397-2adda6923b16",
       "history": [
         {
           "status": "active",
@@ -519,32 +539,22 @@
       ]
     },
     {
-      "title": "Senior Software Engineer",
-      "link": "https://jobs.lever.co/sonarsource/15cf8d30-9e39-43bf-a67c-5b1debf5462d",
+      "title": "Senior Full Stack Engineer (Java, React)",
+      "link": "https://jobs.lever.co/sonarsource/3e3a8d1c-a1e0-4fdf-8c85-c3ac519c8a73",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
+          "at": "2025-09-10T12:40:21.914353Z"
         }
       ]
     },
     {
-      "title": "Senior UX Designer",
-      "link": "https://jobs.lever.co/sonarsource/0652de1e-233e-4f9a-b497-dc96987b12f4",
+      "title": "Senior Software Engineer (Java)",
+      "link": "https://jobs.lever.co/sonarsource/2d738ef4-35ef-46ec-b34d-5a0786aac39b",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer",
-      "link": "https://jobs.lever.co/sonarsource/52086e87-9f0b-44bf-b2d7-ac17b10be2fc",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
+          "at": "2025-10-09T16:26:06.373686Z"
         }
       ]
     },
@@ -559,12 +569,58 @@
       ]
     },
     {
-      "title": "VP of Engineering - Data & AI",
-      "link": "https://jobs.lever.co/sonarsource/c69b5fd2-a94f-4e7e-84c5-db53ca6ee676",
+      "title": "Staff C++ Developer",
+      "link": "https://jobs.lever.co/sonarsource/387c5c74-b0cc-4d3d-a581-5086a0e3a781",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-11T13:00:05.437333Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical AI Product Manager",
+      "link": "https://jobs.lever.co/sonarsource/7e94ce96-5d64-4dfc-8397-2adda6923b16",
       "history": [
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        }
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "link": "https://jobs.lever.co/sonarsource/9fc3ea5a-e7a2-4c13-ba13-bb7507778f78",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T08:57:44.979553Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T09:27:03.809386Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://jobs.lever.co/sonarsource/55bef578-9503-4e04-921a-bb9f8b2991a9",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:26:06.373686Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-18T13:50:52.599307Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T14:00:48.718096Z"
         }
       ]
     },
@@ -737,6 +793,48 @@
       ]
     },
     {
+      "title": "Senior Java/Kotlin Software Engineer – Static Code Analysis",
+      "link": "https://jobs.lever.co/sonarsource/15cf8d30-9e39-43bf-a67c-5b1debf5462d",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T14:24:54.826494Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior UX Designer",
+      "link": "https://jobs.lever.co/sonarsource/0652de1e-233e-4f9a-b497-dc96987b12f4",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-15T17:12:20.947170Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "link": "https://jobs.lever.co/sonarsource/52086e87-9f0b-44bf-b2d7-ac17b10be2fc",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:23:24.829043Z"
+        }
+      ]
+    },
+    {
       "title": "Support Engineer - Geneva",
       "link": "https://jobs.lever.co/sonarsource/50c81c6d-e4fb-4dc6-9b61-1045214527b1",
       "history": [
@@ -747,6 +845,20 @@
         {
           "status": "inactive",
           "at": "2025-08-24T00:26:07.476654Z"
+        }
+      ]
+    },
+    {
+      "title": "VP of Engineering - Data & AI",
+      "link": "https://jobs.lever.co/sonarsource/c69b5fd2-a94f-4e7e-84c5-db53ca6ee676",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-15T12:58:43.626628Z"
         }
       ]
     },

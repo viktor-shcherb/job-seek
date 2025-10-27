@@ -1,405 +1,405 @@
 {
-  "title": "Salesteq",
-  "icon_url": "https://www.salesteq.com/wp-content//uploads/2024/09/Salesteq.svg",
-  "website_url": "https://join.com/companies/salesteq",
+  "title": "Zalando Zurich",
+  "icon_url": "https://opensource.zalando.com/assets/img/zalando-logo.png",
+  "website_url": "https://jobs.zalando.com/en/jobs?location=Zurich",
   "attempts": [
     {
-      "at": "2025-10-25T08:59:13.017634Z",
+      "at": "2025-10-25T09:47:38.435306Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 4487,
+      "duration_ms": 2715,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T10:25:10.122533Z",
+      "at": "2025-10-25T11:13:37.662850Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 4476,
+      "duration_ms": 2537,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T11:00:14.430788Z",
+      "at": "2025-10-25T11:56:33.787320Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 7969,
+      "duration_ms": 2357,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T12:00:27.846058Z",
+      "at": "2025-10-25T12:53:40.041932Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 4544,
+      "duration_ms": 2393,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T13:08:14.142647Z",
+      "at": "2025-10-25T13:55:02.283024Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 6406,
+      "duration_ms": 2178,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T14:11:00.091648Z",
+      "at": "2025-10-25T15:17:53.881743Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 5431,
+      "duration_ms": 2662,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T15:32:10.434670Z",
+      "at": "2025-10-25T16:18:20.013163Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 4880,
+      "duration_ms": 2267,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T16:43:09.700371Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5692,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T17:22:29.216499Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4809,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T18:50:46.218200Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4598,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T19:34:23.960363Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5313,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T20:57:10.466885Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5466,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T21:51:32.877512Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 6667,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T22:45:26.023728Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4615,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T23:53:27.250852Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4633,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T01:21:10.136406Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4372,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T01:54:06.371475Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4429,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T02:46:18.976035Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4857,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T03:56:40.963211Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5747,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T04:50:16.830844Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4636,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T06:16:21.212012Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 6464,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T06:59:30.630471Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4363,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T07:57:22.987849Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4446,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T09:19:55.458920Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4950,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T10:47:19.856552Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5360,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T11:33:01.667987Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4957,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T12:04:43.938426Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5855,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T13:07:55.953246Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4603,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T13:50:51.972551Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4491,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T14:55:57.379142Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4469,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T16:24:19.138048Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5874,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T17:42:25.632452Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5339,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T19:04:27.540410Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4936,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T20:16:07.858773Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 4931,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T21:03:54.362847Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 6740,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T22:10:52.023189Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5116,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T23:20:39.702144Z",
-      "ok": true,
-      "count": 2,
-      "duration_ms": 5983,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-27T00:30:05.560641Z",
+      "at": "2025-10-25T17:08:40.361483Z",
       "ok": false,
       "count": 0,
-      "duration_ms": 4022,
+      "duration_ms": 30608,
       "renderer_used": null,
-      "error_kind": "Error"
+      "error_kind": "TimeoutError"
     },
     {
-      "at": "2025-10-27T00:54:26.374293Z",
+      "at": "2025-10-25T17:26:07.303190Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 5167,
+      "duration_ms": 2433,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T01:52:36.592223Z",
+      "at": "2025-10-25T18:15:21.627456Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 5575,
+      "duration_ms": 2632,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T02:28:16.313496Z",
+      "at": "2025-10-25T19:32:54.521493Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 4937,
+      "duration_ms": 2395,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T03:07:46.141385Z",
+      "at": "2025-10-25T20:08:19.634931Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 7171,
+      "duration_ms": 2173,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T03:43:41.228076Z",
+      "at": "2025-10-25T20:39:01.866630Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 5189,
+      "duration_ms": 2434,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T04:42:11.788496Z",
+      "at": "2025-10-25T21:35:18.884946Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 10412,
+      "duration_ms": 2152,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T05:24:46.073992Z",
+      "at": "2025-10-25T22:56:53.259675Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 8994,
+      "duration_ms": 2396,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T06:50:36.028698Z",
+      "at": "2025-10-25T23:47:12.675668Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 12842,
+      "duration_ms": 2331,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:01:24.373816Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2285,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:07:51.766495Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2495,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:00:50.473402Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2425,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:57:04.366105Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2378,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:24:07.381687Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2350,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:58:38.220367Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2567,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:15:08.274885Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2890,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:59:42.734724Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2201,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:44:44.695059Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2400,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:25:32.721903Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2229,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:59:43.637377Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2275,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:53:09.368187Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2700,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:45:16.640867Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2341,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:50:26.925839Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2902,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:17:13.256352Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2491,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:59:22.162673Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 3431,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:13:13.281828Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2397,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:21:54.651124Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2473,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:04:11.029867Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2416,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:33:34.279623Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2384,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:38:42.214408Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2546,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:38:39.437473Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2481,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:39:35.523683Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 3187,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:55:06.018109Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2494,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:51:07.173840Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2411,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:50:34.486596Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2891,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:43:24.047995Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6528,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:42:33.190791Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6290,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:43:48.074553Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2275,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:21:05.307953Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 3565,
       "renderer_used": true,
       "error_kind": null
     },
     {
       "at": "2025-10-27T07:45:41.042920Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 470,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-10-27T08:02:57.428393Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 5732,
+      "duration_ms": 2956,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T09:42:42.426841Z",
+      "at": "2025-10-27T09:25:41.144951Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 5752,
+      "duration_ms": 2197,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T11:19:31.233917Z",
+      "at": "2025-10-27T10:29:03.429404Z",
       "ok": true,
       "count": 2,
-      "duration_ms": 4443,
+      "duration_ms": 2261,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:35:59.297476Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 2838,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,10 +410,10 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-10-27T11:19:31.233917Z",
+    "last_nonzero_at": "2025-10-27T11:35:59.297476Z",
     "last_nonzero_count": 2,
     "baseline_nonzero_count": 2,
-    "last_success_at": "2025-10-27T11:19:31.233917Z",
+    "last_success_at": "2025-10-27T11:35:59.297476Z",
     "last_success_count": 2
   },
   "policy": {
@@ -424,125 +424,105 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-10-27T11:19:31.233917Z",
-  "last_success_at": "2025-10-27T11:19:31.233917Z",
-  "next_scrape_at": "2025-10-27T12:13:51.815053Z",
+  "last_scraped": "2025-10-27T11:35:59.297476Z",
+  "last_success_at": "2025-10-27T11:35:59.297476Z",
+  "next_scrape_at": "2025-10-27T12:50:18.935739Z",
   "content": [
     {
-      "title": "AI Internship (ASR/TTS)",
-      "link": "https://join.com/companies/salesteq/15034940-ai-internship-asr-tts",
+      "title": "Principal Applied Scientist (Economics / Experimentations) - Size & Fit (All Genders)",
+      "link": "https://jobs.zalando.com/en/jobs/2722068-Principal-Applied-Scientist-(Economics-%2F-Experimen",
       "history": [
         {
           "status": "active",
-          "at": "2025-10-18T13:50:42.922941Z"
+          "at": "2025-09-30T09:13:45.216725Z"
         }
       ]
     },
     {
-      "title": "Founding Engineer - AI Systems",
-      "link": "https://join.com/companies/salesteq/14993959-founding-engineer-ai-systems",
+      "title": "Senior Principal Engineer (All Genders)",
+      "link": "https://jobs.zalando.com/en/jobs/2720751-Senior-Principal-Engineer-(All-Genders)",
       "history": [
         {
           "status": "active",
-          "at": "2025-10-09T16:33:49.718577Z"
+          "at": "2025-10-09T17:20:49.686612Z"
         }
       ]
     },
     {
-      "title": "AI Internship (ASR/TTS)",
-      "link": "https://join.com/companies/salesteq/14965708-ai-internship-asr-tts",
+      "title": "Principal Applied Scientist",
+      "link": "https://jobs.zalando.com/en/jobs/2722343-Principal-Applied-Scientist",
       "history": [
         {
           "status": "active",
-          "at": "2025-10-09T16:33:49.718577Z"
+          "at": "2025-09-09T13:05:49.877341Z"
         },
         {
           "status": "inactive",
-          "at": "2025-10-18T13:50:42.922941Z"
+          "at": "2025-10-20T22:15:01.001292Z"
         }
       ]
     },
     {
-      "title": "AI Internship (ASR/TTS)",
-      "link": "https://join.com/companies/salesteq/14891035-ai-internship-asr-tts",
+      "title": "Principal Backend Engineer -  Echo (all genders)",
+      "link": "https://jobs.zalando.com/en/jobs/2717298-Principal-Backend-Engineer----Echo-(all-genders)",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-26T11:00:39.273752Z"
+          "at": "2025-09-04T12:22:56.062557Z"
         },
         {
           "status": "inactive",
-          "at": "2025-10-09T16:33:49.718577Z"
+          "at": "2025-09-11T21:59:40.679269Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T13:49:35.266373Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T17:20:49.686612Z"
         }
       ]
     },
     {
-      "title": "AI Internship (ASR/TTS)",
-      "link": "https://join.com/companies/salesteq/14809234-ai-internship-asr-tts",
+      "title": "Principal ML Engineer - Echo",
+      "link": "https://jobs.zalando.com/en/jobs/2717301-Principal-ML-Engineer---Echo",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-06T13:29:03.864852Z"
+          "at": "2025-09-04T12:22:56.062557Z"
         },
         {
           "status": "inactive",
-          "at": "2025-09-26T11:00:39.273752Z"
+          "at": "2025-10-09T17:20:49.686612Z"
         }
       ]
     },
     {
-      "title": "AI Internship (ASR/TTS)",
-      "link": "https://join.com/companies/salesteq/14741467-ai-internship-asr-tts",
+      "title": "Principal Product Analyst - Size & Fit (all genders)",
+      "link": "https://jobs.zalando.com/en/jobs/2720397-Principal-Product-Analyst---Size-%26-Fit-(all-gender",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T12:19:02.530728Z"
+          "at": "2025-09-05T12:35:46.365719Z"
         },
         {
           "status": "inactive",
-          "at": "2025-09-06T13:29:03.864852Z"
+          "at": "2025-09-24T14:47:23.846014Z"
         }
       ]
     },
     {
-      "title": "Founding Engineer - AI Systems",
-      "link": "https://join.com/companies/salesteq/14916283-founding-engineer-ai-systems",
+      "title": "Senior Business Analyst - Size & Fit (all genders)",
+      "link": "https://jobs.zalando.com/en/jobs/2720319-Senior-Business-Analyst---Size-%26-Fit-(all-genders)",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-26T11:00:39.273752Z"
+          "at": "2025-09-05T12:35:46.365719Z"
         },
         {
           "status": "inactive",
-          "at": "2025-10-09T16:33:49.718577Z"
-        }
-      ]
-    },
-    {
-      "title": "Founding Engineer - AI Systems",
-      "link": "https://join.com/companies/salesteq/14847163-founding-engineer-ai-systems",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-18T18:32:17.711864Z"
-        },
-        {
-          "status": "inactive",
-          "at": "2025-09-26T11:00:39.273752Z"
-        }
-      ]
-    },
-    {
-      "title": "Founding Engineer - AI Systems",
-      "link": "https://join.com/companies/salesteq/14774316-founding-engineer-ai-systems",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T12:19:02.530728Z"
-        },
-        {
-          "status": "inactive",
-          "at": "2025-09-18T18:32:17.711864Z"
+          "at": "2025-09-15T22:58:08.581643Z"
         }
       ]
     }

@@ -4,402 +4,402 @@
   "website_url": "https://jobs.kaiko.ai/jobs?location=Z%C3%BCrich+%28Puls+5%29",
   "attempts": [
     {
-      "at": "2025-09-01T05:33:38.590370Z",
+      "at": "2025-10-25T09:54:46.992161Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 447,
+      "count": 10,
+      "duration_ms": 342,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T08:56:51.357800Z",
+      "at": "2025-10-25T10:43:48.758540Z",
       "ok": true,
-      "count": 13,
-      "duration_ms": 663,
+      "count": 10,
+      "duration_ms": 439,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T09:52:15.418926Z",
+      "at": "2025-10-25T11:19:39.380458Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 1182,
+      "count": 10,
+      "duration_ms": 339,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:19:12.998499Z",
+      "at": "2025-10-25T12:46:36.246365Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 899,
+      "count": 10,
+      "duration_ms": 687,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T12:09:36.139929Z",
+      "at": "2025-10-25T13:25:47.717387Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 716,
+      "count": 10,
+      "duration_ms": 357,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:27:26.610088Z",
+      "at": "2025-10-25T14:11:19.024952Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 997,
+      "count": 10,
+      "duration_ms": 390,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:17:00.976898Z",
+      "at": "2025-10-25T14:46:11.208069Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 1050,
+      "count": 10,
+      "duration_ms": 321,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:12:30.538363Z",
+      "at": "2025-10-25T15:45:04.146022Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 447,
+      "count": 10,
+      "duration_ms": 419,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:24:06.770770Z",
+      "at": "2025-10-25T16:45:40.300360Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 643,
+      "count": 10,
+      "duration_ms": 376,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:57:56.047291Z",
+      "at": "2025-10-25T17:17:40.263377Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 388,
+      "count": 10,
+      "duration_ms": 381,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T18:03:14.672121Z",
+      "at": "2025-10-25T17:57:45.753395Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 322,
+      "count": 10,
+      "duration_ms": 485,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T18:33:37.012769Z",
+      "at": "2025-10-25T19:01:35.611680Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 623,
+      "count": 10,
+      "duration_ms": 456,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:25:20.310565Z",
+      "at": "2025-10-25T20:00:56.875251Z",
       "ok": true,
-      "count": 12,
+      "count": 10,
+      "duration_ms": 296,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:00:25.206498Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 417,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:47:45.490720Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 377,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:45:59.819457Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 416,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:18:42.313430Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 711,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:41:00.007067Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 378,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:02:29.194087Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 378,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:51:40.506110Z",
+      "ok": true,
+      "count": 10,
       "duration_ms": 359,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:32:52.955045Z",
+      "at": "2025-10-26T03:58:44.428235Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 421,
+      "count": 10,
+      "duration_ms": 396,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:41:02.752638Z",
+      "at": "2025-10-26T05:08:09.798801Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 370,
+      "count": 10,
+      "duration_ms": 1091,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:29:42.041069Z",
+      "at": "2025-10-26T06:21:40.736707Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 427,
+      "count": 10,
+      "duration_ms": 850,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:40:11.070058Z",
+      "at": "2025-10-26T07:56:57.336567Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 345,
+      "count": 10,
+      "duration_ms": 1636,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:31:31.727908Z",
+      "at": "2025-10-26T09:19:10.781282Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 402,
+      "count": 10,
+      "duration_ms": 1194,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:04:47.354629Z",
+      "at": "2025-10-26T10:38:07.103847Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 681,
+      "count": 10,
+      "duration_ms": 395,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:59:50.564394Z",
+      "at": "2025-10-26T11:47:28.079632Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 1161,
+      "count": 10,
+      "duration_ms": 393,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:45:30.003278Z",
+      "at": "2025-10-26T12:48:16.135262Z",
       "ok": true,
-      "count": 12,
+      "count": 10,
+      "duration_ms": 385,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:21:44.828220Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 796,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:53:13.027476Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 387,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:29:09.879716Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 426,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:11:28.803266Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 665,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:32:39.919500Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 397,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:02:18.015502Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 437,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:54:35.901240Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 383,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:21.838022Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 917,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:34:01.842608Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 292,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:30:15.981909Z",
+      "ok": true,
+      "count": 10,
       "duration_ms": 399,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:14.228648Z",
+      "at": "2025-10-26T22:36:57.414266Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 5,
+      "count": 10,
+      "duration_ms": 473,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T06:10:41.740106Z",
+      "at": "2025-10-26T23:39:07.057237Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 10,
+      "duration_ms": 2313,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T07:25:46.851707Z",
+      "at": "2025-10-27T01:12:43.664017Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 4,
+      "count": 10,
+      "duration_ms": 1054,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:18:25.220073Z",
+      "at": "2025-10-27T02:27:02.452760Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 612,
+      "count": 10,
+      "duration_ms": 563,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:35:41.955030Z",
+      "at": "2025-10-27T03:27:16.460107Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 5,
+      "count": 10,
+      "duration_ms": 1365,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:26.391303Z",
+      "at": "2025-10-27T04:10:20.545912Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 10,
+      "duration_ms": 896,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T13:14:26.068337Z",
+      "at": "2025-10-27T05:24:27.546071Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 6,
+      "count": 10,
+      "duration_ms": 381,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:14:12.150237Z",
+      "at": "2025-10-27T06:20:23.391572Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 617,
+      "count": 10,
+      "duration_ms": 951,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:46:15.724849Z",
+      "at": "2025-10-27T07:16:15.374426Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 10179,
+      "count": 10,
+      "duration_ms": 1127,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:19:09.524140Z",
+      "at": "2025-10-27T08:02:11.206519Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 11,
+      "count": 10,
+      "duration_ms": 2011,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:57:01.601538Z",
+      "at": "2025-10-27T09:24:41.094786Z",
       "ok": true,
-      "count": 12,
-      "duration_ms": 1288,
+      "count": 10,
+      "duration_ms": 2226,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:43.692374Z",
+      "at": "2025-10-27T10:47:02.768817Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 37,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T20:22:04.132462Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 23,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T21:44:53.500466Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 34,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T22:45:53.172666Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 26,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T00:52:52.929243Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 37,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T01:58:34.579323Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 33,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T03:20:56.136353Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 23,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T05:07:04.678205Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 23,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T06:02:00.046593Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 40,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T07:02:59.030804Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 33,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T08:03:58.137080Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 40,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T09:04:57.672747Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 36,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T10:27:54.474679Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T12:07:54.309558Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 6,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T12:50:47.209442Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 4,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T13:34:20.869056Z",
-      "ok": true,
-      "count": 12,
-      "duration_ms": 688,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T14:42:01.979823Z",
-      "ok": true,
-      "count": 12,
-      "duration_ms": 1845,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T15:47:09.545127Z",
-      "ok": true,
-      "count": 12,
-      "duration_ms": 544,
+      "count": 10,
+      "duration_ms": 921,
       "renderer_used": false,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:47:09.545127Z",
-    "last_nonzero_count": 12,
-    "baseline_nonzero_count": 12,
-    "last_success_at": "2025-09-03T15:47:09.545127Z",
-    "last_success_count": 12
+    "last_nonzero_at": "2025-10-27T10:47:02.768817Z",
+    "last_nonzero_count": 10,
+    "baseline_nonzero_count": 10,
+    "last_success_at": "2025-10-27T10:47:02.768817Z",
+    "last_success_count": 10
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,9 +424,9 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:47:09.545127Z",
-  "last_success_at": "2025-09-03T15:47:09.545127Z",
-  "next_scrape_at": "2025-09-03T16:59:34.417284Z",
+  "last_scraped": "2025-10-27T10:47:02.768817Z",
+  "last_success_at": "2025-10-27T10:47:02.768817Z",
+  "next_scrape_at": "2025-10-27T12:10:41.727789Z",
   "content": [
     {
       "title": "Data ML Engineering Lead ML R&D · Amsterdam, Zürich (Puls 5) · Hybrid",
@@ -439,48 +439,38 @@
       ]
     },
     {
-      "title": "ML platform engineer - SLURM Expert ML Ops · Zürich (Puls 5), Amsterdam · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/6154620-ml-platform-engineer-slurm-expert",
+      "title": "Events Marketer Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6406904-events-marketer",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-26T10:20:54.376384Z"
+          "at": "2025-10-21T17:40:54.103821Z"
         }
       ]
     },
     {
-      "title": "ML platform engineer ML Ops · Zürich (Puls 5), Amsterdam · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/6108249-ml-platform-engineer",
+      "title": "Medior Platform Engineer – Observability & SRE Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6519032-medior-platform-engineer-observability-sre",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-26T10:20:54.376384Z"
+          "at": "2025-09-26T11:38:44.435058Z"
+        }
+      ]
+    },
+    {
+      "title": "ML Platform Engineer (Evergreen) ML Ops · Zürich (Puls 5), Amsterdam · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6108249-ml-platform-engineer-evergreen",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T08:57:19.931060Z"
         }
       ]
     },
     {
       "title": "Open Application Zürich (Puls 5), Amsterdam · Hybrid",
       "link": "https://jobs.kaiko.ai/jobs/5447815-open-application",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-26T10:20:54.376384Z"
-        }
-      ]
-    },
-    {
-      "title": "Platform Engineer – CI/CD Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/6284521-platform-engineer-ci-cd",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-26T10:20:54.376384Z"
-        }
-      ]
-    },
-    {
-      "title": "Platform Engineer – GitOps Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/6280814-platform-engineer-gitops",
       "history": [
         {
           "status": "active",
@@ -499,16 +489,6 @@
       ]
     },
     {
-      "title": "Senior Data Platform Engineer ML Ops · Amsterdam, Zürich (Puls 5) · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/6292351-senior-data-platform-engineer",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-26T10:20:54.376384Z"
-        }
-      ]
-    },
-    {
       "title": "Senior Evaluation ML Engineer ML R&D · Amsterdam, Zürich (Puls 5) · Hybrid",
       "link": "https://jobs.kaiko.ai/jobs/6347598-senior-evaluation-ml-engineer",
       "history": [
@@ -519,12 +499,12 @@
       ]
     },
     {
-      "title": "Senior ML Engineer – NLP & LLMs Applications · Zürich (Puls 5), Amsterdam · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/5440851-senior-ml-engineer-nlp-llms",
+      "title": "Senior Frontend Engineer Front-End / UX · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/5908594-senior-frontend-engineer",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-26T10:20:54.376384Z"
+          "at": "2025-09-24T14:45:56.104943Z"
         }
       ]
     },
@@ -539,12 +519,132 @@
       ]
     },
     {
-      "title": "Senior Platform Engineer – Observability & SRE Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
-      "link": "https://jobs.kaiko.ai/jobs/6291628-senior-platform-engineer-observability-sre",
+      "title": "Senior QA Engineer Amsterdam, Zürich (Puls 5)",
+      "link": "https://jobs.kaiko.ai/jobs/6521428-senior-qa-engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T16:16:25.060106Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:38.891760Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:57:19.931060Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Intern ML R&D · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6563188-machine-learning-intern",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:38.891760Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T09:00:49.343660Z"
+        }
+      ]
+    },
+    {
+      "title": "ML platform engineer - SLURM Expert ML Ops · Zürich (Puls 5), Amsterdam · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6154620-ml-platform-engineer-slurm-expert",
       "history": [
         {
           "status": "active",
           "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T09:50:55.416235Z"
+        }
+      ]
+    },
+    {
+      "title": "ML platform engineer ML Ops · Zürich (Puls 5), Amsterdam · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6108249-ml-platform-engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T08:57:19.931060Z"
+        }
+      ]
+    },
+    {
+      "title": "People Operations Specialist Kaiko Support Functions · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6429381-people-operations-specialist",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-09T14:14:18.372435Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-14T21:02:44.583184Z"
+        }
+      ]
+    },
+    {
+      "title": "Platform Engineer – CI/CD Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6284521-platform-engineer-ci-cd",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-12T09:54:51.381716Z"
+        }
+      ]
+    },
+    {
+      "title": "Platform Engineer – GitOps Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6280814-platform-engineer-gitops",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-16T08:38:50.568439Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Data Platform Engineer ML Ops · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6292351-senior-data-platform-engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T13:49:13.161941Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior ML Engineer – NLP & LLMs Applications · Zürich (Puls 5), Amsterdam · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/5440851-senior-ml-engineer-nlp-llms",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T09:00:49.343660Z"
         }
       ]
     },
@@ -559,6 +659,20 @@
         {
           "status": "inactive",
           "at": "2025-09-01T09:52:15.418926Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Platform Engineer – Observability & SRE Platform Engineering · Amsterdam, Zürich (Puls 5) · Hybrid",
+      "link": "https://jobs.kaiko.ai/jobs/6291628-senior-platform-engineer-observability-sre",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T10:20:54.376384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T12:47:58.728684Z"
         }
       ]
     }

@@ -1,0 +1,556 @@
+{
+  "title": "Anybotics Zurich",
+  "icon_url": "https://www.anybotics.com/wp-content/uploads/2019/07/anybotics-logo-light.png",
+  "website_url": "https://jobs.lever.co/anybotics?location=Zurich%2C%20Switzerland",
+  "attempts": [
+    {
+      "at": "2025-10-25T09:15:15.533412Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1449,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:36:32.572667Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1431,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T12:03:05.327864Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1711,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T13:05:21.913075Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1414,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:03:17.008084Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1278,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:41:48.048730Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1633,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:08:31.088047Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1634,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:57:45.739172Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1495,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:33:40.220938Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1357,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:42:07.446961Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1351,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:41:33.346206Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1338,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:41:48.751274Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1474,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:08:48.489612Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1345,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:47:52.331587Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1360,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:16:53.145294Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1500,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:11:54.502028Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1886,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:58:27.341960Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1595,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:16:42.624181Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1503,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:34:13.804449Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1736,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:40:40.069898Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1867,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:57:34.917419Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1914,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:56:57.336567Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4635,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:19:55.458920Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1580,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:01:50.877701Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 3500,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:47:26.224544Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1317,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:34:05.130962Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1768,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:05:31.528057Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1458,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:36:40.919906Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1408,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:37:16.764161Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1360,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:22:28.274654Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1486,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:20:38.050242Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1368,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:58:38.511345Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1394,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:52:28.519815Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1372,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:56:49.392266Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1657,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:19:12.727317Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1855,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:33:05.709352Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1849,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:55:26.356925Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2062,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:04:13.293451Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1541,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:39:07.057237Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2141,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:37:39.790404Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 1430,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:31:37.495046Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2139,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:31.254739Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2631,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:10:10.942717Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 8674,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:43:02.461636Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 4167,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:32:21.367962Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2170,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:45:14.996456Z",
+      "ok": true,
+      "count": 10,
+      "duration_ms": 2475,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:59:14.576152Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 3030,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:00:54.919848Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 1917,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:38:49.676550Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 1545,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:42:38.855247Z",
+      "ok": true,
+      "count": 11,
+      "duration_ms": 2452,
+      "renderer_used": false,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:42:38.855247Z",
+    "last_nonzero_count": 11,
+    "baseline_nonzero_count": 10,
+    "last_success_at": "2025-10-27T11:42:38.855247Z",
+    "last_success_count": 11
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:42:38.855247Z",
+  "last_success_at": "2025-10-27T11:42:38.855247Z",
+  "next_scrape_at": "2025-10-27T12:56:27.929816Z",
+  "content": [
+    {
+      "title": "Developer Experience Engineer",
+      "link": "https://jobs.lever.co/anybotics/4a244968-b6a0-4111-a4e1-58faddb9a6fd",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T08:59:14.576152Z"
+        }
+      ]
+    },
+    {
+      "title": "Head of Robotics Technology",
+      "link": "https://jobs.lever.co/anybotics/d882db29-c24a-4ea6-b97e-6cf3e98205f7",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Head of System Architecture",
+      "link": "https://jobs.lever.co/anybotics/88b892b8-4340-47dc-9b0b-0fc4d375b342",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Industrialization, Electronics Test Engineer",
+      "link": "https://jobs.lever.co/anybotics/84888398-c4f8-4bcb-9cf5-58d618213a75",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Industrialization, Manufacturing Software Engineer",
+      "link": "https://jobs.lever.co/anybotics/9f0d070f-5dca-4d27-8f94-8994a5ff8889",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Navigation Internship",
+      "link": "https://jobs.lever.co/anybotics/d9b8ef93-879d-4d7e-af3d-084cac389d1e",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior AI Research Engineer, Visual Perception",
+      "link": "https://jobs.lever.co/anybotics/fe61fb59-0e9b-443e-a5ed-3a7dd669bee6",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Team Lead Electronics",
+      "link": "https://jobs.lever.co/anybotics/bd94eaac-a91a-4043-a669-c13530a6ba11",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T09:17:30.735718Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Team Lead Mechanical Engineering",
+      "link": "https://jobs.lever.co/anybotics/8b2afea7-2445-4912-a95d-18cb3abc9df6",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T13:00:03.775980Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Internship",
+      "link": "https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Team Lead Verification Testing & Approval",
+      "link": "https://jobs.lever.co/anybotics/f05ba1ea-fd36-4599-b0f8-efbca4e2ff7f",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        }
+      ]
+    },
+    {
+      "title": "Verification Engineering Internship",
+      "link": "https://jobs.lever.co/anybotics/96b95d2e-e791-450a-969b-5c98e57cfb66",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T18:35:16.606714Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T08:09:59.478236Z"
+        }
+      ]
+    }
+  ]
+}

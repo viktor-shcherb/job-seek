@@ -1,90 +1,50 @@
 {
-  "title": "Pinterest Zurich",
-  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Pinterest.svg",
-  "website_url": "https://www.pinterestcareers.com/jobs/?search=&location=Zurich&pagesize=50#results",
+  "title": "UpCircle",
+  "icon_url": "https://cdn.prod.website-files.com/6297b29436d0bd17d6abfee8/66436de13c2472d4dbf9e0f3_logo_uc_technology_ag_white.png",
+  "website_url": "https://www.upcircle.ai/careers",
   "attempts": [
     {
-      "at": "2025-10-24T11:09:52.924272Z",
+      "at": "2025-10-25T11:42:20.484946Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 307,
+      "duration_ms": 315,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T07:47:43.027517Z",
+      "at": "2025-10-25T13:04:34.161249Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 322,
+      "duration_ms": 311,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T08:18:21.190174Z",
+      "at": "2025-10-25T14:06:44.264693Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 249,
+      "duration_ms": 3461,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T09:16:48.453318Z",
+      "at": "2025-10-25T14:54:42.494074Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 268,
+      "duration_ms": 240,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T09:49:40.589675Z",
+      "at": "2025-10-25T16:19:24.370328Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 317,
+      "duration_ms": 338,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T10:54:18.185538Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 274,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T11:44:23.537503Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 313,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T12:47:22.257836Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 263,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T13:24:56.156471Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 206,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T14:24:10.866106Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 223,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T15:22:56.427148Z",
+      "at": "2025-10-25T17:11:16.258606Z",
       "ok": true,
       "count": 0,
       "duration_ms": 267,
@@ -92,31 +52,7 @@
       "error_kind": null
     },
     {
-      "at": "2025-10-25T16:32:08.578895Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 229,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T17:10:53.821871Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 259,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T18:32:37.597760Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 255,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-25T19:14:08.640497Z",
+      "at": "2025-10-25T17:46:30.855331Z",
       "ok": true,
       "count": 0,
       "duration_ms": 273,
@@ -124,63 +60,55 @@
       "error_kind": null
     },
     {
-      "at": "2025-10-25T19:50:39.333443Z",
+      "at": "2025-10-25T18:34:58.975594Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 219,
+      "duration_ms": 249,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T21:19:35.111410Z",
+      "at": "2025-10-25T19:53:56.313597Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 252,
+      "duration_ms": 303,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T22:20:57.623621Z",
+      "at": "2025-10-25T20:37:54.238096Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 252,
+      "duration_ms": 259,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T23:26:01.241606Z",
+      "at": "2025-10-25T21:40:25.467804Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 401,
+      "duration_ms": 265,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T00:50:59.594155Z",
+      "at": "2025-10-25T22:52:08.879907Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 258,
+      "duration_ms": 254,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T01:57:41.979165Z",
+      "at": "2025-10-25T23:35:49.036327Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 234,
+      "duration_ms": 268,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T03:39:42.223207Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 282,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T04:50:07.650601Z",
+      "at": "2025-10-26T00:09:48.484045Z",
       "ok": true,
       "count": 0,
       "duration_ms": 252,
@@ -188,95 +116,39 @@
       "error_kind": null
     },
     {
-      "at": "2025-10-26T06:16:21.212012Z",
+      "at": "2025-10-26T01:13:03.160884Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 822,
+      "duration_ms": 254,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T07:15:28.293161Z",
+      "at": "2025-10-26T01:47:44.172406Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 728,
+      "duration_ms": 254,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T08:42:31.999802Z",
+      "at": "2025-10-26T02:58:43.178731Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 242,
+      "duration_ms": 276,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T10:02:10.501009Z",
+      "at": "2025-10-26T03:57:04.366105Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 270,
+      "duration_ms": 351,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T11:17:15.407606Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 252,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T11:59:19.858913Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 283,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T13:25:27.454383Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 286,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T14:29:51.487059Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 262,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T15:36:19.566392Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 262,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T16:50:18.587666Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 262,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T17:55:51.802587Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 282,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-26T19:20:39.084705Z",
+      "at": "2025-10-26T04:50:47.159761Z",
       "ok": true,
       "count": 0,
       "duration_ms": 264,
@@ -284,95 +156,71 @@
       "error_kind": null
     },
     {
-      "at": "2025-10-26T20:51:10.002152Z",
+      "at": "2025-10-26T05:40:48.272127Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 266,
+      "duration_ms": 285,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T21:35:10.867841Z",
+      "at": "2025-10-26T06:40:28.860908Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 258,
+      "duration_ms": 265,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T22:09:14.216291Z",
+      "at": "2025-10-26T07:57:43.780640Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 256,
+      "duration_ms": 254,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T23:39:07.057237Z",
+      "at": "2025-10-26T08:59:42.734724Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 238,
+      "duration_ms": 246,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T01:13:19.471043Z",
+      "at": "2025-10-26T09:44:44.695059Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 475,
+      "duration_ms": 252,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T02:27:53.569903Z",
+      "at": "2025-10-26T11:11:52.331418Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 682,
+      "duration_ms": 267,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T03:53:46.357910Z",
+      "at": "2025-10-26T12:06:01.158702Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 680,
+      "duration_ms": 273,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T04:28:06.811714Z",
+      "at": "2025-10-26T12:50:12.506623Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 188,
+      "duration_ms": 249,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T05:43:16.340125Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 255,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-27T07:02:23.404980Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 617,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-27T08:02:57.428393Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 323,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-10-27T08:59:25.230604Z",
+      "at": "2025-10-26T13:40:46.411647Z",
       "ok": true,
       "count": 0,
       "duration_ms": 282,
@@ -380,26 +228,178 @@
       "error_kind": null
     },
     {
-      "at": "2025-10-27T09:42:14.912491Z",
+      "at": "2025-10-26T14:24:44.110205Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 966,
+      "duration_ms": 256,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T10:24:07.090383Z",
+      "at": "2025-10-26T15:23:37.045836Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 217,
+      "duration_ms": 271,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T11:18:58.108516Z",
+      "at": "2025-10-26T16:16:57.944444Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 296,
+      "duration_ms": 270,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:59:51.251623Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 292,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:48:34.298535Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 276,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:26:38.841101Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 299,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:26:45.673346Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 268,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:03:54.362847Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 540,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:38:07.706831Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 302,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:39:35.523683Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 307,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:30:05.560641Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7019,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:13:39.692296Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 278,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:46:04.737974Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 371,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:28:07.253598Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 293,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:06:32.511185Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 301,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:21:05.307953Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 425,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:15:24.844317Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 276,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:55.263411Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 326,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:59:57.993170Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 304,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:42:42.426841Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 253,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:25:15.718970Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 297,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:00:56.485570Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 353,
       "renderer_used": false,
       "error_kind": null
     }
@@ -407,14 +407,14 @@
   "scrape_health": {
     "status": "suspect",
     "reason": "EMPTY_STREAK",
-    "first_zero_at": "2025-09-02T19:10:45.256133Z",
-    "consecutive_zero_attempts": 525,
-    "flagged_until": "2025-10-28T11:18:58.108516Z",
-    "last_nonzero_at": "2025-09-02T17:57:01.601538Z",
-    "last_nonzero_count": 6,
-    "baseline_nonzero_count": 6,
-    "last_success_at": "2025-09-02T17:57:01.601538Z",
-    "last_success_count": 6
+    "first_zero_at": "2025-10-14T10:06:43.824996Z",
+    "consecutive_zero_attempts": 219,
+    "flagged_until": "2025-10-28T11:00:56.485570Z",
+    "last_nonzero_at": "2025-10-14T09:31:19.311542Z",
+    "last_nonzero_count": 5,
+    "baseline_nonzero_count": 5,
+    "last_success_at": "2025-10-14T09:31:19.311542Z",
+    "last_success_count": 5
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,67 +424,57 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-10-27T11:18:58.108516Z",
-  "last_success_at": "2025-09-02T17:57:01.601538Z",
-  "next_scrape_at": "2025-10-27T11:58:15.739720Z",
+  "last_scraped": "2025-10-27T11:00:56.485570Z",
+  "last_success_at": "2025-10-14T09:31:19.311542Z",
+  "next_scrape_at": "2025-10-27T12:29:05.156430Z",
   "content": [
     {
-      "title": "Director, Engineering",
-      "link": "https://www.pinterestcareers.com/jobs/7142114/director-engineering/",
+      "title": "AI Engineering Intern (100%)",
+      "link": "https://www.upcircle.ai/jobs/ai-engineering-intern",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:55:30.967251Z"
+          "at": "2025-10-10T18:31:00.955176Z"
         }
       ]
     },
     {
-      "title": "Principal Engineer",
-      "link": "https://www.pinterestcareers.com/jobs/7158602/principal-engineer/",
+      "title": "Customer Success Engineer (100%)",
+      "link": "https://www.upcircle.ai/jobs/customer-success-engineer",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:55:30.967251Z"
+          "at": "2025-10-10T18:31:00.955176Z"
         }
       ]
     },
     {
-      "title": "Sr. Software Engineer",
-      "link": "https://www.pinterestcareers.com/jobs/7142118/sr-software-engineer/",
+      "title": "Founder Associate (50-60%)",
+      "link": "https://www.upcircle.ai/jobs/founder-associate-50-60",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:55:30.967251Z"
+          "at": "2025-10-10T18:31:00.955176Z"
         }
       ]
     },
     {
-      "title": "Sr. Staff Software Engineer",
-      "link": "https://www.pinterestcareers.com/jobs/7142116/sr-staff-software-engineer/",
+      "title": "Front-End Engineer - React + Firebase (100%, On Site)",
+      "link": "https://www.upcircle.ai/jobs/front-end-engineer-react",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:55:30.967251Z"
+          "at": "2025-10-10T18:31:00.955176Z"
         }
       ]
     },
     {
-      "title": "Sr. Staff Software Engineer",
-      "link": "https://www.pinterestcareers.com/jobs/7158600/sr-staff-software-engineer/",
+      "title": "Student Position (8h/week) - Data Annotation and Validation for Machine Learning",
+      "link": "https://www.upcircle.ai/jobs/student-jobs-data-annotation-and-validation",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T20:55:30.967251Z"
-        }
-      ]
-    },
-    {
-      "title": "Staff Software Engineer",
-      "link": "https://www.pinterestcareers.com/jobs/7142120/staff-software-engineer/",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T20:55:30.967251Z"
+          "at": "2025-10-10T18:31:00.955176Z"
         }
       ]
     }

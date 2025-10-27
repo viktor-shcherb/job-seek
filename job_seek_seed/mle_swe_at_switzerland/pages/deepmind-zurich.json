@@ -4,215 +4,167 @@
   "website_url": "https://deepmind.google/about/careers/?location=zurich-switzerland#open-roles",
   "attempts": [
     {
-      "at": "2025-09-01T05:33:38.590370Z",
+      "at": "2025-10-25T10:24:10.012109Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2945,
+      "duration_ms": 703,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T08:55:45.204150Z",
+      "at": "2025-10-25T11:34:59.274791Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 10212,
+      "duration_ms": 1623,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T09:49:50.556294Z",
+      "at": "2025-10-25T12:05:18.763564Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3408,
+      "duration_ms": 482,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T10:58:22.037400Z",
+      "at": "2025-10-25T13:14:53.241048Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1887,
+      "duration_ms": 1518,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:52:29.369587Z",
+      "at": "2025-10-25T13:52:19.242384Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3109,
+      "duration_ms": 1615,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T12:35:35.457929Z",
+      "at": "2025-10-25T15:21:26.350355Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1824,
+      "duration_ms": 2021,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:10:17.068525Z",
+      "at": "2025-10-25T16:29:46.925246Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3817,
+      "duration_ms": 1805,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:15:40.084307Z",
+      "at": "2025-10-25T17:01:50.847395Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1897,
+      "duration_ms": 459,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:47:19.182442Z",
+      "at": "2025-10-25T18:27:09.651912Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2753,
+      "duration_ms": 2245,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:19:38.670127Z",
+      "at": "2025-10-25T19:27:01.555694Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2879,
+      "duration_ms": 1787,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:01:09.831730Z",
+      "at": "2025-10-25T20:27:22.582686Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 640,
+      "duration_ms": 1821,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:38:16.711644Z",
+      "at": "2025-10-25T21:26:35.213038Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1740,
+      "duration_ms": 1264,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T17:58:03.624125Z",
+      "at": "2025-10-25T21:59:14.578233Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2701,
+      "duration_ms": 524,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:15:07.076468Z",
+      "at": "2025-10-25T23:28:38.234948Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1714,
+      "duration_ms": 472,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:49:07.492762Z",
+      "at": "2025-10-26T00:05:44.596698Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2986,
+      "duration_ms": 1402,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:14:28.443419Z",
+      "at": "2025-10-26T01:24:11.657962Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2030,
+      "duration_ms": 1472,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:46:13.790541Z",
+      "at": "2025-10-26T02:36:06.211236Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3044,
+      "duration_ms": 2756,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:48:03.421622Z",
+      "at": "2025-10-26T03:15:38.482180Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2016,
+      "duration_ms": 1399,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:40:11.070058Z",
+      "at": "2025-10-26T03:56:25.459033Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2226,
+      "duration_ms": 1844,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:49:57.115388Z",
+      "at": "2025-10-26T04:49:46.079756Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1690,
+      "duration_ms": 1866,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:04:47.354629Z",
-      "ok": true,
-      "count": 1,
-      "duration_ms": 2820,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T03:00:52.301887Z",
-      "ok": true,
-      "count": 1,
-      "duration_ms": 1728,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T03:46:36.929771Z",
-      "ok": true,
-      "count": 1,
-      "duration_ms": 1632,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T05:25:13.075383Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 27,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T06:10:40.613966Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T07:44:25.843636Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 10,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T08:56:46.612784Z",
+      "at": "2025-10-26T05:41:22.809057Z",
       "ok": true,
       "count": 1,
       "duration_ms": 1438,
@@ -220,186 +172,234 @@
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:51:42.218560Z",
+      "at": "2025-10-26T06:39:56.864551Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3412,
+      "duration_ms": 2479,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T11:18:10.063339Z",
+      "at": "2025-10-26T07:22:41.788461Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 1791,
+      "duration_ms": 1913,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T13:14:24.949585Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 16,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T14:20:20.535224Z",
+      "at": "2025-10-26T08:40:23.955941Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2633,
+      "duration_ms": 3338,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:05:02.212807Z",
+      "at": "2025-10-26T09:19:10.781282Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2344,
+      "duration_ms": 1551,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:21.071559Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T17:41:40.378672Z",
+      "at": "2025-10-26T10:08:43.695633Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 2533,
+      "duration_ms": 407,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:01.376048Z",
+      "at": "2025-10-26T11:11:27.929798Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 4,
+      "count": 1,
+      "duration_ms": 1276,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:42.537867Z",
+      "at": "2025-10-26T12:36:29.329634Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 18,
+      "count": 1,
+      "duration_ms": 1543,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T20:43:53.427561Z",
+      "at": "2025-10-26T13:21:31.076769Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 16,
+      "count": 1,
+      "duration_ms": 1664,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T22:45:51.960570Z",
+      "at": "2025-10-26T14:29:16.377517Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 43,
+      "count": 1,
+      "duration_ms": 1756,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T00:52:51.798582Z",
+      "at": "2025-10-26T15:02:30.002088Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 7,
+      "count": 1,
+      "duration_ms": 4266,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T01:58:33.467164Z",
+      "at": "2025-10-26T15:47:29.997898Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 11,
+      "count": 1,
+      "duration_ms": 459,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T03:20:54.955074Z",
+      "at": "2025-10-26T16:49:16.565874Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 10,
+      "count": 1,
+      "duration_ms": 2373,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T05:07:03.536287Z",
+      "at": "2025-10-26T18:09:33.941935Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 11,
+      "count": 1,
+      "duration_ms": 1819,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T07:02:57.899289Z",
+      "at": "2025-10-26T19:35:52.216724Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 7,
+      "count": 1,
+      "duration_ms": 1657,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T08:26:12.067677Z",
+      "at": "2025-10-26T20:51:40.883907Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 9,
+      "count": 1,
+      "duration_ms": 1487,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T10:05:55.482337Z",
+      "at": "2025-10-26T21:25:51.200411Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 4,
+      "count": 1,
+      "duration_ms": 2359,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T11:06:54.235031Z",
+      "at": "2025-10-26T22:36:45.652727Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 5,
+      "count": 1,
+      "duration_ms": 2291,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T12:48:38.715238Z",
+      "at": "2025-10-26T23:57:44.465228Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 1,
+      "duration_ms": 1644,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T13:42:19.306364Z",
+      "at": "2025-10-27T01:12:43.664017Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 608,
+      "count": 1,
+      "duration_ms": 1066,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:25:14.644361Z",
+      "at": "2025-10-27T02:29:08.224856Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 1616,
+      "count": 1,
+      "duration_ms": 1891,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:06:41.964699Z",
+      "at": "2025-10-27T03:42:58.853627Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 1801,
+      "count": 1,
+      "duration_ms": 1825,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:06:06.775989Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 505,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:20:23.391572Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3172,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:18:20.322725Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1457,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:13.572022Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4198,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:05:40.696917Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3070,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:00:54.919848Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1756,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:46:54.046487Z",
+      "ok": true,
+      "count": 79,
+      "duration_ms": 7713,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:35:17.335424Z",
+      "ok": true,
+      "count": 79,
+      "duration_ms": 7486,
       "renderer_used": false,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:06:41.964699Z",
-    "last_nonzero_count": 2,
+    "last_nonzero_at": "2025-10-27T11:35:17.335424Z",
+    "last_nonzero_count": 79,
     "baseline_nonzero_count": 1,
-    "last_success_at": "2025-09-03T15:06:41.964699Z",
-    "last_success_count": 2
+    "last_success_at": "2025-10-27T11:35:17.335424Z",
+    "last_success_count": 79
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,10 +424,2292 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:06:41.964699Z",
-  "last_success_at": "2025-09-03T15:06:41.964699Z",
-  "next_scrape_at": "2025-09-03T16:14:59.982828Z",
+  "last_scraped": "2025-10-27T11:35:17.335424Z",
+  "last_success_at": "2025-10-27T11:35:17.335424Z",
+  "next_scrape_at": "2025-10-27T12:10:35.758381Z",
   "content": [
+    {
+      "title": "Administrative Business Partner - 12 Month FTC - L4 - US Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7346311",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-21T15:36:48.030818Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Administrative Business Partner Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7341969",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T23:08:09.519843Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Ethics and Safety Policy Researcher Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7349530",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T16:26:28.928613Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Product Designer, Gemini App UX Operations Mountain View, California, US; New York City, New York, US; San Francisco, California, US; Seattle, Washington, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7195591",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Business and Corporate Development Manager (GenAI Product & Data Partnerships) Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7262268",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Business and Corporate Development Manager, Science Partnerships, Google DeepMind Operations Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7290598",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T08:24:36.219795Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-13T10:35:44.580028Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Communications Manager, Frontier AI Research Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7339737",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Director of Product Management, Robotics Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7135001",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Events Manager- GenAI 12 Month Fixed Term Contract Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7314061",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T10:47:42.384700Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Executive Business Partner Operations Paris, France",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7242760",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Executive Business Partner Operations Paris, France",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7242824",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Group Product Manager, Gemini Robotics Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7128512",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "GTM Program Manager, Gemini Priority User Program, US Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7273866",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Manager, Applied AI Engineering Engineering London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7106323",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T09:37:45.488955Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Nuclear Engineer (2 year Fixed Term Contract) Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7339193",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Operational Ethics & Safety Manager Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7324087",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-13T23:57:36.986384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Operations Manager, Impact Accelerator, Google DeepMind Operations Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7294496",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T15:10:02.741477Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "People & Culture Partner, GeminiApp ( 12 Month Fixed Term Contract ) Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7177742",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "People Experience & Delivery Partner, US Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7164603",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Counsel Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7257331",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, Gemini App Automation - Deep Research Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7206884",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, Gemini App for Devices Operations Mountain View, California, US; San Francisco, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7094457",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, Gemini App Integrated Assistance Operations Mountain View, California, US; New York City, New York, US; San Francisco, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7306969",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, Gemini in Chrome, Gemini App Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7342429",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T21:40:42.175880Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, Personalization, Gemini App Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7306860",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T02:36:29.837031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Red Teaming Lead, Responsibility Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7336899",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer - ACE Research Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7264985",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer - Multimodal Companion Agent Research Tokyo, Japan",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7257052",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, Ads Engineering New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7113491",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, AI for Weather and Energy Engineering Mountain View, California, US; San Francisco, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6604209",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T11:38:44.435058Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T13:40:21.863525Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T04:40:41.230802Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-10T18:20:20.352595Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, CBRN Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7341408",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, CBRN Engineering New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7339898",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, Multimodal AI Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7284281",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T16:13:14.846236Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineering Manager Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7339901",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T23:44:57.764873Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, AnthroKrishi Research Bangalore, India",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7142337",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Empowering Humans Using LLMs Research Seattle, Washington, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6688786",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T17:48:11.712540Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Frontier AI Safety and Responsibility Research New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7341608",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T23:44:57.764873Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Gemini Audio, UK Research London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7335581",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Gemini Information Tasks Research New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7266721",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-29T07:15:43.557134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T04:08:21.283454Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Generative Media Research London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6192747",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-17T18:38:44.340802Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Languages and Multimodality Research Bangalore, India",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7089682",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Languages and Multimodality Research Tokyo, Japan",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7089543",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Material Intelligence Science London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7353237",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Material Intelligence, 12-Month Fixed-Term Contract Science London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7353266",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Multimodal Generative AI, Google DeepMind Research Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7135034",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Planning, Reasoning, Inference & Structured models (PRISM) Research London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7317616",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-13T17:35:37.020625Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Reasoning & AGI, Google DeepMind Research Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7135585",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Robotics Research Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7102795",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, World Models for Robotics Research Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7309034",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior AI Economist Research London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7216295",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T11:39:39.235703Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior AI Product Designer, Gemini App Growth and Discovery Operations Mountain View, California, US; New York City, New York, US; San Francisco, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7120703",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Applied AI Engineer Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6705908",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Mobile Engineer, GeminiApp, Google DeepMind Engineering Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7236032",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Program Manager, Central Programs Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6923549",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Psychologist Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7343014",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-21T16:33:00.328341Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Research Engineer - GeminiApp Personalization, Mountain View Engineering Mountain View, California, US; New York City, New York, US; Seattle, Washington, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7187664",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Research Engineer, Responsibility Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7349809",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T20:27:21.585651Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Applied AI Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7168555",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Medical AI, Google DeepMind Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7276590",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer - Data Engineering, Robotics Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7257291",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Org Tech Engineering London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6897493",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T15:20:25.566469Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Manager, Applied AI Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7215819",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Manager, Google DeepMind Impact Accelerator Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7156624",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Sr. Staff AI Product Designer, Gemini Assistant Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6674541",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Mobile Engineer, GeminiApp, Google DeepMind Engineering Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7236045",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Applied AI Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7219900",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Medical AI, Google DeepMind Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7294409",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff UX Researcher, Gemini App Operations Mountain View, California, US; San Francisco, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7244979",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Systems Integration Architect, Gemini Robotics Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7324924",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-14T00:34:33.212708Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager - Coding Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7229450",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T21:47:40.172017Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager GeminiApp Personalization Operations Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7293796",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager Operations Bangalore, India",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7002564",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, GeminiApp Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7293686",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, Generative AI Prototyping Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7251441",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, Generative Video, US - 12 Month FTC Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7292451",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, Post-Training Operations Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7099658",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, RL Infrastructure & Reliability Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7355051",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Specialist, Foundational Research (Fixed-Term Contract) Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7250762",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T08:51:44.896798Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "User Experience Design Lead, Model UX, GeminiApp Automation Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7307851",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T03:47:29.989049Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Administrative Business Partner Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7145029",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-20T23:08:09.519843Z"
+        }
+      ]
+    },
+    {
+      "title": "Administrative Business Partner, Fixed Term Contract Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7276041",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T13:11:46.862006Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T15:36:48.030818Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Applications Engineer, Org AI Innovation Engineering London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7093323",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T22:22:50.620885Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T12:10:58.548790Z"
+        }
+      ]
+    },
+    {
+      "title": "Data Scientist, Responsible Development and Innovation Operations New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7336872",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-16T03:10:43.929776Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T04:59:20.387031Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        }
+      ]
+    },
+    {
+      "title": "Developer Relations Engineer Engineering London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7194323",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        }
+      ]
+    },
+    {
+      "title": "Director of Engineering, Google DeepMind, Singapore Engineering Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7170609",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Director, Applied ML for Robotics Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7312450",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T23:07:01.184296Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T18:58:21.442565Z"
+        }
+      ]
+    },
+    {
+      "title": "Director, Engineering, AI Studio, Gemini API Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7073353",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T16:26:28.928613Z"
+        }
+      ]
+    },
+    {
+      "title": "Events Manager ( 9 Month Fixed Term Contract ) Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7144763",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T11:20:41.077045Z"
+        }
+      ]
+    },
+    {
+      "title": "Executive Communications Manager Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6750636",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T11:38:44.435058Z"
+        }
+      ]
+    },
+    {
+      "title": "Foundational Research Scientist Lead & Director Research Singapore",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7130318",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Front-End Software Engineer, Web, GeminiApp Engineering Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7114560",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-27T09:40:54.068836Z"
+        }
+      ]
+    },
+    {
+      "title": "Go-to-Market (GTM) Lead, GeminiApp Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7249569",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T18:42:32.257463Z"
+        }
+      ]
+    },
+    {
+      "title": "Group Product Manager, Gemini App Automation Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7205952",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        }
+      ]
+    },
+    {
+      "title": "Internal Communications - Unit Head, GenAI Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6750311",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T13:48:32.506507Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Software Engineer, Quality, Project Janus Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7277467",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-29T13:40:21.863525Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T19:51:49.702320Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Manager, Applied AI Engineering Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6704563",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        }
+      ]
+    },
+    {
+      "title": "Mobile Software Engineer, Gemini App Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7246171",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T16:33:00.328341Z"
+        }
+      ]
+    },
+    {
+      "title": "P&C Partnering Lead ( 12 Month Fixed Term Contract ) Operations Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7144793",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "People Partner, GenAI Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7112322",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T12:04:46.268847Z"
+        }
+      ]
+    },
+    {
+      "title": "Program Manager Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7092916",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T11:20:41.077045Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, Agentic AI Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7302855",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-20T23:08:09.519843Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, Audio Dialogue Engineering Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7289776",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T01:10:31.664804Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T08:24:36.219795Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, Game Theory & Multi-Agent Systems Engineering London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7276758",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-27T09:40:54.068836Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T10:35:44.580028Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, GenMedia Engineering Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7185062",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T11:38:44.435058Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, Media Integrity Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7171371",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist / Research Engineer, Multimodal Modelling, Paris Research Paris, France",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7101710",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T12:59:02.353522Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Computational Chemistry for Protein Design, 12 Month Fixed-Term Contract Science London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7267642",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Game Theory & Multi-Agent Systems Research London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7276658",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-27T09:40:54.068836Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T10:35:44.580028Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Model Optimization Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7202745",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-13T23:57:36.986384Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-15T05:47:04.739749Z"
+        }
+      ]
+    },
     {
       "title": "Research Scientist, Multimodal Generation Research Zurich, Switzerland",
       "link": "https://job-boards.greenhouse.io/deepmind/jobs/7155097",
@@ -435,6 +2717,82 @@
         {
           "status": "active",
           "at": "2025-09-03T13:42:19.306364Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-25T09:57:50.564300Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Multimodal LLMs Research Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7164652",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Post-AGI Research Research London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6789253",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Retrieval and Ranking Research New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7268422",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-02T03:53:21.783889Z"
+        }
+      ]
+    },
+    {
+      "title": "Reward & Recognition (Compensation) Partner Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7279372",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-27T09:40:54.068836Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T18:42:32.257463Z"
         }
       ]
     },
@@ -445,6 +2803,286 @@
         {
           "status": "active",
           "at": "2025-08-28T19:53:27.521059Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T11:41:36.881228Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Product Backend - Project Janus Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7277181",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T19:51:49.702320Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff Security Engineer, Robotics (Physical AI) Engineering Mountain View, California, US; New York City, New York, US; Virtual",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7225854",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T18:58:21.442565Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff Software Engineer, Gemini App Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7053012",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff User Experience Researcher, Gemini App Operations Mountain View, California, US; Seattle, Washington, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7094675",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-15T19:48:21.668358Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Technical Program Manager, Gemini Evals Operations Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7325285",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-14T20:15:09.750558Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T18:38:44.340802Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, AI Infrastructure Engineering Zurich, Switzerland",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7349000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T15:32:33.643365Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-27T10:46:54.046487Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Applied Robotics Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/6763890",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T01:10:31.664804Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Medical AI Engineering London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7050840",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-14T09:48:25.335725Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Robotics Infrastructure Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7259604",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T22:52:52.150174Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-30T05:50:32.839218Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T04:40:41.230802Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Manager, GeminiApp Engineering Bangalore, India",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7233837",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T18:38:44.340802Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Front-end Software Engineer, Web, GeminiApp Engineering Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7236059",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-27T09:40:54.068836Z"
+        }
+      ]
+    },
+    {
+      "title": "Strategy & Operations Senior Manager, Global Security Operations London, UK",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7106421",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Talent Acquisition Specialist Operations Mountain View, California, US; New York City, New York, US; San Francisco, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7253069",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T07:15:43.557134Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, AI Safety Launch Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7269384",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, GeminiApp, Gemini Live Operations Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7269160",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T15:32:33.643365Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, Post-Training, Core Model Engineering Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7260967",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager: GeminiApp Automation Operations Mountain View, California, US; New York City, New York, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7255746",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:57:50.564300Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T21:52:18.818036Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-19T12:57:22.558311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T22:20:45.632426Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Strategy & Operations Lead Operations Mountain View, California, US",
+      "link": "https://job-boards.greenhouse.io/deepmind/jobs/7312565",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T06:01:24.112286Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T07:42:10.365527Z"
         }
       ]
     }

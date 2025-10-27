@@ -4,402 +4,402 @@
   "website_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Switzerland&lc=Z%C3%BCrich%2C%20Switzerland&lc=Multiple%20Locations%2C%20Switzerland&lc=Wallisellen%2C%20Z%C3%BCrich%2C%20Switzerland&lc=Geneva%2C%20Switzerland&lc=Petit-Lancy%2C%20Geneva%2C%20Switzerland&lc=Vernier%2C%20Geneva%2C%20Switzerland&d=Software%20Engineering&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
   "attempts": [
     {
-      "at": "2025-09-01T19:45:30.536185Z",
+      "at": "2025-10-25T11:00:39.587538Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 11943,
+      "duration_ms": 12233,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:34:21.164017Z",
+      "at": "2025-10-25T12:26:30.199791Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 14023,
+      "duration_ms": 16681,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:10:20.509653Z",
+      "at": "2025-10-25T13:15:09.742749Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 14292,
+      "duration_ms": 11854,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:23:43.592026Z",
+      "at": "2025-10-25T13:48:21.008178Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 14981,
+      "duration_ms": 15823,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:31:31.727908Z",
+      "at": "2025-10-25T15:03:06.831347Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 11730,
+      "duration_ms": 9674,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:25:48.437850Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 462,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T01:48:19.497543Z",
+      "at": "2025-10-25T16:03:22.163568Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 11573,
+      "duration_ms": 10395,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:59:29.642716Z",
+      "at": "2025-10-25T16:35:53.512255Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 16379,
+      "duration_ms": 12318,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:22:41.119549Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 66,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T05:25:15.794380Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 81,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:10:42.882631Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:26.971858Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 84,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:48.430346Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 104,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:02:23.225330Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 86,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:24:17.958756Z",
+      "at": "2025-10-25T17:58:23.654745Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 9030,
+      "duration_ms": 12812,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:54:20.108217Z",
+      "at": "2025-10-25T19:02:03.249141Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 10878,
+      "duration_ms": 16789,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T10:08:38.609312Z",
+      "at": "2025-10-25T19:41:03.200317Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 11181,
+      "duration_ms": 10081,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:27.935540Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 81,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:26.068337Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 52,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:42.297129Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:24:22.808496Z",
+      "at": "2025-10-25T20:29:48.445497Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 10740,
+      "duration_ms": 13597,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:37:27.473523Z",
+      "at": "2025-10-25T21:45:38.999661Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 9676,
+      "duration_ms": 12931,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:19:09.524140Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 61,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:39:13.668511Z",
+      "at": "2025-10-25T22:23:10.969282Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 13138,
+      "duration_ms": 11486,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:01.376048Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 90,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:10:45.256133Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 94,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:30:12.869316Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 107,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:05.268767Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 86,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:43:54.581875Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 84,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:26.043424Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 59,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:54.303570Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 84,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:52.190802Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:54.054696Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 82,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:34.579323Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 105,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:57.275584Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 83,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:01:01.115022Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 79,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:05.822497Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:02:00.046593Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 61,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:03:00.170412Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 78,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:03:58.137080Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 63,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:26:13.207951Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 84,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:04:57.672747Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 64,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:05:57.744314Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 77,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:55.356308Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:55.822331Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 87,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:39.822829Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 85,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:08.622538Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 50,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:44:20.402538Z",
+      "at": "2025-10-25T22:59:13.960176Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 11477,
+      "duration_ms": 14477,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:49:34.047267Z",
+      "at": "2025-10-25T23:29:35.044730Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 13266,
+      "duration_ms": 13724,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:35:54.493036Z",
+      "at": "2025-10-26T00:55:55.532086Z",
       "ok": true,
       "count": 7,
-      "duration_ms": 13488,
+      "duration_ms": 12881,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:47:12.458525Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 30705,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:39:16.369014Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 11375,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:56:25.459033Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 12607,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:20:41.389398Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 16021,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:39:56.864551Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 15796,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:57:22.987849Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 13699,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:01:50.581850Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 1282,
+      "renderer_used": null,
+      "error_kind": "TimeoutError"
+    },
+    {
+      "at": "2025-10-26T09:19:21.202050Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 19729,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:17:02.792238Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 14190,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:26:31.577761Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 10400,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:03:28.803461Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 13773,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:42:39.601225Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 11154,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:51:06.612929Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 12805,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:28:58.731441Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 10142,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:52:17.514554Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 11853,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:57:30.707304Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 14371,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:44:36.700187Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 9737,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:14:36.994841Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 12767,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:21.838022Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 17537,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:51:46.430296Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 12054,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:57:17.117875Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 14262,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:04:13.293451Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 19736,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:20:31.535138Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 431,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T00:54:26.374293Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 12844,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:50:35.582960Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 18343,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:28:45.212247Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 13925,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:27:16.460107Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 18926,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:10:20.545912Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 18090,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:43:16.340125Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 17085,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:14:54.872641Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 24384,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:13.572022Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 11168,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:24:41.094786Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 12348,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:20:08.112293Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 14900,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:18:58.108516Z",
+      "ok": true,
+      "count": 7,
+      "duration_ms": 15749,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,10 +410,10 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:35:54.493036Z",
+    "last_nonzero_at": "2025-10-27T11:18:58.108516Z",
     "last_nonzero_count": 7,
     "baseline_nonzero_count": 7,
-    "last_success_at": "2025-09-03T15:35:54.493036Z",
+    "last_success_at": "2025-10-27T11:18:58.108516Z",
     "last_success_count": 7
   },
   "policy": {
@@ -424,10 +424,88 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:35:54.493036Z",
-  "last_success_at": "2025-09-03T15:35:54.493036Z",
-  "next_scrape_at": "2025-09-03T16:31:52.286520Z",
+  "last_scraped": "2025-10-27T11:18:58.108516Z",
+  "last_success_at": "2025-10-27T11:18:58.108516Z",
+  "next_scrape_at": "2025-10-27T12:25:58.696260Z",
   "content": [
+    {
+      "title": "Applied Scientist - Multimodal Foundation Models & Robotics",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1876499/Applied-Scientist---Multimodal-Foundation-Models-%26-Robotics",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:31:35.763148Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T05:51:36.658928Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-01T12:48:22.113755Z"
+        }
+      ]
+    },
+    {
+      "title": "High Performance Computing Engineer",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1883837/High-Performance-Computing-Engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T16:17:20.588320Z"
+        }
+      ]
+    },
+    {
+      "title": "Member of Technical Staff - AI Post Training",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1881523/Member-of-Technical-Staff---AI-Post-Training",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-23T10:22:31.212230Z"
+        }
+      ]
+    },
+    {
+      "title": "Member of Technical Staff - Software Engineer",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1901397/Member-of-Technical-Staff---Software-Engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T15:51:39.007831Z"
+        }
+      ]
+    },
+    {
+      "title": "Member of Technical Staff, AI Multimodal",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1881520/Member-of-Technical-Staff%2C-AI-Multimodal",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-23T10:22:31.212230Z"
+        }
+      ]
+    },
+    {
+      "title": "Member of Technical Staff, Data Research Engineer",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1882044/Member-of-Technical-Staff%2C-Data-Research-Engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-24T14:46:22.465217Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1882053/Software-Engineering",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T14:13:33.359643Z"
+        }
+      ]
+    },
     {
       "title": "Member of Technical Staff - AI Data",
       "link": "https://jobs.careers.microsoft.com/global/en/job/1832812/Member-of-Technical-Staff---AI-Data",
@@ -435,6 +513,10 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:31:35.763148Z"
         }
       ]
     },
@@ -445,6 +527,10 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:22:31.212230Z"
         }
       ]
     },
@@ -455,6 +541,10 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:22:31.212230Z"
         }
       ]
     },
@@ -465,6 +555,10 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T08:21:43.106545Z"
         }
       ]
     },
@@ -475,6 +569,24 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:31:35.763148Z"
+        }
+      ]
+    },
+    {
+      "title": "Member of Technical Staff - Machine Learning, AI Safety",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1883079/Member-of-Technical-Staff---Machine-Learning%2C-AI-Safety",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T10:59:21.266327Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-14T10:06:43.824996Z"
         }
       ]
     },
@@ -485,6 +597,10 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-25T10:52:26.482031Z"
         }
       ]
     },
@@ -495,6 +611,68 @@
         {
           "status": "active",
           "at": "2025-08-26T09:33:12.844408Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:31:35.763148Z"
+        }
+      ]
+    },
+    {
+      "title": "Principal Security Engineer",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1874588/Principal-Security-Engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-09T14:16:44.432484Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T05:51:36.658928Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-09T16:31:31.095246Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T13:50:17.044009Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-23T09:09:04.848565Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T13:51:21.429139Z"
+        }
+      ]
+    },
+    {
+      "title": "Principal Software Engineer",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1874588/Principal-Software-Engineer",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-09T11:36:20.155321Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-09T12:54:10.293972Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering IC3",
+      "link": "https://jobs.careers.microsoft.com/global/en/job/1882053/Software-Engineering-IC3",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T13:01:42.148604Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-20T14:13:33.359643Z"
         }
       ]
     }

@@ -4,361 +4,417 @@
   "website_url": "https://jobs.totalenergies.com/en_US/careers/SearchJobs/?704=%5B39835%5D&704_format=1390&3834=%5B41579%5D&3834_format=3639&listFilterMode=1&jobRecordsPerPage=20&#jobs",
   "attempts": [
     {
-      "at": "2025-09-01T11:57:00.062146Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 6504,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T12:34:49.422600Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5649,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T13:41:28.517115Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 6461,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T14:18:06.564309Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 6188,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T14:48:25.186297Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5462,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T15:32:55.361599Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5707,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T16:43:09.036372Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5839,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T17:31:26.580136Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 6151,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T18:37:43.636962Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5767,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T19:27:36.972618Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5629,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T20:39:19.498503Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5989,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T22:10:57.901433Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5741,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T23:06:13.443719Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5619,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T00:12:52.954047Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5562,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T01:45:11.638737Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5990,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T03:12:41.781902Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 7276,
-      "renderer_used": true,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T04:22:42.257202Z",
+      "at": "2025-10-25T11:09:42.235784Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T06:10:45.577512Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T07:44:26.940141Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 2,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T08:20:29.399765Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 5576,
+      "duration_ms": 5672,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:49:49.396680Z",
+      "at": "2025-10-25T11:53:28.335298Z",
       "ok": true,
-      "count": 4,
-      "duration_ms": 9860,
+      "count": 0,
+      "duration_ms": 5098,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:30.261034Z",
+      "at": "2025-10-25T12:42:22.426052Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
+      "duration_ms": 5399,
+      "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:07:45.012646Z",
+      "at": "2025-10-25T13:35:28.829598Z",
       "ok": false,
       "count": 0,
-      "duration_ms": 5767,
+      "duration_ms": 2888,
       "renderer_used": null,
-      "error_kind": "TimeoutError"
+      "error_kind": "Error"
     },
     {
-      "at": "2025-09-02T14:30:30.065466Z",
+      "at": "2025-10-25T13:59:18.075876Z",
       "ok": true,
-      "count": 4,
-      "duration_ms": 7045,
+      "count": 0,
+      "duration_ms": 5276,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:23.762947Z",
+      "at": "2025-10-25T15:24:40.295154Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 4,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T17:39:27.825480Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 6357,
+      "duration_ms": 5892,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:03.706617Z",
+      "at": "2025-10-25T16:36:58.247803Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T20:22:07.943788Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T21:32:28.738368Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T22:45:56.944635Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T00:52:56.679197Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 2,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T02:14:55.752496Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T03:20:59.950725Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 4,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T05:07:08.442767Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 9,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T07:03:02.823675Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 4,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T08:04:00.815511Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T09:05:00.332052Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 2,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T10:27:57.115198Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 7,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T12:07:58.153307Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T12:50:46.198445Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 5,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T13:32:58.255467Z",
-      "ok": true,
-      "count": 4,
-      "duration_ms": 6310,
+      "duration_ms": 5372,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:36:07.612589Z",
+      "at": "2025-10-25T17:42:54.852228Z",
       "ok": true,
-      "count": 4,
-      "duration_ms": 6343,
+      "count": 0,
+      "duration_ms": 4978,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:52:26.678856Z",
+      "at": "2025-10-25T18:18:19.320488Z",
       "ok": true,
-      "count": 4,
-      "duration_ms": 6888,
+      "count": 0,
+      "duration_ms": 5332,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:54:56.449835Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5278,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:48:21.442545Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4928,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:56:21.888898Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5320,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:51:20.674395Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5129,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:22:10.309138Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5332,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:00:29.165300Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5684,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:13:55.576006Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5037,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:56:26.522170Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4906,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:55:51.334567Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5066,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:26:11.266402Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5459,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:56:40.963211Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5095,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:20:41.389398Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5355,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:54:39.348130Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5072,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:15:56.894358Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6184,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:23:40.743139Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6291,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:02:10.501009Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7258,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:01:33.550855Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5283,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:12:08.440735Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5553,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:23:25.274068Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5320,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:46:41.299128Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5242,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:24:10.547626Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5244,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:41:34.845193Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5209,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:13:52.627906Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5321,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:56:49.392266Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5338,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:11:02.432456Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5078,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:41.810372Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6483,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:34:50.562920Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5513,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:59:36.936842Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5076,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:21:07.095727Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4951,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:55:06.018109Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5243,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:51:07.173840Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5010,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:46:04.737974Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5353,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:27:39.221656Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 7155,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:11:11.543226Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4980,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:48:55.881126Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6084,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:20:30.639184Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5312,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:45:41.042920Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5526,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:41:30.334111Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 4919,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:25:41.144951Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5311,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:01:16.669577Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 6435,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:19:31.233917Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 5645,
       "renderer_used": true,
       "error_kind": null
     }
   ],
   "scrape_health": {
-    "status": "normal",
-    "reason": "NONE",
-    "first_zero_at": null,
-    "consecutive_zero_attempts": 0,
-    "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:52:26.678856Z",
-    "last_nonzero_count": 4,
-    "baseline_nonzero_count": 4,
-    "last_success_at": "2025-09-03T15:52:26.678856Z",
-    "last_success_count": 4
+    "status": "suspect",
+    "reason": "EMPTY_STREAK",
+    "first_zero_at": "2025-10-21T08:46:55.639758Z",
+    "consecutive_zero_attempts": 104,
+    "flagged_until": "2025-10-28T11:19:31.233917Z",
+    "last_nonzero_at": "2025-10-21T07:57:35.830084Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-10-21T07:57:35.830084Z",
+    "last_success_count": 1
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -368,30 +424,10 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:52:26.678856Z",
-  "last_success_at": "2025-09-03T15:52:26.678856Z",
-  "next_scrape_at": "2025-09-03T16:47:47.436055Z",
+  "last_scraped": "2025-10-27T11:19:31.233917Z",
+  "last_success_at": "2025-10-21T07:57:35.830084Z",
+  "next_scrape_at": "2025-10-27T12:40:51.245110Z",
   "content": [
-    {
-      "title": "Front Office Tools and Trade Monitoring, Gas & Power Trading IT - Business Analyst Internship",
-      "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Front-Office-Tools-and-Trade-Monitoring-Gas-Power-Trading-IT-Business-Analyst-Internship/68743",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T11:57:00.062146Z"
-        }
-      ]
-    },
-    {
-      "title": "Innovation Lab Intern - Digital communication",
-      "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Innovation-Lab-Intern-Digital-communication/67708",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T11:57:00.062146Z"
-        }
-      ]
-    },
     {
       "title": "Manager, Energy Management Systems, Gas & Power Trading IT",
       "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Manager-Energy-Management-Systems-Gas-Power-Trading-IT/49176",
@@ -403,12 +439,44 @@
       ]
     },
     {
+      "title": "Front Office Tools and Trade Monitoring, Gas & Power Trading IT - Business Analyst Internship",
+      "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Front-Office-Tools-and-Trade-Monitoring-Gas-Power-Trading-IT-Business-Analyst-Internship/68743",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T11:57:00.062146Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-05T12:35:46.365719Z"
+        }
+      ]
+    },
+    {
+      "title": "Innovation Lab Intern - Digital communication",
+      "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Innovation-Lab-Intern-Digital-communication/67708",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T11:57:00.062146Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T17:07:43.955060Z"
+        }
+      ]
+    },
+    {
       "title": "Optimization Data Scientist",
       "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Optimization-Data-Scientist/68326",
       "history": [
         {
           "status": "active",
           "at": "2025-09-01T11:57:00.062146Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T15:36:44.552039Z"
         }
       ]
     }

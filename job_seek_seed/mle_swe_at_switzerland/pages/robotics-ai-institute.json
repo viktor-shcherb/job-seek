@@ -4,402 +4,402 @@
   "website_url": "https://jobs.lever.co/rai?location=Zurich",
   "attempts": [
     {
-      "at": "2025-08-31T23:02:11.248486Z",
+      "at": "2025-10-24T11:09:52.924272Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1339,
+      "count": 8,
+      "duration_ms": 2615,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-08-31T23:47:19.296584Z",
+      "at": "2025-10-25T07:48:17.638882Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1145,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T08:57:18.203089Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1328,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T09:38:51.943292Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1758,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T10:24:44.650114Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1205,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T11:19:32.712180Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1669,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T12:16:22.081181Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1218,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T13:19:26.525206Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1238,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T14:25:15.801373Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1297,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T15:07:58.360450Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1766,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T15:46:01.880495Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1229,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T16:37:31.743762Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1278,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T17:26:54.199492Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1316,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T18:07:35.544714Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1697,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T19:34:35.815722Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1384,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T20:39:47.623048Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1280,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T21:31:15.575257Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1282,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T22:28:55.968339Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1298,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T23:06:13.443719Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1529,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T00:32:12.316221Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1271,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T01:25:48.437850Z",
-      "ok": true,
-      "count": 6,
-      "duration_ms": 1249,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T02:59:29.642716Z",
-      "ok": true,
-      "count": 6,
+      "count": 8,
       "duration_ms": 1220,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:14:13.448051Z",
+      "at": "2025-10-25T09:13:33.624131Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 1439,
+      "count": 8,
+      "duration_ms": 1106,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T06:10:42.882631Z",
+      "at": "2025-10-25T10:28:42.812212Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 8,
+      "duration_ms": 2522,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T07:25:48.430346Z",
+      "at": "2025-10-25T11:48:58.640991Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 26,
+      "count": 8,
+      "duration_ms": 1185,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:05:03.140011Z",
+      "at": "2025-10-25T12:39:44.803456Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1234,
+      "count": 8,
+      "duration_ms": 1170,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:22:55.361442Z",
+      "at": "2025-10-25T13:37:20.548517Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1122,
+      "count": 8,
+      "duration_ms": 1201,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:29.075890Z",
+      "at": "2025-10-25T15:03:37.821938Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 34,
+      "count": 8,
+      "duration_ms": 1265,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:07:43.852745Z",
+      "at": "2025-10-25T15:49:10.055564Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 32,
+      "count": 8,
+      "duration_ms": 1219,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:49:30.633407Z",
+      "at": "2025-10-25T17:04:26.383561Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1120,
+      "count": 8,
+      "duration_ms": 1248,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:22.203153Z",
+      "at": "2025-10-25T17:58:18.501801Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 115,
+      "count": 8,
+      "duration_ms": 1126,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:31:15.080901Z",
+      "at": "2025-10-25T19:10:50.174518Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 8788,
+      "count": 8,
+      "duration_ms": 1110,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:02.538587Z",
+      "at": "2025-10-25T19:48:40.457552Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 31,
+      "count": 8,
+      "duration_ms": 1090,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:30:12.869316Z",
+      "at": "2025-10-25T20:28:18.726246Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 36,
+      "count": 8,
+      "duration_ms": 1126,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T20:43:54.581875Z",
+      "at": "2025-10-25T21:04:20.845363Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 8,
+      "duration_ms": 1136,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T21:32:27.562542Z",
+      "at": "2025-10-25T22:00:30.254029Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 36,
+      "count": 8,
+      "duration_ms": 1223,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T22:45:55.777097Z",
+      "at": "2025-10-25T23:30:05.880321Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 33,
+      "count": 8,
+      "duration_ms": 1578,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T23:46:53.729959Z",
+      "at": "2025-10-26T00:45:51.039672Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 8,
+      "duration_ms": 1297,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T00:52:55.508559Z",
+      "at": "2025-10-26T02:05:24.367342Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 34,
+      "count": 8,
+      "duration_ms": 1114,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T02:14:55.752496Z",
+      "at": "2025-10-26T02:58:46.473221Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 60,
+      "count": 8,
+      "duration_ms": 1910,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T04:01:02.597265Z",
+      "at": "2025-10-26T03:56:40.963211Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 46,
+      "count": 8,
+      "duration_ms": 1206,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T06:02:01.538042Z",
+      "at": "2025-10-26T04:50:16.830844Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 26,
+      "count": 8,
+      "duration_ms": 1332,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T07:03:01.654842Z",
+      "at": "2025-10-26T06:16:21.212012Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 35,
+      "count": 8,
+      "duration_ms": 1592,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T08:03:59.656448Z",
+      "at": "2025-10-26T07:39:55.789806Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 28,
+      "count": 8,
+      "duration_ms": 1168,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T09:04:59.162428Z",
+      "at": "2025-10-26T08:41:05.543886Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 35,
+      "count": 8,
+      "duration_ms": 1041,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T10:27:55.944652Z",
+      "at": "2025-10-26T09:20:57.736129Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 40,
+      "count": 8,
+      "duration_ms": 1576,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T12:07:56.966796Z",
+      "at": "2025-10-26T10:49:32.751083Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 37,
+      "count": 8,
+      "duration_ms": 1052,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T13:21:34.140706Z",
+      "at": "2025-10-26T11:42:18.720816Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 2738,
+      "count": 8,
+      "duration_ms": 1155,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:23:21.296281Z",
+      "at": "2025-10-26T12:49:34.979475Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1104,
+      "count": 8,
+      "duration_ms": 1315,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:08:26.754946Z",
+      "at": "2025-10-26T13:53:30.496259Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 2711,
+      "count": 8,
+      "duration_ms": 2331,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:17:53.963199Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1128,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:15:31.752287Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1145,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:56:19.670443Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 2004,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:49:50.999265Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1197,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:35:48.102128Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1339,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:14:08.098173Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1739,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:16:07.858773Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1164,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:26:58.036726Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1153,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:55:32.684682Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1043,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:21.897598Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1133,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:13:19.471043Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1067,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:28:16.313496Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1239,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:27:39.221656Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1601,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:01:00.969725Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 2861,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:04:05.016933Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1344,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:14:54.872641Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 6187,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:43:29.026234Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1261,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:25:06.414268Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1272,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:11:06.261993Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1157,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:19:31.233917Z",
+      "ok": true,
+      "count": 8,
+      "duration_ms": 1149,
       "renderer_used": false,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:08:26.754946Z",
-    "last_nonzero_count": 6,
-    "baseline_nonzero_count": 6,
-    "last_success_at": "2025-09-03T15:08:26.754946Z",
-    "last_success_count": 6
+    "last_nonzero_at": "2025-10-27T11:19:31.233917Z",
+    "last_nonzero_count": 8,
+    "baseline_nonzero_count": 8,
+    "last_success_at": "2025-10-27T11:19:31.233917Z",
+    "last_success_count": 8
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,9 +424,9 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:08:26.754946Z",
-  "last_success_at": "2025-09-03T15:08:26.754946Z",
-  "next_scrape_at": "2025-09-03T16:04:33.293935Z",
+  "last_scraped": "2025-10-27T11:19:31.233917Z",
+  "last_success_at": "2025-10-27T11:19:31.233917Z",
+  "next_scrape_at": "2025-10-27T11:57:47.502853Z",
   "content": [
     {
       "title": "Applied Scientist (Zurich Location)",
@@ -455,6 +455,14 @@
         {
           "status": "active",
           "at": "2025-08-30T18:15:23.970314Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-09T13:56:57.763760Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-23T10:22:59.080759Z"
         }
       ]
     },
@@ -485,6 +493,26 @@
         {
           "status": "active",
           "at": "2025-08-30T18:15:23.970314Z"
+        }
+      ]
+    },
+    {
+      "title": "Sr. Perception Software Engineer / Researcher - Zurich, Switzerland",
+      "link": "https://jobs.lever.co/rai/e191298d-5b91-4615-9319-dfb166d9d5f8",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T13:52:05.901911Z"
+        }
+      ]
+    },
+    {
+      "title": "Sr. Research Scientist - Physically-Grounded World Modeling - Zurich, Switzerland",
+      "link": "https://jobs.lever.co/rai/87dfce76-7e63-43bc-aa0d-dd81af043793",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T13:52:05.901911Z"
         }
       ]
     }

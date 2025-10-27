@@ -1,405 +1,405 @@
 {
-  "title": "Snyk Zurich",
-  "icon_url": "https://upload.wikimedia.org/wikipedia/he/1/1d/Snyk-logo.svg",
-  "website_url": "https://job-boards.greenhouse.io/snyk?offices%5B%5D=4045539002",
+  "title": "LatticeFlow",
+  "icon_url": "https://latticeflow.ai/images/lf-logo-dark.svg",
+  "website_url": "https://apply.workable.com/latticeflow/",
   "attempts": [
     {
-      "at": "2025-10-25T07:48:50.142204Z",
+      "at": "2025-10-25T08:45:54.692545Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21006,
+      "duration_ms": 2454,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T08:46:54.473777Z",
+      "at": "2025-10-25T09:52:32.905038Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20895,
+      "duration_ms": 2092,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T09:37:55.245915Z",
+      "at": "2025-10-25T10:57:39.959110Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21025,
+      "duration_ms": 2239,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T10:19:56.753850Z",
+      "at": "2025-10-25T11:46:50.378314Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20879,
+      "duration_ms": 2115,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T11:12:41.451007Z",
+      "at": "2025-10-25T12:51:33.952962Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20989,
+      "duration_ms": 2120,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T12:35:09.759364Z",
+      "at": "2025-10-25T13:51:00.436282Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21238,
+      "duration_ms": 2159,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T13:10:53.683674Z",
+      "at": "2025-10-25T14:35:00.560695Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20980,
+      "duration_ms": 2128,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T13:49:22.024651Z",
+      "at": "2025-10-25T15:39:27.980637Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21010,
+      "duration_ms": 2377,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T14:51:30.439829Z",
+      "at": "2025-10-25T16:36:06.842697Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20917,
+      "duration_ms": 2548,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T15:45:37.878135Z",
+      "at": "2025-10-25T17:30:16.091430Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20917,
+      "duration_ms": 2490,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T17:08:18.432118Z",
+      "at": "2025-10-25T18:27:37.067596Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20922,
+      "duration_ms": 2623,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T18:08:30.371581Z",
+      "at": "2025-10-25T19:25:19.253441Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20915,
+      "duration_ms": 2258,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T18:55:49.064293Z",
+      "at": "2025-10-25T20:54:14.514861Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21077,
+      "duration_ms": 2345,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T20:09:05.126550Z",
+      "at": "2025-10-25T22:04:10.736121Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20879,
+      "duration_ms": 2319,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T20:48:23.635002Z",
+      "at": "2025-10-25T22:45:11.824418Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20921,
+      "duration_ms": 2098,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T21:51:41.557551Z",
+      "at": "2025-10-25T23:57:17.122562Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21099,
+      "duration_ms": 2189,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T22:30:54.209479Z",
+      "at": "2025-10-26T00:59:26.904700Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20911,
+      "duration_ms": 2602,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-25T23:26:24.790742Z",
+      "at": "2025-10-26T01:36:31.838610Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20873,
+      "duration_ms": 2561,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T00:00:22.664312Z",
+      "at": "2025-10-26T02:52:50.280405Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21287,
+      "duration_ms": 2112,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T01:11:19.493112Z",
+      "at": "2025-10-26T03:56:25.459033Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20913,
+      "duration_ms": 5252,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T02:11:27.510795Z",
+      "at": "2025-10-26T04:49:46.079756Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21069,
+      "duration_ms": 3243,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T02:49:48.136379Z",
+      "at": "2025-10-26T06:16:21.212012Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20959,
+      "duration_ms": 5505,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T03:56:40.963211Z",
+      "at": "2025-10-26T07:40:38.627977Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21159,
+      "duration_ms": 2198,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T05:20:41.389398Z",
+      "at": "2025-10-26T08:59:13.096871Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21265,
+      "duration_ms": 6246,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T05:52:35.248474Z",
+      "at": "2025-10-26T10:02:10.501009Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21168,
+      "duration_ms": 2839,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T07:15:56.894358Z",
+      "at": "2025-10-26T11:26:54.075910Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20823,
+      "duration_ms": 2316,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T08:59:42.734724Z",
+      "at": "2025-10-26T12:00:01.355878Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21019,
+      "duration_ms": 2171,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T10:14:10.007160Z",
+      "at": "2025-10-26T12:37:13.507956Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20899,
+      "duration_ms": 2578,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T11:06:46.391537Z",
+      "at": "2025-10-26T13:41:58.507209Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20904,
+      "duration_ms": 2307,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T12:32:53.536665Z",
+      "at": "2025-10-26T14:24:57.433185Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20888,
+      "duration_ms": 2161,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T13:11:57.448127Z",
+      "at": "2025-10-26T15:50:14.896879Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21029,
+      "duration_ms": 2123,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T14:35:12.525186Z",
+      "at": "2025-10-26T16:36:27.758071Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20949,
+      "duration_ms": 2568,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T15:33:40.055107Z",
+      "at": "2025-10-26T17:41:37.476425Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20973,
+      "duration_ms": 2237,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T16:41:04.566985Z",
+      "at": "2025-10-26T19:03:36.233650Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20921,
+      "duration_ms": 2608,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T17:40:48.100239Z",
+      "at": "2025-10-26T20:15:59.558762Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21199,
+      "duration_ms": 5808,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T18:39:27.752385Z",
+      "at": "2025-10-26T21:27:37.394716Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20998,
+      "duration_ms": 2792,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T19:34:21.292915Z",
+      "at": "2025-10-26T22:14:15.822677Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20916,
+      "duration_ms": 2228,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T20:51:10.002152Z",
+      "at": "2025-10-26T22:54:51.575323Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20872,
+      "duration_ms": 5402,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T21:38:20.074564Z",
+      "at": "2025-10-27T00:14:10.674114Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21129,
+      "duration_ms": 4466,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-26T23:21:07.095727Z",
+      "at": "2025-10-27T01:13:19.471043Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20928,
+      "duration_ms": 2667,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T00:21:19.216334Z",
+      "at": "2025-10-27T02:27:53.569903Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20840,
+      "duration_ms": 3365,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T01:32:10.209718Z",
+      "at": "2025-10-27T03:27:16.460107Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20959,
+      "duration_ms": 5359,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T03:08:01.051604Z",
+      "at": "2025-10-27T04:28:06.811714Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21155,
+      "duration_ms": 4682,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T04:28:33.310048Z",
+      "at": "2025-10-27T05:44:27.619058Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21164,
+      "duration_ms": 2861,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T05:24:46.073992Z",
+      "at": "2025-10-27T06:20:23.391572Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21617,
+      "duration_ms": 3821,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T06:50:36.028698Z",
+      "at": "2025-10-27T06:51:51.491566Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21023,
+      "duration_ms": 2768,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T08:21:28.193302Z",
+      "at": "2025-10-27T08:02:11.206519Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21830,
+      "duration_ms": 4308,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T09:42:42.426841Z",
+      "at": "2025-10-27T08:59:25.230604Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 21540,
+      "duration_ms": 2402,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T10:47:41.968285Z",
+      "at": "2025-10-27T10:22:53.833843Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20990,
+      "duration_ms": 2228,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-10-27T11:45:10.460325Z",
+      "at": "2025-10-27T11:37:23.288945Z",
       "ok": true,
       "count": 0,
-      "duration_ms": 20920,
+      "duration_ms": 2162,
       "renderer_used": true,
       "error_kind": null
     }
@@ -407,14 +407,14 @@
   "scrape_health": {
     "status": "suspect",
     "reason": "EMPTY_STREAK",
-    "first_zero_at": "2025-10-09T16:10:19.309414Z",
-    "consecutive_zero_attempts": 295,
-    "flagged_until": "2025-10-28T11:45:10.460325Z",
-    "last_nonzero_at": "2025-10-02T11:01:13.686572Z",
-    "last_nonzero_count": 1,
-    "baseline_nonzero_count": 1,
-    "last_success_at": "2025-10-02T11:01:13.686572Z",
-    "last_success_count": 1
+    "first_zero_at": "2025-10-15T13:19:27.350263Z",
+    "consecutive_zero_attempts": 183,
+    "flagged_until": "2025-10-28T11:37:23.288945Z",
+    "last_nonzero_at": "2025-10-15T11:52:38.724611Z",
+    "last_nonzero_count": 2,
+    "baseline_nonzero_count": 2,
+    "last_success_at": "2025-10-15T11:52:38.724611Z",
+    "last_success_count": 2
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,17 +424,27 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-10-27T11:45:10.460325Z",
-  "last_success_at": "2025-10-02T11:01:13.686572Z",
-  "next_scrape_at": "2025-10-27T12:52:57.989047Z",
+  "last_scraped": "2025-10-27T11:37:23.288945Z",
+  "last_success_at": "2025-10-15T11:52:38.724611Z",
+  "next_scrape_at": "2025-10-27T12:16:01.003661Z",
   "content": [
     {
-      "title": "Senior Manager, Engineering - Snyk Code",
-      "link": "https://job-boards.greenhouse.io/snyk/jobs/8071417002",
+      "title": "Senior Account Executive",
+      "link": "https://apply.workable.com/latticeflow/j/09DCDF9342/",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T21:17:31.570596Z"
+          "at": "2025-09-09T16:06:52.262549Z"
+        }
+      ]
+    },
+    {
+      "title": "VP or Director of Engineering",
+      "link": "https://apply.workable.com/latticeflow/j/001E48AE6D/",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T13:49:50.774637Z"
         }
       ]
     }

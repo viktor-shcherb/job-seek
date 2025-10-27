@@ -1,0 +1,506 @@
+{
+  "title": "KPMG Zurich",
+  "icon_url": "https://recruitingapp-2791.umantis.com/pubhtml/logoNew.png",
+  "website_url": "https://kpmg.com/ch/en/careers/jobs.html?&filter=30:40697;90:1085747",
+  "attempts": [
+    {
+      "at": "2025-10-25T02:51:22.248100Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 7201,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T07:47:35.276881Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 0,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T09:02:22.711723Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4776,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T09:36:25.173165Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4259,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:48:17.253126Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5358,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T11:58:38.348363Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4396,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T13:28:07.875703Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4119,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:21:47.596757Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3484,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:03:31.614587Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4195,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:38:00.414180Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3927,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:36:06.842697Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4115,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:07:15.275766Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4770,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:42:14.672634Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3961,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T18:50:58.865605Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5180,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:26:57.204617Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3343,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:56:02.990434Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3837,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:35:05.658941Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4143,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:46:04.259970Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3436,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:40:27.743989Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5398,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:45:36.145463Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3844,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:43:06.996772Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3916,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:11:36.553591Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5352,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:49:46.079756Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 8263,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:16:00.247236Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5196,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:57:22.987849Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5870,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:40:23.955941Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5779,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:01:50.877701Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4684,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:02:34.172846Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5087,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:48:38.694100Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4798,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:09:01.965606Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5472,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:31:44.386834Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 20401,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:13:59.320524Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5058,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:11:38.264579Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3585,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:09:20.755848Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5900,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:17:06.242808Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4003,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:33:34.416642Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3715,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:33:05.709352Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 6311,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:35:46.580958Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3725,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:36:57.414266Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 7105,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:39:07.057237Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 25329,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:53:43.806528Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 7033,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:27:53.569903Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5058,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:43:35.744830Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4474,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:06:06.775989Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3625,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:01:44.462488Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 8417,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:50:36.028698Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5418,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:02:11.206519Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 5619,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:59:14.576152Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4869,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:16:44.217537Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 4177,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:18:58.108516Z",
+      "ok": true,
+      "count": 6,
+      "duration_ms": 3973,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:18:58.108516Z",
+    "last_nonzero_count": 6,
+    "baseline_nonzero_count": 6,
+    "last_success_at": "2025-10-27T11:18:58.108516Z",
+    "last_success_count": 6
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:18:58.108516Z",
+  "last_success_at": "2025-10-27T11:18:58.108516Z",
+  "next_scrape_at": "2025-10-27T12:34:24.597636Z",
+  "content": [
+    {
+      "title": "Graduate - IT Audit Financial Services",
+      "link": "https://jobs.kpmg.ch/job-vacancies/graduate-it-audit-financial-services/dead497e-5857-438f-a561-359429a4b755",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T11:38:46.067127Z"
+        }
+      ]
+    },
+    {
+      "title": "Operations Analyst – AI Center of Excellence",
+      "link": "https://jobs.kpmg.ch/job-vacancies/operations-analyst-ai-center-of-excellence/fb8ac624-17f1-4b44-94d7-05e4866ac064",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T02:51:22.248100Z"
+        }
+      ]
+    },
+    {
+      "title": "Organisational Change Management Expert (OCM) - COO Office",
+      "link": "https://jobs.kpmg.ch/job-vacancies/organisational-change-management-expert-ocm-coo-office/fab5c5c9-6cec-4086-9ee7-9006eb5dcfb3",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T14:49:52.588312Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Systems AI Architect",
+      "link": "https://jobs.kpmg.ch/job-vacancies/software-systems-ai-architect/5ad770ef-aa65-4042-bfd2-5ffe4ae9b5fd",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-25T02:51:22.248100Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Systems Engineer - AI",
+      "link": "https://jobs.kpmg.ch/job-vacancies/software-systems-engineer-ai/e7080f33-dbd8-425d-b624-f121d6b891d1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T11:38:46.067127Z"
+        }
+      ]
+    },
+    {
+      "title": "Solutions Analyst - AI",
+      "link": "https://jobs.kpmg.ch/job-vacancies/solutions-analyst-ai/638f2180-40df-4114-9a31-4563a5e66e22",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T11:38:46.067127Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Systems Cloud & AI Architect",
+      "link": "https://jobs.kpmg.ch/job-vacancies/software-systems-cloud-ai-architect/5ad770ef-aa65-4042-bfd2-5ffe4ae9b5fd",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T11:38:46.067127Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-25T02:51:22.248100Z"
+        }
+      ]
+    }
+  ]
+}

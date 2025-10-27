@@ -1,0 +1,812 @@
+{
+  "title": "Swisscom",
+  "icon_url": "https://upload.wikimedia.org/wikipedia/fr/2/24/Logo_Swisscom.svg",
+  "website_url": "https://swisscom.wd103.myworkdayjobs.com/en/SwisscomExternalCareers?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+  "attempts": [
+    {
+      "at": "2025-10-25T08:25:28.454852Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4055,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T09:24:27.828540Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4533,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:45:53.408748Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4984,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T12:05:22.268296Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4919,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T13:24:43.203460Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4916,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:11:55.600578Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4041,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:18:15.671004Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4661,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T16:23:08.431471Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4367,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:50:51.519292Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4442,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:10:19.825361Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4687,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:02:20.803997Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4403,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T20:35:04.351593Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4106,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:25:50.179895Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4733,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:57:21.151694Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5208,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:58:20.174125Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4511,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:13:24.728930Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4675,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:58:23.087252Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4577,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:29:30.224327Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4742,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:34:24.917471Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4697,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:14:52.883173Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4382,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:16:56.142216Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4346,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:50:16.830844Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5695,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:23:12.395066Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4508,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:40:22.053495Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5756,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:57:43.780640Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4768,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:19:55.458920Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4613,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:17:17.987616Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4528,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:49:38.860123Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4530,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:47:22.746758Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4289,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:51:20.039208Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4398,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:25:07.193228Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4566,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:45:23.309238Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 6562,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:00:09.904161Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4786,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:03:09.805334Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4504,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:47:42.692037Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4322,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:18:48.220199Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4129,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:11:23.579785Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4413,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:41.810372Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 7969,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:25:12.189141Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4771,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:38:07.706831Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4173,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:58:20.565342Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4693,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:32:10.209718Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 5204,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:50.012182Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 7680,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:11:11.543226Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 6500,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:43:16.340125Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 26080,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:50:36.028698Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 9284,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:28.193302Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 6789,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:25:06.414268Z",
+      "ok": true,
+      "count": 15,
+      "duration_ms": 4199,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:51:10.422819Z",
+      "ok": true,
+      "count": 16,
+      "duration_ms": 4375,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:42:38.855247Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 493,
+      "renderer_used": null,
+      "error_kind": "Error"
+    }
+  ],
+  "scrape_health": {
+    "status": "suspect",
+    "reason": "ZERO_SPIKE",
+    "first_zero_at": "2025-10-27T11:42:38.855247Z",
+    "consecutive_zero_attempts": 1,
+    "flagged_until": "2025-10-28T11:42:38.855247Z",
+    "last_nonzero_at": "2025-10-27T10:51:10.422819Z",
+    "last_nonzero_count": 16,
+    "baseline_nonzero_count": 15,
+    "last_success_at": "2025-10-27T10:51:10.422819Z",
+    "last_success_count": 16
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:42:38.855247Z",
+  "last_success_at": "2025-10-27T10:51:10.422819Z",
+  "next_scrape_at": "2025-10-27T12:05:01.703413Z",
+  "content": [
+    {
+      "title": "Cloud & DevOps Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer-II_R-0002421?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-15T12:47:24.502399Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer_R-0002317?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:31:31.095246Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer_R-0002910-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T09:09:58.388573Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer CaaS",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer-CaaS_R-0002404?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer Finnova",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer-Finnova_R-0002983-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-09T11:37:08.674311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T14:53:37.304376Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-23T12:38:24.587969Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer SW Distribution",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer-SW-Distribution_R-0003402?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:51:10.422819Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer Virtualisierung",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer-Virtualisierung_R-0002401?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "ICT System Engineer Citrix",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/ICT-System-Engineer-Citrix-Workplace_R-0001415-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "Ingénieur DevOps Télécom",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Ingnieur-DevOps-Tlcom_R-0000335?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Projects Modern Workspace Solutions",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Lead-Transition---Pre-Sales-Modern-Workspace-Solutions_R-0003299-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T13:27:00.420507Z"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft M365 Expert",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Microsoft-M365-Expert_R-0003277?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:31:31.095246Z"
+        }
+      ]
+    },
+    {
+      "title": "Modern Workplace Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Modern-Workplace-Engineer_R-0000022?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Cyber Security Analyst (SOC/CSIRT)",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Senior-Cyber-Security-Analyst--SOC-CSIRT-_R-0002557?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T10:59:03.404908Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Microsoft Security Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Senior-Microsoft-Security-Engineer_R-0001101?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Security Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Senior-Security-Engineer_R-0002797-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T05:52:44.790187Z"
+        }
+      ]
+    },
+    {
+      "title": "System Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Application-Manager-Avanti_R-0001559-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Native Software Engineer (Senior) (w/m/x)",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Cloud-Native-Software-Engineer--Senior---w-m-x-_R-0001624?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:32:55.401434Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer (Virtualization)",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevOps-Engineer-III_R-0002137?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T11:25:42.062592Z"
+        }
+      ]
+    },
+    {
+      "title": "DevSecOps Engineer ServiceNow",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/DevSecOps-Engineer-ServiceNow_R-0001713?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T14:12:23.390233Z"
+        }
+      ]
+    },
+    {
+      "title": "ICT Engineer & Project Manager Video Security",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/ICT-Engineer---Project-Manager-Video-Security_R-0001590?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:23:24.829043Z"
+        }
+      ]
+    },
+    {
+      "title": "ICT Support Engineer Security",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/ICT-Support-Engineer-Security_R-0003156-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-29T08:04:38.408866Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T11:10:28.145263Z"
+        }
+      ]
+    },
+    {
+      "title": "ICT System Engineer Voice",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/ICT-System-Engineer-Voice_R-0000447?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:31:31.095246Z"
+        }
+      ]
+    },
+    {
+      "title": "IT Consultant & Full Stack Software Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/IT-Consultant---Full-Stack-Software-Engineer_R-0002294-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:32:55.401434Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T22:25:32.946403Z"
+        }
+      ]
+    },
+    {
+      "title": "IT System Administrator",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/IT-System-Administrator_R-0002462-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-05T23:42:58.931445Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:31:31.095246Z"
+        }
+      ]
+    },
+    {
+      "title": "Junior Technical Manager Power Systems",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/ICT-System-Engineer_R-0002715-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-11T08:08:45.403989Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-23T10:23:24.829043Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:31:31.095246Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior ICT Security Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/ICT-Security-Engineer_R-0002381?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:32:55.401434Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Java Developer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Senior-Java-Developer_R-0000055?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-09T11:37:08.674311Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-12T09:56:01.663808Z"
+        }
+      ]
+    },
+    {
+      "title": "Solution & System Engineer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Solution---System-Engineer_R-0000633?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T12:49:36.755180Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-25T09:59:50.392041Z"
+        }
+      ]
+    },
+    {
+      "title": "Solution Train Engineer Modern Workspace Solutions",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Solution-Train-Engineer-Modern-Workspace-Solutions_R-0002937-1?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:31:31.095246Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-18T13:50:52.599307Z"
+        }
+      ]
+    },
+    {
+      "title": "WebMethods Developer",
+      "link": "https://swisscom.wd103.myworkdayjobs.com/en-US/SwisscomExternalCareers/details/Software-Engineer_R-0003027?jobFamilyGroup=788b5ebbd1fe100714cd561ed9180000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-23T10:23:24.829043Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-24T14:47:23.846014Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-14T11:53:42.872632Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-23T09:35:23.159471Z"
+        }
+      ]
+    }
+  ]
+}

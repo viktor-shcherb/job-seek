@@ -1,405 +1,405 @@
 {
   "title": "Smallpdf Zurich",
-  "icon_url": "https://smallpdf.com/favicon.png",
+  "icon_url": "https://s.smallpdf.com/static/40d7d8365bc6e925.svg",
   "website_url": "https://jobs.ashbyhq.com/smallpdf?locationId=70d2c83a-6594-4055-92ae-9b50821e81c0",
   "attempts": [
     {
-      "at": "2025-09-01T19:35:46.492877Z",
+      "at": "2025-10-25T08:57:10.607423Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3905,
+      "duration_ms": 3694,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:37:28.849662Z",
+      "at": "2025-10-25T10:21:23.443915Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4153,
+      "duration_ms": 4054,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:10:57.901433Z",
+      "at": "2025-10-25T11:05:59.084576Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3565,
+      "duration_ms": 4057,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:40:18.641430Z",
+      "at": "2025-10-25T11:59:54.186372Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3629,
+      "duration_ms": 3477,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:08:26.064609Z",
+      "at": "2025-10-25T13:14:13.145348Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3621,
+      "duration_ms": 3873,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:42:14.314313Z",
+      "at": "2025-10-25T13:52:10.960653Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 5721,
+      "duration_ms": 4228,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:00:59.971884Z",
+      "at": "2025-10-25T14:46:51.808932Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4538,
+      "duration_ms": 3675,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:16.936163Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 79,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:10:44.406772Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 102,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:28.473984Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:49.600416Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 103,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:02:23.225330Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 77,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:20:05.630162Z",
+      "at": "2025-10-25T15:47:27.014567Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4679,
+      "duration_ms": 3916,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:53:52.823841Z",
+      "at": "2025-10-25T17:09:12.005925Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4186,
+      "duration_ms": 3241,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:57:12.707748Z",
+      "at": "2025-10-25T18:09:56.722733Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4455,
+      "duration_ms": 3955,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:29.075890Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 96,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:27.620944Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 56,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:43.852745Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 50,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:28:15.600253Z",
+      "at": "2025-10-25T18:57:17.688509Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 3549,
+      "duration_ms": 4103,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:06:30.772001Z",
+      "at": "2025-10-25T20:12:17.217150Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4367,
+      "duration_ms": 4302,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:23.762947Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 91,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T16:39:35.617208Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:19:10.995912Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:37:26.474684Z",
+      "at": "2025-10-25T21:15:12.868544Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 8952,
+      "duration_ms": 3992,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:45.256133Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 57,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:42:53.733247Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:06.771046Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 77,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:43:56.093591Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:27.562542Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:55.777097Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 67,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:54.895074Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 77,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:55.508559Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 59,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:36.362047Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 57,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:58.769998Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 66,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:01:02.597265Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:07.276500Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:02:01.538042Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 52,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:03:01.654842Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:03:59.656448Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 53,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:26:13.207951Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:04:59.162428Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 62,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:05:59.185544Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:27:55.944652Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:56.878098Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:56.966796Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:41.438225Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:10.077624Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:37:54.531022Z",
+      "at": "2025-10-25T22:30:19.493451Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4467,
+      "duration_ms": 4553,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:10:20.517877Z",
+      "at": "2025-10-25T23:01:23.154849Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 7844,
+      "duration_ms": 3551,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:55:16.896204Z",
+      "at": "2025-10-25T23:45:20.473297Z",
       "ok": true,
       "count": 1,
-      "duration_ms": 4105,
+      "duration_ms": 3995,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:16:00.791336Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4075,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:55:25.408003Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3904,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:17:14.457986Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3736,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:21:07.393890Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 116,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-26T03:39:50.729070Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6303,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:16:56.142216Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7508,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:20:41.389398Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 9233,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:58:03.312474Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3770,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:58:10.742911Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3655,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:24:40.678290Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5759,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:40:45.694980Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3734,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:47:47.568869Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3956,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:44:29.635790Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3775,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:49:09.477971Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4038,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:29:46.305186Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4176,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:18:35.405154Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3673,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:09:35.262463Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4204,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:47:34.689660Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4015,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:34:40.787908Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3923,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:52:37.628048Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3817,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:16:07.858773Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3751,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:03:54.362847Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4604,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:01:50.630368Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4029,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:20:39.702144Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3817,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:21.897598Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4691,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:32:10.209718Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3799,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:50.012182Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 6441,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:43:24.047995Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7115,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:42:33.190791Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 25641,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:02:54.824177Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3730,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:15:24.844317Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4220,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:41:19.323319Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4942,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:01:16.669577Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5459,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:35:59.297476Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 3742,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,10 +410,10 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T14:55:16.896204Z",
+    "last_nonzero_at": "2025-10-27T11:35:59.297476Z",
     "last_nonzero_count": 1,
     "baseline_nonzero_count": 1,
-    "last_success_at": "2025-09-03T14:55:16.896204Z",
+    "last_success_at": "2025-10-27T11:35:59.297476Z",
     "last_success_count": 1
   },
   "policy": {
@@ -424,10 +424,34 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T14:55:16.896204Z",
-  "last_success_at": "2025-09-03T14:55:16.896204Z",
-  "next_scrape_at": "2025-09-03T16:14:14.144271Z",
+  "last_scraped": "2025-10-27T11:35:59.297476Z",
+  "last_success_at": "2025-10-27T11:35:59.297476Z",
+  "next_scrape_at": "2025-10-27T13:01:45.851780Z",
   "content": [
+    {
+      "title": "Business Insights Analyst",
+      "link": "https://jobs.ashbyhq.com/smallpdf/3de21f14-6ca1-4b03-acc7-1395ca0cedb1",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:33:44.337468Z"
+        }
+      ]
+    },
+    {
+      "title": "Head of Sales (Pdftools)",
+      "link": "https://jobs.ashbyhq.com/smallpdf/18d25799-8990-4a7f-8548-9cd4641a387f",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T12:49:16.696689Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:33:44.337468Z"
+        }
+      ]
+    },
     {
       "title": "Senior/Staff Product Manager",
       "link": "https://jobs.ashbyhq.com/smallpdf/2972b6d2-90b3-4a0d-aa8b-37bae3681c10",
@@ -435,6 +459,10 @@
         {
           "status": "active",
           "at": "2025-09-01T12:20:56.960946Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T12:49:16.696689Z"
         }
       ]
     },

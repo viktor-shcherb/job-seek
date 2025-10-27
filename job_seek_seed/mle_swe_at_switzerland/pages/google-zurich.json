@@ -4,402 +4,402 @@
   "website_url": "https://www.google.com/about/careers/applications/jobs/results/?location=Zurich%2C%20Switzerland",
   "attempts": [
     {
-      "at": "2025-08-31T23:05:02.355789Z",
+      "at": "2025-10-25T06:22:54.561142Z",
       "ok": true,
-      "count": 27,
-      "duration_ms": 1453,
+      "count": 18,
+      "duration_ms": 1358,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-08-31T23:47:05.864908Z",
+      "at": "2025-10-25T07:47:23.453606Z",
       "ok": true,
-      "count": 27,
-      "duration_ms": 1346,
+      "count": 18,
+      "duration_ms": 996,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T01:31:52.311634Z",
+      "at": "2025-10-25T08:29:37.220039Z",
       "ok": true,
-      "count": 27,
-      "duration_ms": 1676,
+      "count": 18,
+      "duration_ms": 879,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T05:33:38.590370Z",
+      "at": "2025-10-25T09:41:36.622174Z",
       "ok": true,
-      "count": 27,
-      "duration_ms": 1671,
+      "count": 18,
+      "duration_ms": 933,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T08:56:51.357800Z",
+      "at": "2025-10-25T11:06:04.149417Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1544,
+      "count": 18,
+      "duration_ms": 891,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T10:23:01.721077Z",
+      "at": "2025-10-25T11:37:42.643582Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1574,
+      "count": 18,
+      "duration_ms": 863,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:47:57.772965Z",
+      "at": "2025-10-25T12:38:12.490774Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1551,
+      "count": 18,
+      "duration_ms": 945,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T12:52:54.317443Z",
+      "at": "2025-10-25T13:15:03.843512Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1466,
+      "count": 18,
+      "duration_ms": 876,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:43:12.782107Z",
+      "at": "2025-10-25T14:31:42.937884Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1470,
+      "count": 18,
+      "duration_ms": 900,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:45:37.167505Z",
+      "at": "2025-10-25T15:01:55.468960Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1395,
+      "count": 18,
+      "duration_ms": 883,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:58:54.844692Z",
+      "at": "2025-10-25T15:58:35.694902Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1335,
+      "count": 18,
+      "duration_ms": 879,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:57:24.358074Z",
+      "at": "2025-10-25T16:56:41.419633Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1303,
+      "count": 18,
+      "duration_ms": 912,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T18:16:21.392844Z",
+      "at": "2025-10-25T17:26:59.912007Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1462,
+      "count": 18,
+      "duration_ms": 913,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:24:17.656773Z",
+      "at": "2025-10-25T18:50:19.106179Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1390,
+      "count": 18,
+      "duration_ms": 937,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:47:45.584560Z",
+      "at": "2025-10-25T20:04:20.282550Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1330,
+      "count": 18,
+      "duration_ms": 1023,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:10:20.509653Z",
+      "at": "2025-10-25T20:59:25.968831Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1877,
+      "count": 18,
+      "duration_ms": 895,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:23:43.592026Z",
+      "at": "2025-10-25T22:26:46.222247Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1552,
+      "count": 18,
+      "duration_ms": 874,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:49:57.115388Z",
+      "at": "2025-10-25T23:27:55.073785Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1365,
+      "count": 18,
+      "duration_ms": 918,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:07:09.993308Z",
+      "at": "2025-10-26T00:20:13.798629Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1112,
+      "count": 18,
+      "duration_ms": 917,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:59:29.642716Z",
+      "at": "2025-10-26T01:49:57.299474Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1439,
+      "count": 18,
+      "duration_ms": 865,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:45:30.003278Z",
+      "at": "2025-10-26T02:41:48.596943Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1470,
+      "count": 18,
+      "duration_ms": 909,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:13.075383Z",
+      "at": "2025-10-26T03:12:26.186723Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 885,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T06:10:40.613966Z",
+      "at": "2025-10-26T04:16:44.120428Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 1050,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T07:25:45.729961Z",
+      "at": "2025-10-26T05:40:40.069898Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 1456,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:47:15.404717Z",
+      "at": "2025-10-26T06:39:56.864551Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1285,
+      "count": 18,
+      "duration_ms": 1123,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:57:37.693228Z",
+      "at": "2025-10-26T07:56:57.336567Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1265,
+      "count": 18,
+      "duration_ms": 928,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T11:18:10.063339Z",
+      "at": "2025-10-26T09:24:40.678290Z",
       "ok": true,
-      "count": 26,
-      "duration_ms": 1284,
+      "count": 18,
+      "duration_ms": 1351,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:25.285332Z",
+      "at": "2025-10-26T10:49:32.751083Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 1,
+      "count": 18,
+      "duration_ms": 889,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:07:41.151578Z",
+      "at": "2025-10-26T11:48:28.773198Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 885,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:34:21.707520Z",
+      "at": "2025-10-26T12:48:03.008528Z",
       "ok": true,
-      "count": 27,
-      "duration_ms": 1778,
+      "count": 18,
+      "duration_ms": 1072,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:39:34.460122Z",
+      "at": "2025-10-26T13:45:52.410570Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 875,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:01.376048Z",
+      "at": "2025-10-26T15:11:11.917987Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 58,
+      "count": 18,
+      "duration_ms": 922,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:42.537867Z",
+      "at": "2025-10-26T16:29:54.310774Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 3,
+      "count": 18,
+      "duration_ms": 900,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T20:22:03.007911Z",
+      "at": "2025-10-26T17:35:48.023500Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 915,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T21:32:24.783181Z",
+      "at": "2025-10-26T18:36:30.675344Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 12,
+      "count": 18,
+      "duration_ms": 1189,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T22:45:51.960570Z",
+      "at": "2025-10-26T19:58:21.838022Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 25,
+      "count": 18,
+      "duration_ms": 1090,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T23:46:51.057958Z",
+      "at": "2025-10-26T20:34:31.339769Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 873,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T00:52:52.929243Z",
+      "at": "2025-10-26T21:36:32.245242Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 4,
+      "count": 18,
+      "duration_ms": 892,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T01:58:33.467164Z",
+      "at": "2025-10-26T22:36:57.414266Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 1,
+      "count": 18,
+      "duration_ms": 942,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T03:20:54.955074Z",
+      "at": "2025-10-26T23:57:56.964669Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 1,
+      "count": 18,
+      "duration_ms": 839,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T05:07:03.536287Z",
+      "at": "2025-10-27T00:53:43.806528Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 2,
+      "count": 18,
+      "duration_ms": 1231,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T07:02:57.899289Z",
+      "at": "2025-10-27T02:09:07.227558Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 1,
+      "count": 18,
+      "duration_ms": 1006,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T08:03:56.966350Z",
+      "at": "2025-10-27T03:07:46.141385Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 5,
+      "count": 18,
+      "duration_ms": 1151,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T09:04:56.532014Z",
+      "at": "2025-10-27T04:28:06.811714Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 5,
+      "count": 18,
+      "duration_ms": 1773,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T10:05:56.598671Z",
+      "at": "2025-10-27T05:43:02.461636Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 13,
+      "count": 18,
+      "duration_ms": 1956,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T12:07:53.219243Z",
+      "at": "2025-10-27T06:50:19.781918Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 4,
+      "count": 18,
+      "duration_ms": 2962,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T13:20:07.460277Z",
+      "at": "2025-10-27T07:21:50.330067Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 3,
+      "count": 18,
+      "duration_ms": 884,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:10:47.454696Z",
+      "at": "2025-10-27T08:59:14.576152Z",
       "ok": true,
-      "count": 29,
-      "duration_ms": 1383,
+      "count": 17,
+      "duration_ms": 977,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:08:32.482284Z",
+      "at": "2025-10-27T09:42:14.912491Z",
       "ok": true,
-      "count": 29,
-      "duration_ms": 1322,
+      "count": 17,
+      "duration_ms": 1091,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:42:37.296737Z",
+      "at": "2025-10-27T11:18:46.713363Z",
       "ok": true,
-      "count": 29,
-      "duration_ms": 1383,
+      "count": 17,
+      "duration_ms": 2837,
       "renderer_used": false,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:42:37.296737Z",
-    "last_nonzero_count": 29,
-    "baseline_nonzero_count": 26,
-    "last_success_at": "2025-09-03T15:42:37.296737Z",
-    "last_success_count": 29
+    "last_nonzero_at": "2025-10-27T11:18:46.713363Z",
+    "last_nonzero_count": 17,
+    "baseline_nonzero_count": 18,
+    "last_success_at": "2025-10-27T11:18:46.713363Z",
+    "last_success_count": 17
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,10 +424,194 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:42:37.296737Z",
-  "last_success_at": "2025-09-03T15:42:37.296737Z",
-  "next_scrape_at": "2025-09-03T16:20:28.293374Z",
+  "last_scraped": "2025-10-27T11:18:46.713363Z",
+  "last_success_at": "2025-10-27T11:18:46.713363Z",
+  "next_scrape_at": "2025-10-27T12:02:37.852795Z",
   "content": [
+    {
+      "title": "Director, Product Management, Commerce Safety",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125366693978350278-director-product-management-commerce-safety",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T22:56:42.919865Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager Lead, YouTube, Ask Studio",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/126596115079275206-product-manager-lead-youtube-ask-studio",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T10:34:00.417201Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, Studio Messaging",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/78823576500609734-product-manager-studio-messaging",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-21T21:13:31.304192Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager, YouTube Shopping, Search",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/133349732108903110-product-manager-youtube-shopping-search",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-21T10:14:50.726251Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, SOLA, Geo Map The World",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/137828313551774406-research-engineer-sola-geo-map-the-world",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T12:10:10.810290Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, AI/ML, LLM Modeling",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129959101315588806-senior-software-engineer-aiml-llm-modeling",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:14.194515Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff Systems Engineer, Site Reliability Engineering",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/93774277798437574-senior-staff-systems-engineer-site-reliability-engineering",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior UX Researcher, PSS UX",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/131291186496185030-senior-ux-researcher-pss-ux",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer II, Google Safe Search",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/106165773843473094-software-engineer-ii-google-safe-search",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer II, Search",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88907414132138694-software-engineer-ii-search",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Cloud Applied AI",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104775469710090950-software-engineer-cloud-applied-ai",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-24T15:38:05.287615Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Manager II, Site Reliability Engineering",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/77817226068927174-software-engineering-manager-ii-site-reliability-engineering",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T17:01:19.448583Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, SiteKit",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129639447703495366-staff-software-engineer-sitekit",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T14:40:07.550958Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff UX Program Manager, YouTube Ads",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/89083198553629382-staff-ux-program-manager-youtube-ads",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Strategic Partnerships Development Manager, Platforms and Devices (German, English)",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129882228917183174-strategic-partnerships-development-manager-platforms-and-devices-german-english",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-13T14:58:31.853055Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Program Manager, Compliance, Audit and Policy",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125409806457414342-technical-program-manager-compliance-audit-and-policy",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-18T13:49:05.289493Z"
+        }
+      ]
+    },
+    {
+      "title": "UX Researcher, YouTube Studio Content",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136279881204802246-ux-researcher-youtube-studio-content",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T22:23:39.545673Z"
+        }
+      ]
+    },
+    {
+      "title": "AI Infrastructure TPU GTM Lead, Google Cloud",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/141595146972996294-ai-infrastructure-tpu-gtm-lead-google-cloud",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:14.194515Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:20:59.518820Z"
+        }
+      ]
+    },
     {
       "title": "Apprenticeship in Application Development, Informatiker:in EFZ, August 2026",
       "link": "https://www.google.com/about/careers/applications/jobs/results/77652377976349382-apprenticeship-in-application-development-informatikerin-efz-august-2026",
@@ -435,6 +619,10 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -445,6 +633,10 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -455,6 +647,24 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Engineering Analyst, Account and Device Intelligence",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/130569416168350406-engineering-analyst-account-and-device-intelligence",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:14.194515Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T18:40:01.242729Z"
         }
       ]
     },
@@ -465,6 +675,24 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T09:17:12.737461Z"
+        }
+      ]
+    },
+    {
+      "title": "Group Product Manager, Compute Engine, SAP",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99737862974382790-group-product-manager-compute-engine-sap",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-05T15:56:41.527969Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -475,6 +703,10 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-04T17:01:19.448583Z"
         }
       ]
     },
@@ -485,6 +717,24 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:30:14.194515Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Engineer, SOLA, Geo Map The World",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/83489035325973190-research-engineer-sola-geo-map-the-world",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-08T10:32:57.637733Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T19:52:31.758117Z"
         }
       ]
     },
@@ -495,6 +745,38 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T15:38:05.287615Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Differentiable and Generative Rendering",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/142181764880573126-research-scientist-differentiable-and-generative-rendering",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-11T10:29:39.451594Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T11:30:50.492157Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist, Paradigms of Intelligence",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/103255371933459142-research-scientist-paradigms-of-intelligence",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:58:06.240376Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -505,6 +787,10 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:20:59.518820Z"
         }
       ]
     },
@@ -515,6 +801,10 @@
         {
           "status": "active",
           "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -525,196 +815,10 @@
         {
           "status": "active",
           "at": "2025-09-03T14:10:47.454696Z"
-        }
-      ]
-    },
-    {
-      "title": "Senior Staff Software Engineer, Gemini AI",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/129809211788796614-senior-staff-software-engineer-gemini-ai",
-      "history": [
+        },
         {
-          "status": "active",
-          "at": "2025-08-28T18:22:16.443908Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer II, Machine Learning, Google Search",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/76827108331922118-software-engineer-ii-machine-learning-google-search",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer II, YouTube Trust and Safety",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/122380287387542214-software-engineer-ii-youtube-trust-and-safety",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, AI/ML",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/132525933222339270-software-engineer-iii-aiml",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-26T08:10:40.596989Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, AI/ML, Creator Reputation",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/88042395370693318-software-engineer-iii-aiml-creator-reputation",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, AI/ML, Google Search",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/77139638069666502-software-engineer-iii-aiml-google-search",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, AI/ML, Quality",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/140266679765476038-software-engineer-iii-aiml-quality",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-29T17:28:31.473984Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Approximation Algorithms",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/127985220782564038-software-engineer-iii-approximation-algorithms",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T18:22:16.443908Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Body Modeling and Generative Animation",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/143044732258263750-software-engineer-iii-body-modeling-and-generative-animation",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Front End, Youtube",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/119361182002750150-software-engineer-iii-front-end-youtube",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-03T14:10:47.454696Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Full Stack, YouTube",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/114683243210384070-software-engineer-iii-full-stack-youtube",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-29T15:51:13.532776Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Full Stack, YouTube Feed Ads",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/93346568312103622-software-engineer-iii-full-stack-youtube-feed-ads",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software engineer III, Malware Protection, Core",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/91833224774197958-software-engineer-iii-malware-protection-core",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-03T14:10:47.454696Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, ML Applications, Search Verticals",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/91717181200310982-software-engineer-iii-ml-applications-search-verticals",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T18:22:16.443908Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Search Ads Quality",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/96771614678360774-software-engineer-iii-search-ads-quality",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-28T18:22:16.443908Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Server Foundations",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/77141567583724230-software-engineer-iii-server-foundations",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-02T15:34:21.707520Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Server Intelligence",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/134887001299002054-software-engineer-iii-server-intelligence",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-29T13:25:13.327716Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineer III, Video Ads",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/126397595785274054-software-engineer-iii-video-ads",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
-        }
-      ]
-    },
-    {
-      "title": "Software Engineering PhD Intern, 2026",
-      "link": "https://www.google.com/about/careers/applications/jobs/results/105181343448474310-software-engineering-phd-intern-2026",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
+          "status": "inactive",
+          "at": "2025-09-04T19:49:54.829657Z"
         }
       ]
     },
@@ -733,6 +837,48 @@
       ]
     },
     {
+      "title": "Senior Software Engineer, Computer Vision",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/116036228775584454-senior-software-engineer-computer-vision",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-08T10:32:57.637733Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-09T23:53:48.741268Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff Software Engineer, Gemini AI",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/138336334094705350-senior-staff-software-engineer-gemini-ai",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T10:54:58.286307Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-27T08:59:14.576152Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff Software Engineer, Gemini AI",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129809211788796614-senior-staff-software-engineer-gemini-ai",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T18:22:16.443908Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T10:54:58.286307Z"
+        }
+      ]
+    },
+    {
       "title": "Senior Staff Software Engineer, Gemini AI",
       "link": "https://www.google.com/about/careers/applications/jobs/results/111406591453864646-senior-staff-software-engineer-gemini-ai",
       "history": [
@@ -743,6 +889,20 @@
         {
           "status": "inactive",
           "at": "2025-08-26T08:10:40.596989Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Staff Systems Engineer, Site Reliability Engineering",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75468102296314566-senior-staff-systems-engineer-site-reliability-engineering",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-05T12:33:21.334079Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
         }
       ]
     },
@@ -775,6 +935,20 @@
       ]
     },
     {
+      "title": "Software Engineer II, Machine Learning, Google Search",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/76827108331922118-software-engineer-ii-machine-learning-google-search",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T20:22:30.177361Z"
+        }
+      ]
+    },
+    {
       "title": "Software Engineer II, Search Qualification Platform",
       "link": "https://www.google.com/about/careers/applications/jobs/results/74545215024571078-software-engineer-ii-search-qualification-platform",
       "history": [
@@ -785,6 +959,132 @@
         {
           "status": "inactive",
           "at": "2025-08-26T08:10:40.596989Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer II, YouTube Trust and Safety",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/117352699065705158-software-engineer-ii-youtube-trust-and-safety",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T15:34:22.543806Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-20T20:48:01.924042Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer II, YouTube Trust and Safety",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122380287387542214-software-engineer-ii-youtube-trust-and-safety",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T20:22:30.177361Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, AI/ML",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/132525933222339270-software-engineer-iii-aiml",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-26T08:10:40.596989Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-01T22:23:39.545673Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, AI/ML, Creator Reputation",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88042395370693318-software-engineer-iii-aiml-creator-reputation",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T13:40:56.349910Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, AI/ML, Google Search",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/77139638069666502-software-engineer-iii-aiml-google-search",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, AI/ML, LLM Modeling",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/116317948565430982-software-engineer-iii-aiml-llm-modeling",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-05T16:53:42.310788Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-08T16:39:52.497348Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, AI/ML, Quality",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140266679765476038-software-engineer-iii-aiml-quality",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T17:28:31.473984Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-05T12:33:21.334079Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Approximation Algorithms",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/127985220782564038-software-engineer-iii-approximation-algorithms",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T18:22:16.443908Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:20:59.518820Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Body Modeling and Generative Animation",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/143044732258263750-software-engineer-iii-body-modeling-and-generative-animation",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-03T20:14:55.661702Z"
         }
       ]
     },
@@ -803,6 +1103,132 @@
       ]
     },
     {
+      "title": "Software Engineer III, Cloud, Applied AI",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/127783088347325126-software-engineer-iii-cloud-applied-ai",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-24T05:40:54.779588Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-11T00:51:54.498242Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Content Publishing",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/95038842335044294-software-engineer-iii-content-publishing",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-04T11:43:29.228345Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-10T16:40:31.742286Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Front End, Youtube",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/119361182002750150-software-engineer-iii-front-end-youtube",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T14:10:47.454696Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-14T21:02:15.282803Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Full Stack, YouTube",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114683243210384070-software-engineer-iii-full-stack-youtube",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T15:51:13.532776Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T13:40:56.349910Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Full Stack, YouTube Feed Ads",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/107308295273751238-software-engineer-iii-full-stack-youtube-feed-ads",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T21:12:54.443296Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Full Stack, YouTube Feed Ads",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/93346568312103622-software-engineer-iii-full-stack-youtube-feed-ads",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Software engineer III, Malware Protection, Core",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/91833224774197958-software-engineer-iii-malware-protection-core",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-03T14:10:47.454696Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-10T21:12:54.443296Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, ML Applications, Search Verticals",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/91717181200310982-software-engineer-iii-ml-applications-search-verticals",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T18:22:16.443908Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-11T17:44:48.523502Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Search Ads Quality",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96771614678360774-software-engineer-iii-search-ads-quality",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T18:22:16.443908Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T13:40:56.349910Z"
+        }
+      ]
+    },
+    {
       "title": "Software Engineer III, Security/Privacy",
       "link": "https://www.google.com/about/careers/applications/jobs/results/87073543358948038-software-engineer-iii-securityprivacy",
       "history": [
@@ -817,6 +1243,118 @@
       ]
     },
     {
+      "title": "Software Engineer III, Server Foundations",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/77141567583724230-software-engineer-iii-server-foundations",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-02T15:34:21.707520Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Server Intelligence",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/134887001299002054-software-engineer-iii-server-intelligence",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T13:25:13.327716Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T10:50:11.535262Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Video Ads",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/126397595785274054-software-engineer-iii-video-ads",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T13:40:56.349910Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer III, Video, Ads Quality, YouTube",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75252068125680326-software-engineer-iii-video-ads-quality-youtube",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:11.987741Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T18:40:01.242729Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering PhD Intern, 2026",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/105181343448474310-software-engineering-phd-intern-2026",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T15:38:05.287615Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2026",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/93991924192420550-software-engineering-site-reliability-engineering-bsms-intern-2026",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-12T16:08:12.796436Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T15:38:05.287615Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, AI/ML",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104292595798024902-staff-software-engineer-aiml",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-12T07:03:07.063251Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:11.987741Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, AI/ML GenAI, Google Cloud Platforms",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/82936154386506438-staff-software-engineer-aiml-genai-google-cloud-platforms",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:14.194515Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T17:07:11.731619Z"
+        }
+      ]
+    },
+    {
       "title": "Staff Software Engineer, Computer Vision",
       "link": "https://www.google.com/about/careers/applications/jobs/results/111296459634025158-staff-software-engineer-computer-vision",
       "history": [
@@ -827,6 +1365,48 @@
         {
           "status": "inactive",
           "at": "2025-08-29T11:26:53.532821Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Search Ads",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118295592026677958-staff-software-engineer-search-ads",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-05T14:22:04.515886Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-30T19:52:31.758117Z"
+        }
+      ]
+    },
+    {
+      "title": "Staff Software Engineer, Site Reliability Engineering",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/72204920899412678-staff-software-engineer-site-reliability-engineering",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:14.194515Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:20:59.518820Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Writer, Commerce Merchant",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/89506150826812102-technical-writer-commerce-merchant",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T10:54:58.286307Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T18:40:01.242729Z"
         }
       ]
     },
@@ -855,6 +1435,34 @@
         {
           "status": "inactive",
           "at": "2025-08-28T21:52:48.965807Z"
+        }
+      ]
+    },
+    {
+      "title": "UX Research Manager, YouTube Shopping",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/123448236911272646-ux-research-manager-youtube-shopping",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T12:47:31.733166Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T17:07:11.731619Z"
+        }
+      ]
+    },
+    {
+      "title": "UX Researcher, YouTube Studio, Sidekick",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/106280447322792646-ux-researcher-youtube-studio-sidekick",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T20:06:29.591230Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T18:40:01.242729Z"
         }
       ]
     }

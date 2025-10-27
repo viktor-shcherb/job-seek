@@ -1,0 +1,176 @@
+{
+  "title": "Neural Concept Lausanne",
+  "icon_url": "https://app.ashbyhq.com/api/images/org-theme-wordmark/fb2bf955-2c00-4de1-9424-17ef6f593d35/8540a6c1-d427-4dfc-b86d-585c26685021/2a309fa8-fdb7-4175-a9af-e40eee1c528c.png",
+  "website_url": "https://jobs.ashbyhq.com/neuralconcept?locationId=36db9913-69bf-4cca-8499-a4c3d7607bf4",
+  "attempts": [
+    {
+      "at": "2025-10-27T10:13:27.640429Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 24577,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:00:56.485570Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 262,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T11:18:58.108516Z",
+      "ok": true,
+      "count": 12,
+      "duration_ms": 28114,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:18:58.108516Z",
+    "last_nonzero_count": 12,
+    "baseline_nonzero_count": 12,
+    "last_success_at": "2025-10-27T11:18:58.108516Z",
+    "last_success_count": 12
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:18:58.108516Z",
+  "last_success_at": "2025-10-27T11:18:58.108516Z",
+  "next_scrape_at": "2025-10-27T12:15:47.606379Z",
+  "content": [
+    {
+      "title": "Product Designer",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/3a78f6f6-b095-41a6-bcd2-6e96dc1fd612",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Engineer | AI Developer Automation",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/4621f2c8-a685-4de8-8a14-52f5901f2a63",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Engineer | AI for CAD/CAE Automation",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/ef7233e5-63ab-4407-a84b-0857fd6af837",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Engineer | CAD/CAE Integration & Automation",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/633510b1-20a7-4140-9420-4f8cef90a1dc",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Engineer | Front End",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/acf490b9-e5a3-41a6-922b-7aebaeb2d00c",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Engineer | Full-Stack",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/b81fdc7c-9295-4f96-a88d-04a8c7fcefc3",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Product Manager (Vertical Solutions)",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/37cacf02-ae8a-4c97-951f-a2bb2cf48092",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Manager, Sales & Partner Enablement",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/d504f70e-d8d4-4d76-8884-29f0cf6e3404",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Product Engineer | Front End",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/7665c546-7b3e-43ff-a34d-7744442a4ed2",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "Team Lead Vertical Solutions",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/38865873-8515-4e1c-9dc2-391ad8004d32",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "User Empowerment Engineer | AI Vertical Solutions",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/f6b66f42-fc18-4fdd-94c2-0b8dd55213ae",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    },
+    {
+      "title": "User Empowerment Engineer | Full-Stack & LLM",
+      "link": "https://jobs.ashbyhq.com/neuralconcept/029d7e62-26b3-48b1-b472-71d76bfd45c0",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:13:27.640429Z"
+        }
+      ]
+    }
+  ]
+}

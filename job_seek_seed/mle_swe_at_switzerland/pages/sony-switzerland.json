@@ -4,402 +4,402 @@
   "website_url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
   "attempts": [
     {
-      "at": "2025-09-01T18:34:54.041907Z",
+      "at": "2025-10-25T07:49:41.544322Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6477,
+      "count": 0,
+      "duration_ms": 23729,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:25:24.686569Z",
+      "at": "2025-10-25T08:25:39.561459Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6733,
+      "count": 4,
+      "duration_ms": 6802,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:32:33.165832Z",
+      "at": "2025-10-25T09:31:44.513381Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6736,
+      "count": 4,
+      "duration_ms": 7370,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:43:14.308556Z",
+      "at": "2025-10-25T10:26:33.116495Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6087,
+      "count": 4,
+      "duration_ms": 6990,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:48:35.105051Z",
+      "at": "2025-10-25T11:18:54.114494Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6464,
+      "count": 4,
+      "duration_ms": 7045,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:54:56.854385Z",
+      "at": "2025-10-25T12:20:11.226764Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 9135,
+      "count": 4,
+      "duration_ms": 9404,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:25:53.190360Z",
+      "at": "2025-10-25T13:23:57.490718Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6897,
+      "count": 4,
+      "duration_ms": 9578,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:42:23.354421Z",
+      "at": "2025-10-25T14:04:48.776758Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6768,
+      "count": 4,
+      "duration_ms": 6910,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:00:59.971884Z",
+      "at": "2025-10-25T14:56:52.471586Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6459,
+      "count": 4,
+      "duration_ms": 7664,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:16.936163Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:10:44.406772Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:28.473984Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:49.600416Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:02:23.225330Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:26:50.312190Z",
+      "at": "2025-10-25T15:42:01.239091Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6962,
+      "count": 4,
+      "duration_ms": 7398,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:50:29.700677Z",
+      "at": "2025-10-25T16:37:39.841970Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 8952,
+      "count": 4,
+      "duration_ms": 7173,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:30.261034Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:28.758041Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:45.012646Z",
+      "at": "2025-10-25T17:20:00.848721Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6496,
+      "count": 4,
+      "duration_ms": 7022,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:22:41.303273Z",
+      "at": "2025-10-25T18:14:13.927759Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 6607,
+      "count": 4,
+      "duration_ms": 7539,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:23.762947Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 66,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T16:39:36.748882Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 71,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:19:12.152875Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:41:40.378672Z",
+      "at": "2025-10-25T19:18:05.583746Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 8262,
+      "count": 4,
+      "duration_ms": 7034,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T18:36:03.706617Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:10:46.413291Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 78,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:32:04.584364Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:07.943788Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:43:56.093591Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:28.738368Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:56.944635Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:54.895074Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 60,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:56.679197Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:37.510493Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 75,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:59.950725Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:01:02.597265Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 57,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:08.442767Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:02:02.712800Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 67,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:03:01.654842Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 57,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:04:00.815511Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:05:00.332052Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:06:00.351922Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:27:55.944652Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 58,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:58.023200Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 79,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:58.153307Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 73,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:42.591571Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 67,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:11.276223Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 86,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:40:47.731803Z",
+      "at": "2025-10-25T20:14:03.409703Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 6650,
+      "count": 4,
+      "duration_ms": 7096,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:26:16.726340Z",
+      "at": "2025-10-25T20:48:45.562444Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 7190,
+      "count": 4,
+      "duration_ms": 8111,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:18:04.174628Z",
+      "at": "2025-10-25T21:33:13.022954Z",
       "ok": true,
-      "count": 2,
-      "duration_ms": 6781,
+      "count": 4,
+      "duration_ms": 7159,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T22:19:26.391637Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7407,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:13:53.645110Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 6719,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:25:39.772233Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 8093,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:38:15.057166Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 9305,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:05:18.705744Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7711,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:50:16.830844Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 8533,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:43:30.672928Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7754,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:58:38.220367Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7480,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:57:43.780640Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7479,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:41:05.543886Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7099,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:44:44.695059Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7420,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:12:41.233747Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7213,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:28:49.786396Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 9930,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:48:42.728013Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7444,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:07:05.666544Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7629,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:48:35.476992Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 6777,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:52:09.555636Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7902,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:43:29.308841Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7942,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:44:18.806460Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 6994,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:41.810372Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 9406,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:22:18.802028Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7054,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:05:41.308693Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7610,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:38:07.706831Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7556,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:39:35.523683Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 8823,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:31:04.776413Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 23189,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:52:03.667630Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7741,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:50.012182Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 9859,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:11:11.543226Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 8691,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:25:11.329081Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7370,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:53:51.192726Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7675,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:02:57.428393Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 7231,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:25:06.414268Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 6812,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:45:01.819762Z",
+      "ok": true,
+      "count": 4,
+      "duration_ms": 6553,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:18:04.174628Z",
-    "last_nonzero_count": 2,
-    "baseline_nonzero_count": 3,
-    "last_success_at": "2025-09-03T15:18:04.174628Z",
-    "last_success_count": 2
+    "last_nonzero_at": "2025-10-27T10:45:01.819762Z",
+    "last_nonzero_count": 4,
+    "baseline_nonzero_count": 4,
+    "last_success_at": "2025-10-27T10:45:01.819762Z",
+    "last_success_count": 4
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,10 +424,20 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:18:04.174628Z",
-  "last_success_at": "2025-09-03T15:18:04.174628Z",
-  "next_scrape_at": "2025-09-03T16:21:17.901307Z",
+  "last_scraped": "2025-10-27T10:45:01.819762Z",
+  "last_success_at": "2025-10-27T10:45:01.819762Z",
+  "next_scrape_at": "2025-10-27T12:02:02.954282Z",
   "content": [
+    {
+      "title": "Computer Vision Research Intern (m/f)",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Computer-Vision-Research-Intern--m-f-_JR-118310-2?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-10T09:01:25.156902Z"
+        }
+      ]
+    },
     {
       "title": "Reinforcement Learning Research Intern for Game AI",
       "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Reinforcement-Learning-Research-Intern-for-Game-AI_JR-118106-1?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
@@ -439,12 +449,12 @@
       ]
     },
     {
-      "title": "Research Intern – Vision Foundation Model & GenAI",
-      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Research-Intern---Vision-Foundation-Model---GenAI_JR-117567-1?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "title": "Research Intern - Multimodal Foundation Model for Vision",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Research-Intern---Multimodal-Foundation-Model-for-Vision_JR-118245?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-28T21:03:34.730316Z"
+          "at": "2025-09-23T10:23:24.829043Z"
         }
       ]
     },
@@ -459,6 +469,66 @@
         {
           "status": "inactive",
           "at": "2025-09-02T17:41:40.378672Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-15T10:17:04.528388Z"
+        }
+      ]
+    },
+    {
+      "title": "Intern – Machine Learning and Uncertainty Quantification",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Intern---Machine-Learning-and-Uncertainty-Quantification_JR-118300-1?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:25:25.607610Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T11:38:21.100428Z"
+        }
+      ]
+    },
+    {
+      "title": "Intern – Machine Learning for Image Sensor Design",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Intern---Machine-Learning-for-Image-Sensor-Design_JR-118205-1?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-10T16:54:18.285560Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-14T23:01:53.190420Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Intern – Vision Foundation Model & GenAI",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Research-Intern---Vision-Foundation-Model---GenAI_JR-117567-1?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-28T21:03:34.730316Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T12:04:07.182432Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Scientist – AI for Digital Circuit Design",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/details/Research-Scientist---AI-for-Digital-Circuit-Design_JR-118204?locationCountry=187134fccb084a0ea9b4b95f23890dbe",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-10T16:54:18.285560Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-14T23:01:53.190420Z"
         }
       ]
     }

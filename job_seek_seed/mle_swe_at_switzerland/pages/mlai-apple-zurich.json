@@ -4,417 +4,417 @@
   "website_url": "https://jobs.apple.com/en-us/search?location=zurich-ZUR&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learni\\%20ng-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infra\\%20structure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-\\%20SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+internshi\\%20ps-STDNT-INTR",
   "attempts": [
     {
-      "at": "2025-09-01T00:23:09.769838Z",
+      "at": "2025-10-25T10:52:38.153292Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 24725,
+      "count": 14,
+      "duration_ms": 3399,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T05:54:26.856099Z",
+      "at": "2025-10-25T11:46:42.969087Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 4974,
+      "count": 14,
+      "duration_ms": 3359,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T08:57:18.203089Z",
+      "at": "2025-10-25T12:22:30.272470Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 3929,
+      "count": 14,
+      "duration_ms": 3493,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T09:32:59.881839Z",
+      "at": "2025-10-25T13:24:26.644230Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 23391,
+      "count": 14,
+      "duration_ms": 3344,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T10:38:47.188442Z",
+      "at": "2025-10-25T14:18:09.306461Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 5847,
+      "count": 14,
+      "duration_ms": 3318,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:44:35.788610Z",
+      "at": "2025-10-25T15:37:27.714136Z",
       "ok": true,
-      "count": 3,
-      "duration_ms": 4468,
+      "count": 14,
+      "duration_ms": 3533,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:10:21.891529Z",
+      "at": "2025-10-25T16:42:29.978959Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 5314,
+      "count": 14,
+      "duration_ms": 3649,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:20:37.354451Z",
+      "at": "2025-10-25T17:45:04.037387Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3362,
+      "count": 14,
+      "duration_ms": 3312,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:55:42.170170Z",
+      "at": "2025-10-25T19:07:05.452380Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3217,
+      "count": 14,
+      "duration_ms": 3391,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:53:25.538476Z",
+      "at": "2025-10-25T20:16:06.062176Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 23378,
+      "count": 14,
+      "duration_ms": 23662,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T16:55:23.767258Z",
+      "at": "2025-10-25T21:16:54.412854Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3251,
+      "count": 14,
+      "duration_ms": 3342,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T17:41:11.433492Z",
+      "at": "2025-10-25T21:50:04.699598Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 0,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-01T18:13:03.302467Z",
-      "ok": true,
-      "count": 7,
-      "duration_ms": 3340,
+      "count": 14,
+      "duration_ms": 3544,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:42:34.960218Z",
+      "at": "2025-10-25T22:28:12.042136Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 23434,
+      "count": 14,
+      "duration_ms": 23427,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:33:40.704172Z",
+      "at": "2025-10-25T23:30:29.596130Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3326,
+      "count": 14,
+      "duration_ms": 3356,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:23:21.957161Z",
+      "at": "2025-10-26T00:27:37.944126Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3349,
+      "count": 14,
+      "duration_ms": 3255,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:06:13.443719Z",
+      "at": "2025-10-26T01:49:01.907770Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 23486,
+      "count": 14,
+      "duration_ms": 4053,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:40:11.070058Z",
+      "at": "2025-10-26T03:04:51.202102Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3284,
+      "count": 14,
+      "duration_ms": 3347,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:08:07.872722Z",
+      "at": "2025-10-26T03:56:25.459033Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3537,
+      "count": 14,
+      "duration_ms": 4478,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:23:55.328682Z",
+      "at": "2025-10-26T05:08:09.798801Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 3476,
+      "count": 14,
+      "duration_ms": 3815,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:12:41.781902Z",
+      "at": "2025-10-26T06:39:56.864551Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 10488,
+      "count": 14,
+      "duration_ms": 5481,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:22:41.119549Z",
+      "at": "2025-10-26T07:57:22.987849Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 3,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T05:25:15.794380Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 7,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T06:43:26.971858Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 19,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T07:44:25.843636Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 2,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T08:16:28.597133Z",
-      "ok": true,
-      "count": 7,
-      "duration_ms": 17051,
+      "count": 14,
+      "duration_ms": 3300,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:28:48.188441Z",
+      "at": "2025-10-26T08:59:13.096871Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 4979,
+      "count": 14,
+      "duration_ms": 23388,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:27.935540Z",
+      "at": "2025-10-26T09:44:44.695059Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 6,
-      "renderer_used": false,
+      "count": 14,
+      "duration_ms": 3380,
+      "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T13:14:27.620944Z",
+      "at": "2025-10-26T10:16:38.359733Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 6,
-      "renderer_used": false,
+      "count": 14,
+      "duration_ms": 23426,
+      "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:20:20.535224Z",
+      "at": "2025-10-26T10:49:08.121652Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 23620,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:40:12.196350Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3571,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:20:35.696980Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3772,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:48:08.099561Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3449,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:49:20.410331Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3568,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:35:06.561357Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3567,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:16:51.407826Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3483,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:52:37.976962Z",
       "ok": false,
       "count": 0,
-      "duration_ms": 21412,
+      "duration_ms": 21366,
       "renderer_used": null,
       "error_kind": "TimeoutError"
     },
     {
-      "at": "2025-09-02T14:38:58.128713Z",
+      "at": "2025-10-26T17:08:42.115388Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 45976,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T16:18:22.203153Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 57,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T17:27:55.223261Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 4,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T18:36:02.538587Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 11,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T20:22:05.268767Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 20,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T22:45:54.303570Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 19,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-02T23:46:53.729959Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 9,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T00:52:54.054696Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 6,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T02:14:54.647857Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 2,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T03:20:57.275584Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 18,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T05:07:05.822497Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 18,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T07:03:00.170412Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 14,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T08:26:13.207951Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 8,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T10:05:57.744314Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 11,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T11:06:56.878098Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 8,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T12:07:55.822331Z",
-      "ok": true,
-      "count": 0,
-      "duration_ms": 14,
-      "renderer_used": false,
-      "error_kind": null
-    },
-    {
-      "at": "2025-09-03T13:24:27.063555Z",
-      "ok": true,
-      "count": 7,
-      "duration_ms": 24270,
+      "count": 14,
+      "duration_ms": 3373,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:14:17.664805Z",
+      "at": "2025-10-26T18:10:02.946268Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 13467,
+      "count": 14,
+      "duration_ms": 3455,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:44:33.435126Z",
+      "at": "2025-10-26T19:34:43.217212Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3423,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:51:10.002152Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 23843,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:35:24.205093Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3229,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:36:57.414266Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 6543,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:14:10.674114Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 4323,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:54:26.374293Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3625,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:50:35.582960Z",
       "ok": false,
       "count": 0,
-      "duration_ms": 65478,
+      "duration_ms": 1396,
       "renderer_used": null,
-      "error_kind": "TimeoutError"
+      "error_kind": "Error"
     },
     {
-      "at": "2025-09-03T15:05:55.842504Z",
+      "at": "2025-10-27T02:27:53.569903Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 45114,
-      "renderer_used": false,
+      "count": 14,
+      "duration_ms": 3621,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:27:39.221656Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 24717,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T04:12:17.966096Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3405,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:06:06.775989Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3646,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:02:20.934460Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3587,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:01:59.614472Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 7661,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:21:13.572022Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3595,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:42:14.912491Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 4318,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:01:38.401467Z",
+      "ok": true,
+      "count": 14,
+      "duration_ms": 3341,
+      "renderer_used": true,
       "error_kind": null
     }
   ],
   "scrape_health": {
-    "status": "suspect",
-    "reason": "EMPTY_STREAK",
-    "first_zero_at": "2025-09-03T14:44:33.435126Z",
-    "consecutive_zero_attempts": 2,
-    "flagged_until": "2025-09-04T15:05:55.842504Z",
-    "last_nonzero_at": "2025-09-03T14:14:17.664805Z",
-    "last_nonzero_count": 7,
-    "baseline_nonzero_count": 7,
-    "last_success_at": "2025-09-03T14:14:17.664805Z",
-    "last_success_count": 7
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:01:38.401467Z",
+    "last_nonzero_count": 14,
+    "baseline_nonzero_count": 14,
+    "last_success_at": "2025-10-27T11:01:38.401467Z",
+    "last_success_count": 14
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,9 +424,9 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:05:55.842504Z",
-  "last_success_at": "2025-09-03T14:14:17.664805Z",
-  "next_scrape_at": "2025-09-03T16:29:59.366476Z",
+  "last_scraped": "2025-10-27T11:01:38.401467Z",
+  "last_success_at": "2025-10-27T11:01:38.401467Z",
+  "next_scrape_at": "2025-10-27T12:22:04.799481Z",
   "content": [
     {
       "title": "AIML - Machine Learning Research Engineer, Generative AI",
@@ -469,32 +469,102 @@
       ]
     },
     {
-      "title": "Machine Learning Engineer, Machine Learning Platform Technology & Infrastructure",
-      "link": "https://jobs.apple.com/en-us/details/200608896-4170/machine-learning-engineer-machine-learning-platform-technology-infrastructure?team=MLAI",
+      "title": "AIML - Software Engineer (Search), MLPT",
+      "link": "https://jobs.apple.com/en-us/details/200618944-4170/aiml-software-engineer-search-mlpt?team=MLAI",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
+          "at": "2025-09-05T12:34:36.297275Z"
         }
       ]
     },
     {
-      "title": "ML Engineer, Siri Attention & Invocation",
-      "link": "https://jobs.apple.com/en-us/details/200616194-4170/ml-engineer-siri-attention-invocation?team=SFTWR",
+      "title": "AIML -Machine Learning Research, DMLI",
+      "link": "https://jobs.apple.com/en-us/details/200623292-4170/aiml-machine-learning-research-dmli?team=MLAI",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-29T16:16:45.572337Z"
+          "at": "2025-09-29T14:47:27.386222Z"
         }
       ]
     },
     {
-      "title": "Threat Intelligence Analyst, SEAR",
-      "link": "https://jobs.apple.com/en-us/details/200616416-4170/threat-intelligence-analyst-sear?team=SFTWR",
+      "title": "Data & Software Engineer",
+      "link": "https://jobs.apple.com/en-us/details/200619950-4170/data-software-engineer?team=SFTWR",
       "history": [
         {
           "status": "active",
-          "at": "2025-08-23T20:26:16.105451Z"
+          "at": "2025-09-10T20:28:16.650437Z"
+        }
+      ]
+    },
+    {
+      "title": "Internship - Machine Learning (Foundation Models)",
+      "link": "https://jobs.apple.com/en-us/details/200625321-4170/internship-machine-learning-foundation-models?team=MLAI",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-18T13:49:50.632671Z"
+        }
+      ]
+    },
+    {
+      "title": "Internship - Machine Learning Research Scientist, Health",
+      "link": "https://jobs.apple.com/en-us/details/200623859-4170/internship-machine-learning-research-scientist-health?team=MLAI",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:28:29.523872Z"
+        }
+      ]
+    },
+    {
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "link": "https://jobs.apple.com/en-us/details/200627910-4170/internship-computer-vision-machine-learning-research?team=MLAI",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-23T14:42:21.553801Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer - Apple Maps Navigation",
+      "link": "https://jobs.apple.com/en-us/details/200624052-4170/machine-learning-engineer-apple-maps-navigation?team=MLAI",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:28:29.523872Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer - Generative AI , ISE",
+      "link": "https://jobs.apple.com/en-us/details/200621129-4170/machine-learning-engineer-generative-ai-ise?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:31:35.763148Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Intern - Generative AI",
+      "link": "https://jobs.apple.com/en-us/details/200622715-4170/machine-learning-intern-generative-ai?team=MLAI",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-18T13:49:50.632671Z"
+        }
+      ]
+    },
+    {
+      "title": "Research Intern - Human-Centric Computer Vision",
+      "link": "https://jobs.apple.com/en-us/details/200626167-4170/research-intern-human-centric-computer-vision?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T10:16:53.467698Z"
         }
       ]
     },
@@ -541,6 +611,34 @@
       ]
     },
     {
+      "title": "Automation & Frameworks Software Engineer, Siri AI Quality Engineering",
+      "link": "https://jobs.apple.com/en-us/details/200621126-4170/automation-frameworks-software-engineer-siri-ai-quality-engineering?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:31:35.763148Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-27T09:41:55.770839Z"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer, Machine Learning Platform Technology & Infrastructure",
+      "link": "https://jobs.apple.com/en-us/details/200608896-4170/machine-learning-engineer-machine-learning-platform-technology-infrastructure?team=MLAI",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:22:31.212230Z"
+        }
+      ]
+    },
+    {
       "title": "Machine Learning Research Engineer, Generative AI",
       "link": "https://jobs.apple.com/en-us/details/200617882-4170/machine-learning-research-engineer-generative-ai?team=MLAI",
       "history": [
@@ -569,6 +667,34 @@
       ]
     },
     {
+      "title": "Machine Learning Researcher",
+      "link": "https://jobs.apple.com/en-us/details/200625224-4170/machine-learning-researcher?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:28:29.523872Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T23:26:19.085518Z"
+        }
+      ]
+    },
+    {
+      "title": "ML Engineer, Siri Attention & Invocation",
+      "link": "https://jobs.apple.com/en-us/details/200616194-4170/ml-engineer-siri-attention-invocation?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-29T16:16:45.572337Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-05T20:51:04.480022Z"
+        }
+      ]
+    },
+    {
       "title": "Senior Machine Learning Research Scientist, Generative AI",
       "link": "https://jobs.apple.com/en-us/details/200617889-4170/senior-machine-learning-research-scientist-generative-ai?team=MLAI",
       "history": [
@@ -579,6 +705,34 @@
         {
           "status": "inactive",
           "at": "2025-09-03T13:24:27.063555Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer - Apple Maps, Traffic",
+      "link": "https://jobs.apple.com/en-us/details/200623169-4170/software-engineer-apple-maps-traffic?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T11:38:44.435058Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T16:16:46.911958Z"
+        }
+      ]
+    },
+    {
+      "title": "Threat Intelligence Analyst, SEAR",
+      "link": "https://jobs.apple.com/en-us/details/200616416-4170/threat-intelligence-analyst-sear?team=SFTWR",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-23T20:26:16.105451Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-15T12:46:34.427220Z"
         }
       ]
     }

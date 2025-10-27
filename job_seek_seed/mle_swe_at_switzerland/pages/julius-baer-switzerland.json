@@ -4,402 +4,402 @@
   "website_url": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/DevOps-Platform-Engineer-100---f-m-d-_r-16067-1?jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000&Location_Country=187134fccb084a0ea9b4b95f23890dbe",
   "attempts": [
     {
-      "at": "2025-09-01T19:54:13.749847Z",
+      "at": "2025-10-25T08:05:42.682759Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 6705,
+      "count": 0,
+      "duration_ms": 23241,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T20:41:08.289746Z",
+      "at": "2025-10-25T08:51:42.799486Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5531,
+      "count": 20,
+      "duration_ms": 6008,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:16:54.871261Z",
+      "at": "2025-10-25T10:00:18.602014Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5448,
+      "count": 20,
+      "duration_ms": 6111,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:10:57.901433Z",
+      "at": "2025-10-25T11:08:08.777561Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 6135,
+      "count": 20,
+      "duration_ms": 5915,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:48:03.421622Z",
+      "at": "2025-10-25T12:15:10.459640Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5980,
+      "count": 20,
+      "duration_ms": 5925,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T23:40:11.070058Z",
+      "at": "2025-10-25T12:58:55.677283Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5565,
+      "count": 20,
+      "duration_ms": 5932,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:31:31.727908Z",
+      "at": "2025-10-25T14:11:06.530486Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5777,
+      "count": 20,
+      "duration_ms": 6424,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:04:47.354629Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 575,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T02:25:13.307731Z",
+      "at": "2025-10-25T15:13:50.874890Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5289,
+      "count": 20,
+      "duration_ms": 6609,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:45:30.003278Z",
+      "at": "2025-10-25T16:00:14.938622Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5301,
+      "count": 20,
+      "duration_ms": 6095,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:14.228648Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 86,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:10:41.740106Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 78,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T06:43:25.801932Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:25:46.851707Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T07:44:25.843636Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 89,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T08:05:37.519858Z",
+      "at": "2025-10-25T16:45:20.173280Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5864,
+      "count": 20,
+      "duration_ms": 6518,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:36:41.023980Z",
+      "at": "2025-10-25T18:14:22.476440Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5453,
+      "count": 20,
+      "duration_ms": 5782,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:20:23.305527Z",
+      "at": "2025-10-25T19:10:43.643261Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5426,
+      "count": 20,
+      "duration_ms": 5521,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T12:13:26.391303Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 67,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T13:14:26.068337Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 81,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:07:42.297129Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 78,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T14:25:27.789424Z",
+      "at": "2025-10-25T19:45:20.564037Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5534,
+      "count": 20,
+      "duration_ms": 5715,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T15:34:21.707520Z",
+      "at": "2025-10-25T20:49:09.780067Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5941,
+      "count": 20,
+      "duration_ms": 6216,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:19:08.271428Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T17:41:30.154912Z",
+      "at": "2025-10-25T21:23:00.445164Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 6228,
+      "count": 20,
+      "duration_ms": 5866,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:43.692374Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 74,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T19:30:11.358725Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 63,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:22:04.132462Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T20:43:53.427561Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 70,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T21:32:26.043424Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 78,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T22:45:53.172666Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 69,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-02T23:46:52.190802Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 73,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T00:52:52.929243Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 68,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T01:58:34.579323Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 157,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T03:20:56.136353Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T04:00:59.842907Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 168,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T05:07:04.678205Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 80,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T06:01:58.849626Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 103,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T07:02:59.030804Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 77,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T08:03:56.966350Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 72,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T09:04:56.532014Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 51,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:05:56.598671Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 71,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T10:27:54.474679Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 84,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T11:06:55.356308Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 76,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:07:54.309558Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 83,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T12:48:39.822829Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 90,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:20:08.622538Z",
-      "ok": false,
-      "count": 0,
-      "duration_ms": 99,
-      "renderer_used": null,
-      "error_kind": "Error"
-    },
-    {
-      "at": "2025-09-03T13:38:02.011673Z",
+      "at": "2025-10-25T22:37:46.618836Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5830,
+      "count": 20,
+      "duration_ms": 5867,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:50:11.621914Z",
+      "at": "2025-10-25T23:47:22.039934Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5665,
+      "count": 20,
+      "duration_ms": 5721,
       "renderer_used": true,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:39:05.986705Z",
+      "at": "2025-10-26T01:03:14.425276Z",
       "ok": true,
-      "count": 15,
-      "duration_ms": 5276,
+      "count": 20,
+      "duration_ms": 5844,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:32:45.846010Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6471,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:39:31.311355Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7258,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:08:09.798801Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 11399,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:55:28.798744Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 7466,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T06:58:03.312474Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6733,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:15:51.962987Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5634,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:59:42.734724Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5863,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:44:31.352143Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5536,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:13:18.653789Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5976,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:28:16.605346Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6014,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:41:48.066703Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6276,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:17:31.402595Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6082,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:57:31.783036Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5874,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:20:24.735766Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6015,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:13:40.653118Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5890,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:38:40.133885Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5741,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:58:21.838022Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 9502,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:50:44.817445Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8822,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:21:17.293638Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6094,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:15:50.863020Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6008,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:21:41.161503Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6024,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T00:30:05.560641Z",
+      "ok": true,
+      "count": 0,
+      "duration_ms": 24567,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:51:40.608789Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5958,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:45:31.254739Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 13689,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:42:58.853627Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 1341,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T04:10:20.545912Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 9968,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:01:00.969725Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 12832,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:32:21.367962Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 9358,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T07:45:14.996456Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 10113,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T09:24:41.094786Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 8408,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:27:07.655583Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 5720,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:47:17.185145Z",
+      "ok": true,
+      "count": 20,
+      "duration_ms": 6112,
       "renderer_used": true,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:39:05.986705Z",
-    "last_nonzero_count": 15,
-    "baseline_nonzero_count": 15,
-    "last_success_at": "2025-09-03T15:39:05.986705Z",
-    "last_success_count": 15
+    "last_nonzero_at": "2025-10-27T11:47:17.185145Z",
+    "last_nonzero_count": 20,
+    "baseline_nonzero_count": 20,
+    "last_success_at": "2025-10-27T11:47:17.185145Z",
+    "last_success_count": 20
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,27 +424,113 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:39:05.986705Z",
-  "last_success_at": "2025-09-03T15:39:05.986705Z",
-  "next_scrape_at": "2025-09-03T16:53:43.938625Z",
+  "last_scraped": "2025-10-27T11:47:17.185145Z",
+  "last_success_at": "2025-10-27T11:47:17.185145Z",
+  "next_scrape_at": "2025-10-27T13:05:40.662483Z",
   "content": [
     {
-      "title": "Application Support Engineer – Securities Finance (FIS SFTC/APEX/Finace) 100% (f/m/d)",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Support-Engineer---Securities-Finance--FIS-SFTC-APEX-Finace--100---f-m-d-_r-16294-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "title": "Application Engineer 80% - 100% (f/m/d) - (Contract through our external payroll partner for 12 months with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Engineer-80----100---f-m-d-----Contract-through-our-external-payroll-partner-for-12-months-with-possible-extension-_r-16725-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
+          "at": "2025-10-09T16:09:38.891760Z"
         }
       ]
     },
     {
-      "title": "Cloud Platform Engineer 100% (f/m/d)",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Cloud-Platform-Engineer-100---f-m-d-_r-15962-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "title": "Application Operation Manager 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Operation-Manager-100---f-m-d-_r-16398-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
+          "at": "2025-09-23T10:21:34.007580Z"
+        }
+      ]
+    },
+    {
+      "title": "Application Operation Manager ETD 100% (f/m/d) (Contract through our external payroll partner with immediate start until 31.12.2026 with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Operation-Manager-ETD-100---f-m-d---Contract-through-our-external-payroll-partner-with-immediate-start-until-31122026-with-possible-extension-_r-16650-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T15:34:37.443375Z"
+        }
+      ]
+    },
+    {
+      "title": "Application Support Engineer – Securities Finance (FIS SFTC/APEX/Finance) 100% (f/m/d)  (Contract through our external payroll partner with immediate start for 12 months with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Support-Engineer---Securities-Finance--FIS-SFTC-APEX-Finance--100---f-m-d----Contract-through-our-external-payroll-partner-with-immediate-start-until-31102026-with-possible-extension-_r-16690-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Application Support – L2 Production Support 100% (f/m/d) (Contract through our external payroll partner with immediate start until 31.12.2026 with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Support---L2-Production-Support-100---f-m-d---Contract-through-our-external-payroll-partner-with-immediate-start-until-31122026-with-possible-extension-_r-16697-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Client Tax Reporting Systems Developer / Solution Engineer 80-100% (m/f/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Client-Tax-Reporting-Systems-Developer---Solution-Engineer-80-100---m-f-d-_r-16448-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Platform Engineer 80%-100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/System-Engineer-100---f-m-d-_r-16276-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-08T10:32:57.637733Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-08T12:25:05.449728Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-09-09T14:07:15.866062Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-11T06:54:22.421285Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-01T12:47:58.728684Z"
+        }
+      ]
+    },
+    {
+      "title": "Data Management Specialist 80% -100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Data-Management-Specialist-80---100---f-m-d-_r-16669-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-22T08:28:37.283065Z"
+        }
+      ]
+    },
+    {
+      "title": "DevOps Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/DevOps-Engineer---Markets-Quant-Team-100---f-m-d-_r-15179-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T11:01:54.538604Z"
         }
       ]
     },
@@ -455,46 +541,24 @@
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-15T16:47:33.728287Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-24T11:08:53.202480Z"
         }
       ]
     },
     {
-      "title": "Front Arena Core Risk Developer (f/m/d) 100%",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Core-Risk-Developer_r-16082-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "title": "IT Service Continuity Manager 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/IT-Service-Continuity-Manager-100---f-m-d-_r-16454-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
-        }
-      ]
-    },
-    {
-      "title": "Front Arena Core Risk Senior Developer (f/m/d) 100%",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Core-Risk-Senior-Developer_r-16085-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
-        }
-      ]
-    },
-    {
-      "title": "Front Arena Market Making Developer (f/m/d) 100%",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Market-Making-Developer_r-16080?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
-        }
-      ]
-    },
-    {
-      "title": "Front Arena Market Making Senior Developer (f/m/d) 100%",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Market-Making-Senior-Developer_r-16081-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
+          "at": "2025-10-17T16:35:32.150547Z"
         }
       ]
     },
@@ -509,12 +573,188 @@
       ]
     },
     {
-      "title": "Java/C++ Software Developer 100% (f/m/d)",
+      "title": "Java/C++ Software Developer, focus FX trading platforms 100%  (f/m/d)",
       "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Java-C---Software-Developer-100---f-m-d-_r-16352-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
       "history": [
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-25T09:58:29.703467Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-13T09:00:21.884532Z"
+        }
+      ]
+    },
+    {
+      "title": "Kubernetes Platform Engineer 100% (f/m/d) (Contract through our external payroll partner with immediate start until 31.12.2026 with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Kubernetes-Platform-Engineer-100---f-m-d---Contract-through-our-external-payroll-partner-with-immediate-start-until-31122026-with-possible-extension-_r-16657-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T12:47:58.728684Z"
+        }
+      ]
+    },
+    {
+      "title": "Kubernetes System Engineer 80%-100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Kubernetes-System-Engineer-80--100---f-m-d-_r-16455-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Lead Software Engineer – DevOps & Agile Delivery 80% - 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Lead-Software-Engineer---DevOps---Agile-Delivery-80----100---f-m-d-_r-16743-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-15T16:47:33.728287Z"
+        }
+      ]
+    },
+    {
+      "title": "Platform Engineer – Observability 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Platform-Engineer---Observability-100---f-m-d-_r-16495-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-25T09:58:29.703467Z"
+        }
+      ]
+    },
+    {
+      "title": "Scala Developer / Markets Quant Team 80% - 100% (f/m/d) - (Contract through our external payroll partner with immediate start for 12 months with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Scala-Developer---Markets-Quant-Team-80----100---f-m-d-----Contract-through-our-external-payroll-partner-with-immediate-start-for-12-months-with-possible-extension-_r-16688-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Senior Test Data Management Engineer 80% - 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Senior-Data-Management-Specialist-and-IT-Architect-100---f-m-d-_r-16290-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer / IT Service Owner - CI/CD Admin Experience (Contract through our external payroll partner with immediate start until 31.12.2026 with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Responsible---Developer-100---f-m-d-----Contract-through-our-external-payroll-partner-with-immediate-start-until-31122026-with-possible-extension-_r-16535?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-18T18:30:42.069879Z"
+        }
+      ]
+    },
+    {
+      "title": "Application Support Engineer – Securities Finance (FIS SFTC/APEX/Finance) 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Application-Support-Engineer---Securities-Finance--FIS-SFTC-APEX-Finace--100---f-m-d-_r-16294-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-23T10:21:34.007580Z"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Platform Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Cloud-Platform-Engineer-100---f-m-d-_r-15962-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-15T15:24:12.021683Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Core Risk Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Core-Risk-Developer_r-16082-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-13T09:00:21.884532Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Core Risk Senior Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Core-Risk-Senior-Developer_r-16085-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Market Making Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Market-Making-Developer_r-16080?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-26T11:01:54.538604Z"
+        }
+      ]
+    },
+    {
+      "title": "Front Arena Market Making Senior Developer (f/m/d) 100%",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Front-Arena-Market-Making-Senior-Developer_r-16081-2?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-12T16:08:12.796436Z"
+        }
+      ]
+    },
+    {
+      "title": "SAP Developer SME Finance 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/SAP-Developer-SME-Finance-100---f-m-d-_r-16379-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-09T14:07:15.866062Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-17T16:35:32.150547Z"
         }
       ]
     },
@@ -525,16 +765,32 @@
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-15T15:24:12.021683Z"
         }
       ]
     },
     {
-      "title": "Senior Data Management Specialist and IT Architect 100% (f/m/d)",
-      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Senior-Data-Management-Specialist-and-IT-Architect-100---f-m-d-_r-16290-3?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "title": "Senior Data Integration Engineer 100% (f/m/d) - (Contract through our external payroll partner with immediate start for 12 months with possible extension)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Senior-Data-Integration-Engineer-100---f-m-d-----Contract-through-our-external-payroll-partner-with-immediate-start-for-12-months-with-possible-extension-_r-16534-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
       "history": [
         {
           "status": "active",
-          "at": "2025-09-01T16:34:39.713134Z"
+          "at": "2025-09-18T18:30:42.069879Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T08:28:37.283065Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-22T14:54:04.434202Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-24T11:08:53.202480Z"
         }
       ]
     },
@@ -545,6 +801,24 @@
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:38.891760Z"
+        }
+      ]
+    },
+    {
+      "title": "Storage DevOps Engineer 100% (f/m/d)",
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/en-CA/External/details/Storage-DevOps-Engineer-100---f-m-d-_r-16578-1?Location_Country=187134fccb084a0ea9b4b95f23890dbe&jobFamilyGroup=e467d78aa6dc01f20f1ab55a7d3d2960&jobFamilyGroup=edc5579a38bb1000752ff2acffc70000",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-30T15:34:37.443375Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-22T14:54:04.434202Z"
         }
       ]
     },
@@ -555,6 +829,10 @@
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:38.891760Z"
         }
       ]
     },
@@ -565,6 +843,10 @@
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:38.891760Z"
         }
       ]
     },
@@ -575,6 +857,10 @@
         {
           "status": "active",
           "at": "2025-09-01T16:34:39.713134Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-09T16:09:38.891760Z"
         }
       ]
     }

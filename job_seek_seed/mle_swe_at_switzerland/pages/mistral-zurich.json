@@ -1,0 +1,456 @@
+{
+  "title": "Mistral Zurich",
+  "icon_url": "https://lever-client-logos.s3.us-west-2.amazonaws.com/bd25b6fb-9adc-4ff5-8305-860f94209570-1739363880453.png",
+  "website_url": "https://jobs.lever.co/mistral?location=Zurich",
+  "attempts": [
+    {
+      "at": "2025-10-24T11:09:18.015611Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 878,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T07:47:36.300558Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 23,
+      "renderer_used": null,
+      "error_kind": "RuntimeError"
+    },
+    {
+      "at": "2025-10-25T08:06:27.745435Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1809,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T09:32:07.998573Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1095,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T10:40:29.839353Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1155,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T11:49:55.172756Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 997,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T12:49:24.534937Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 918,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T14:16:30.776254Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 998,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:14:43.808740Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 4821,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T15:46:06.750484Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1306,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:04:55.819156Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 878,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T17:49:03.171098Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1064,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:10:43.643261Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 914,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T19:49:29.040154Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 871,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:12:10.823791Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 899,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T21:59:11.245433Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2323,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-25T23:15:43.839135Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1137,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T00:32:40.043139Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 930,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T01:40:20.151745Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 918,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T02:19:35.834507Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 962,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T03:03:08.710871Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 924,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T04:49:46.079756Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2990,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T05:40:48.272127Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1372,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T07:15:28.293161Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 2494,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T08:23:40.743139Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1279,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T09:44:31.352143Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 860,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T10:36:39.876621Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 960,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T11:17:25.713821Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 969,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T12:21:50.525714Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 966,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T13:46:01.359468Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1016,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T14:19:59.453508Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 929,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T15:45:33.413843Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1660,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T16:29:33.234746Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 928,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T17:56:55.797551Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1356,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T18:38:46.882241Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 877,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T19:09:12.771691Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 886,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T20:15:59.558762Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1159,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T21:30:39.531024Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 889,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:14:56.273477Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 962,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T22:55:32.684682Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 5063,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-26T23:57:56.964669Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 908,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T01:13:19.471043Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1898,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T02:09:07.227558Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1271,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T03:43:24.047995Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1104,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T05:24:46.073992Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1253,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T06:32:21.367962Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1252,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:02:57.428393Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 1085,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T08:59:25.230604Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 7938,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T10:09:27.802360Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 954,
+      "renderer_used": false,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:35:59.297476Z",
+      "ok": true,
+      "count": 1,
+      "duration_ms": 893,
+      "renderer_used": false,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:35:59.297476Z",
+    "last_nonzero_count": 1,
+    "baseline_nonzero_count": 1,
+    "last_success_at": "2025-10-27T11:35:59.297476Z",
+    "last_success_count": 1
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:35:59.297476Z",
+  "last_success_at": "2025-10-27T11:35:59.297476Z",
+  "next_scrape_at": "2025-10-27T12:35:53.387626Z",
+  "content": [
+    {
+      "title": "AI Scientist - Zurich",
+      "link": "https://jobs.lever.co/mistral/bedfc2aa-f1b6-4136-bd17-b3abe4c06120",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T11:03:04.697085Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer, Knowledge and Search",
+      "link": "https://jobs.lever.co/mistral/70d5293a-9183-40d9-874a-cc08a14d5de6",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-20T11:03:04.697085Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-10-21T13:29:20.992199Z"
+        }
+      ]
+    }
+  ]
+}

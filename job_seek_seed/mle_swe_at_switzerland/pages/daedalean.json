@@ -4,402 +4,402 @@
   "website_url": "https://jobs.lever.co/daedalean?location=Z%C3%BCrich",
   "attempts": [
     {
-      "at": "2025-08-31T23:47:05.864908Z",
+      "at": "2025-10-25T09:06:03.462629Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 4842,
+      "count": 8,
+      "duration_ms": 1205,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T00:41:16.696107Z",
+      "at": "2025-10-25T09:54:21.331609Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 1661,
+      "count": 8,
+      "duration_ms": 1506,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T02:51:19.750882Z",
+      "at": "2025-10-25T11:18:27.844325Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 1504,
+      "count": 8,
+      "duration_ms": 1084,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T04:53:21.803514Z",
+      "at": "2025-10-25T12:25:28.958445Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 1607,
+      "count": 8,
+      "duration_ms": 1140,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T08:55:45.204150Z",
+      "at": "2025-10-25T13:38:26.569444Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 20247,
+      "count": 8,
+      "duration_ms": 1233,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T10:13:33.235620Z",
+      "at": "2025-10-25T14:31:34.836073Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 1358,
+      "count": 8,
+      "duration_ms": 1071,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T11:19:12.998499Z",
+      "at": "2025-10-25T15:42:16.722352Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 11766,
+      "count": 8,
+      "duration_ms": 1159,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T12:35:06.108221Z",
+      "at": "2025-10-25T16:33:50.490823Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1241,
+      "count": 8,
+      "duration_ms": 1295,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T13:35:04.187186Z",
+      "at": "2025-10-25T17:55:13.881994Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1383,
+      "count": 8,
+      "duration_ms": 1180,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:06:01.464703Z",
+      "at": "2025-10-25T18:34:11.466834Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1264,
+      "count": 8,
+      "duration_ms": 1212,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T14:39:03.910438Z",
+      "at": "2025-10-25T20:00:42.076611Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1269,
+      "count": 8,
+      "duration_ms": 1685,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T15:47:58.564949Z",
+      "at": "2025-10-25T20:51:19.636247Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1281,
+      "count": 8,
+      "duration_ms": 1200,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T17:11:31.333832Z",
+      "at": "2025-10-25T21:41:20.001199Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1282,
+      "count": 8,
+      "duration_ms": 1169,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T17:49:13.756922Z",
+      "at": "2025-10-25T22:27:48.682742Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1813,
+      "count": 8,
+      "duration_ms": 1117,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T18:29:56.533464Z",
+      "at": "2025-10-25T23:41:47.560471Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1340,
+      "count": 8,
+      "duration_ms": 1123,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T19:44:08.806816Z",
+      "at": "2025-10-26T01:07:34.771154Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1331,
+      "count": 8,
+      "duration_ms": 1227,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T21:11:41.550058Z",
+      "at": "2025-10-26T02:25:14.338482Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1338,
+      "count": 8,
+      "duration_ms": 2740,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-01T22:48:03.421622Z",
+      "at": "2025-10-26T03:39:31.311355Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1641,
+      "count": 8,
+      "duration_ms": 1335,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T00:12:42.545060Z",
+      "at": "2025-10-26T04:16:44.120428Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1365,
+      "count": 8,
+      "duration_ms": 1620,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T01:25:48.437850Z",
+      "at": "2025-10-26T04:50:07.650601Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 2001,
+      "count": 8,
+      "duration_ms": 1140,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T02:05:16.643628Z",
+      "at": "2025-10-26T05:57:14.920140Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1184,
+      "count": 8,
+      "duration_ms": 1156,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T03:27:45.284090Z",
+      "at": "2025-10-26T06:39:56.864551Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 2846,
+      "count": 8,
+      "duration_ms": 1402,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T04:22:41.119549Z",
+      "at": "2025-10-26T07:15:28.293161Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 63,
+      "count": 8,
+      "duration_ms": 1695,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T05:25:13.075383Z",
+      "at": "2025-10-26T08:40:23.955941Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 49,
+      "count": 8,
+      "duration_ms": 1453,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T06:10:40.613966Z",
+      "at": "2025-10-26T09:19:10.781282Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 59,
+      "count": 8,
+      "duration_ms": 1756,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T07:25:45.729961Z",
+      "at": "2025-10-26T10:46:34.397755Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 58,
+      "count": 8,
+      "duration_ms": 1206,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T08:42:50.722842Z",
+      "at": "2025-10-26T12:15:05.094469Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 3010,
+      "count": 8,
+      "duration_ms": 1157,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T09:28:38.983874Z",
+      "at": "2025-10-26T13:41:55.353467Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1149,
+      "count": 8,
+      "duration_ms": 1098,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T11:18:10.063339Z",
+      "at": "2025-10-26T14:55:51.151477Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1108,
+      "count": 8,
+      "duration_ms": 1166,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T13:14:24.949585Z",
+      "at": "2025-10-26T15:39:11.006185Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 37,
+      "count": 8,
+      "duration_ms": 1099,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:14:31.549387Z",
+      "at": "2025-10-26T16:43:28.799216Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 12445,
+      "count": 8,
+      "duration_ms": 1085,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T14:52:06.337045Z",
+      "at": "2025-10-26T17:39:17.612651Z",
       "ok": true,
-      "count": 6,
-      "duration_ms": 1116,
+      "count": 8,
+      "duration_ms": 1096,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T16:18:21.071559Z",
+      "at": "2025-10-26T18:17:48.496279Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 50,
+      "count": 8,
+      "duration_ms": 1379,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T17:27:55.223261Z",
+      "at": "2025-10-26T19:58:21.838022Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 38,
+      "count": 8,
+      "duration_ms": 1412,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T19:10:42.537867Z",
+      "at": "2025-10-26T21:05:12.390099Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 51,
+      "count": 8,
+      "duration_ms": 1888,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T20:22:03.007911Z",
+      "at": "2025-10-26T21:51:22.196251Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 54,
+      "count": 8,
+      "duration_ms": 1138,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T21:44:53.500466Z",
+      "at": "2025-10-26T22:36:45.652727Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 38,
+      "count": 8,
+      "duration_ms": 1688,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-02T23:46:51.057958Z",
+      "at": "2025-10-26T23:20:39.702144Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 58,
+      "count": 8,
+      "duration_ms": 2314,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T00:52:51.798582Z",
+      "at": "2025-10-26T23:57:44.465228Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 50,
+      "count": 8,
+      "duration_ms": 1354,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T02:14:54.647857Z",
+      "at": "2025-10-27T00:31:28.973165Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 38,
+      "count": 8,
+      "duration_ms": 1111,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T03:20:54.955074Z",
+      "at": "2025-10-27T01:31:37.495046Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 58,
+      "count": 8,
+      "duration_ms": 5658,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T05:07:03.536287Z",
+      "at": "2025-10-27T02:50:13.086632Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 56,
+      "count": 8,
+      "duration_ms": 1249,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T07:02:57.899289Z",
+      "at": "2025-10-27T04:10:10.942717Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 64,
+      "count": 8,
+      "duration_ms": 2220,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T08:26:12.067677Z",
+      "at": "2025-10-27T05:43:02.461636Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 48,
+      "count": 8,
+      "duration_ms": 4266,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T10:05:55.482337Z",
+      "at": "2025-10-27T06:53:45.974343Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 52,
+      "count": 8,
+      "duration_ms": 1192,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T11:06:54.235031Z",
+      "at": "2025-10-27T07:45:14.996456Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 60,
+      "count": 8,
+      "duration_ms": 1950,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T12:48:38.715238Z",
+      "at": "2025-10-27T08:41:19.323319Z",
       "ok": true,
-      "count": 0,
-      "duration_ms": 31,
+      "count": 8,
+      "duration_ms": 1732,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T13:25:39.505361Z",
+      "at": "2025-10-27T09:42:14.912491Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 2055,
+      "count": 8,
+      "duration_ms": 2099,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T14:50:04.398776Z",
+      "at": "2025-10-27T10:53:31.393423Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 1195,
+      "count": 8,
+      "duration_ms": 1270,
       "renderer_used": false,
       "error_kind": null
     },
     {
-      "at": "2025-09-03T15:33:27.570694Z",
+      "at": "2025-10-27T11:35:17.335424Z",
       "ok": true,
-      "count": 7,
-      "duration_ms": 1168,
+      "count": 8,
+      "duration_ms": 1611,
       "renderer_used": false,
       "error_kind": null
     }
@@ -410,11 +410,11 @@
     "first_zero_at": null,
     "consecutive_zero_attempts": 0,
     "flagged_until": null,
-    "last_nonzero_at": "2025-09-03T15:33:27.570694Z",
-    "last_nonzero_count": 7,
-    "baseline_nonzero_count": 6,
-    "last_success_at": "2025-09-03T15:33:27.570694Z",
-    "last_success_count": 7
+    "last_nonzero_at": "2025-10-27T11:35:17.335424Z",
+    "last_nonzero_count": 8,
+    "baseline_nonzero_count": 8,
+    "last_success_at": "2025-10-27T11:35:17.335424Z",
+    "last_success_count": 8
   },
   "policy": {
     "time_flag_duration_s": 86400,
@@ -424,20 +424,10 @@
     "require_two_successful_zeros_to_deactivate": true,
     "manual_override": false
   },
-  "last_scraped": "2025-09-03T15:33:27.570694Z",
-  "last_success_at": "2025-09-03T15:33:27.570694Z",
-  "next_scrape_at": "2025-09-03T16:43:14.004437Z",
+  "last_scraped": "2025-10-27T11:35:17.335424Z",
+  "last_success_at": "2025-10-27T11:35:17.335424Z",
+  "next_scrape_at": "2025-10-27T12:16:42.141344Z",
   "content": [
-    {
-      "title": "(Staff) Avionics Systems Engineer",
-      "link": "https://jobs.lever.co/daedalean/358fa923-27f8-47ef-9309-144f21441554",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-30T18:06:41.113588Z"
-        }
-      ]
-    },
     {
       "title": "Computer Vision Engineer",
       "link": "https://jobs.lever.co/daedalean/d157e3cf-909c-43d9-929c-1d6783ea566f",
@@ -445,6 +435,34 @@
         {
           "status": "active",
           "at": "2025-08-30T18:06:41.113588Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-09T11:35:09.620186Z"
+        },
+        {
+          "status": "active",
+          "at": "2025-10-09T16:09:02.129024Z"
+        }
+      ]
+    },
+    {
+      "title": "ERP Specialist",
+      "link": "https://jobs.lever.co/daedalean/8245607e-85b0-4665-b45e-98d8def513f7",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-26T16:15:48.157885Z"
+        }
+      ]
+    },
+    {
+      "title": "Hardware Engineer",
+      "link": "https://jobs.lever.co/daedalean/046a91a3-57a5-42e3-a78b-c81cc55aeb33",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-01T11:20:41.077045Z"
         }
       ]
     },
@@ -479,22 +497,36 @@
       ]
     },
     {
-      "title": "Technical Project Manager",
-      "link": "https://jobs.lever.co/daedalean/e87fb329-9181-4dda-98b5-72daf8854728",
-      "history": [
-        {
-          "status": "active",
-          "at": "2025-08-30T18:06:41.113588Z"
-        }
-      ]
-    },
-    {
       "title": "Visual Simulation Engineer",
       "link": "https://jobs.lever.co/daedalean/6afbc5fe-243d-45ba-8cef-5f1eca5764d6",
       "history": [
         {
           "status": "active",
           "at": "2025-09-03T13:25:39.505361Z"
+        }
+      ]
+    },
+    {
+      "title": "Working Student - Reinforced Learning Environments (40% FTE+)",
+      "link": "https://jobs.lever.co/daedalean/1c7cce33-7297-472d-b26c-992aef2ce905",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-09-24T09:44:47.048280Z"
+        }
+      ]
+    },
+    {
+      "title": "(Staff) Avionics Systems Engineer",
+      "link": "https://jobs.lever.co/daedalean/358fa923-27f8-47ef-9309-144f21441554",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-18T18:30:05.842060Z"
         }
       ]
     },
@@ -509,6 +541,20 @@
         {
           "status": "inactive",
           "at": "2025-09-01T11:19:12.998499Z"
+        }
+      ]
+    },
+    {
+      "title": "Technical Project Manager",
+      "link": "https://jobs.lever.co/daedalean/e87fb329-9181-4dda-98b5-72daf8854728",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-08-30T18:06:41.113588Z"
+        },
+        {
+          "status": "inactive",
+          "at": "2025-09-29T15:33:04.880464Z"
         }
       ]
     }

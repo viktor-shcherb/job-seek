@@ -1,0 +1,76 @@
+{
+  "title": "Cradle Zurich",
+  "icon_url": "https://app.ashbyhq.com/api/images/org-theme-wordmark/73c2dd2d-2901-4908-88de-9bdcdb72abd1/c1df91c8-88b1-4ee4-975b-2042494da48a/12a864b8-42a6-4969-98d2-81bfe2f8a7e5.png",
+  "website_url": "https://jobs.ashbyhq.com/cradlebio?departmentId=ec3b92f9-db72-4c64-a177-ed2fd58f67de&locationId=17c524aa-7e6b-4b6d-84d3-ed771445f27a",
+  "attempts": [
+    {
+      "at": "2025-10-27T10:23:59.400802Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6686,
+      "renderer_used": true,
+      "error_kind": null
+    },
+    {
+      "at": "2025-10-27T11:18:46.713363Z",
+      "ok": false,
+      "count": 0,
+      "duration_ms": 163,
+      "renderer_used": null,
+      "error_kind": "Error"
+    },
+    {
+      "at": "2025-10-27T11:36:27.721824Z",
+      "ok": true,
+      "count": 2,
+      "duration_ms": 6388,
+      "renderer_used": true,
+      "error_kind": null
+    }
+  ],
+  "scrape_health": {
+    "status": "normal",
+    "reason": "NONE",
+    "first_zero_at": null,
+    "consecutive_zero_attempts": 0,
+    "flagged_until": null,
+    "last_nonzero_at": "2025-10-27T11:36:27.721824Z",
+    "last_nonzero_count": 2,
+    "baseline_nonzero_count": 2,
+    "last_success_at": "2025-10-27T11:36:27.721824Z",
+    "last_success_count": 2
+  },
+  "policy": {
+    "time_flag_duration_s": 86400,
+    "attempt_threshold_for_down": 5,
+    "attempt_window_size": 10,
+    "min_baseline_to_flag": 3,
+    "require_two_successful_zeros_to_deactivate": true,
+    "manual_override": false
+  },
+  "last_scraped": "2025-10-27T11:36:27.721824Z",
+  "last_success_at": "2025-10-27T11:36:27.721824Z",
+  "next_scrape_at": "2025-10-27T12:42:40.240548Z",
+  "content": [
+    {
+      "title": "Machine Learning Researcher in Protein Design (f/m/*)",
+      "link": "https://jobs.ashbyhq.com/cradlebio/49ab4ff1-cf2c-4347-a3a7-23bd5611d37a",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:23:59.400802Z"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer in Machine Learning (f/m/*)",
+      "link": "https://jobs.ashbyhq.com/cradlebio/76e0d7e4-af4e-4804-9dc7-24074542b8e7",
+      "history": [
+        {
+          "status": "active",
+          "at": "2025-10-27T10:23:59.400802Z"
+        }
+      ]
+    }
+  ]
+}
