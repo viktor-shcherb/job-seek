@@ -2,7 +2,9 @@
 
 **Job-seek** is a Streamlit app that scrapes company career pages and ATS job boards, normalizes the results, and shows them in a lightweight dashboard with a **“newest jobs”** overview. It uses a general extractor pipeline (anchors, JSON-LD, repeated blocks, pagination/normalization) and falls back to **headless JS rendering** when a page is a JS shell. A **failure-resistant data model** tracks attempts and health to avoid flakiness across runs.
 
-<img width="1008" height="742" alt="image" src="https://github.com/user-attachments/assets/f2e968ee-59fd-4320-9ae5-a3923fb9e508" />
+<img width="1039" height="735" alt="image" src="https://github.com/user-attachments/assets/3cc3318b-dd14-495d-8b1a-6ec429b649d5" />  
+<img width="1056" height="580" alt="image" src="https://github.com/user-attachments/assets/7c2f5d95-c449-4c0d-ba81-ea31ec2d5fac" />  
+
 
 
 ### Core features
@@ -11,6 +13,8 @@
 * **JS-rendered pages support.** If a page looks like a JS shell, the scraper fetches the **rendered HTML** as a fallback.
 * **Failure resistance.** The data model keeps per-board scrape attempts/health and merges results conservatively to reduce bad updates when the scrapes fail.
 * **Dashboard UI.** A Streamlit interface renders job cards and a simple page to browse results — including a **newest-first** overview.
+
+<img width="765" height="562" alt="image" src="https://github.com/user-attachments/assets/e28b8497-f0c9-44f8-8a4a-3240c33710c9" />  
 
 ### Custom scrapers (when general rules aren’t enough)
 
