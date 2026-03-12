@@ -1,3 +1,8 @@
+> [!NOTE]
+> The scrapers in this repo are not maintained. If you'd like better, faster, stronger scrapers, check out my latest project:  
+> ### **\<job-seek>** ([web](https://jseek.co/)/[code](https://github.com/colophon-group/jobseek))
+> This is an open-source job aggregator that allows you to follow any company with a publicly available job board. Don't see the company you are interested in on the app? Just request to add it in the UI, and a coding agent will handle it in less than 5 minutes. There are paid features, but you can always deploy the app yourself or take the implementation of the scrapers and build your own UI around them. Happy job seeking!
+
 # Job Seek
 
 **Job-seek** is a Streamlit app that scrapes company career pages and ATS job boards, normalizes the results, and shows them in a lightweight dashboard with a **“newest jobs”** overview. It uses a general extractor pipeline (anchors, JSON-LD, repeated blocks, pagination/normalization) and falls back to **headless JS rendering** when a page is a JS shell. A **failure-resistant data model** tracks attempts and health to avoid flakiness across runs.
